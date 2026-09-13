@@ -184,7 +184,7 @@ La configuración de mínima energía está dada por la mayor "multiplicidad", e
 
 ### **Configuración electrónica** (Ejemplos) {: .caja-subtitulo} 
 
-*   **Ejemplo:** Configuración electrónica del Na ($Z = 11$). El sodio en estado fundamental o de mínima energía tiene 11 electrones que se colocan de acuerdo con lo dicho anteriormente, y que cumple el siguiente diagrama (Moeller).
+*   **Ejemplo:** Configuración electrónica del Na ($\ce{Z = 11}$). El sodio en estado fundamental o de mínima energía tiene 11 electrones que se colocan de acuerdo con lo dicho anteriormente, y que cumple el siguiente diagrama (Moeller).
 
 ![...](imagenes/tema01/moeller.png){style="border: 1px solid #320d71; display: block; margin: 0 auto; width: 60%; height: auto;" }
 
