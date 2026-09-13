@@ -167,30 +167,26 @@ Esta gráfica muestra el pozo de energía potencial del átomo de hidrógeno, co
 
 ### **Configuración electrónica** {: .caja-subtitulo}
 
-*   Es la manera en la que se distribuyen los electrones en un átomo.
+Es la manera en la que se distribuyen los electrones en un átomo.
 
 ![...](imagenes/tema01/configuracion.png){ style="display: block; margin: 0 auto; width: 25%; height: auto;" }
 
-*   Se rige por tres principios:
-    1.  **Principio de Aufbau o de mínima energía**.
-    2.  **Principio de exclusión de Pauli**.
-    3.  **Principio de máxima multiplicidad de Hund**.
+Se rige por tres principios: **Principio de Aufbau o de mínima energía**, **principio de exclusión de Pauli** y **principio de máxima multiplicidad de Hund**.
 
 1. **Principio de Aufbau** (mínima energía)
 Los electrones de un átomo en su estado de mínima energía (estado fundamental) empiezan a ocupar los orbitales de menor energía, de modo que la energía total de los electrones sea mínima. (Diagrama de Moeller).
 
-2. **Principio de exclusión de Pauli**.
+1. **Principio de exclusión de Pauli**.
 En 1922 se descubrió el espín, una propiedad intrínseca de las partículas elementales que tiene relación con la rotación de dichas partículas. En particular, para los electrones el espín solo puede adoptar dos valores, que se representan con flechas verticales con sentido hacia arriba y hacia abajo. El principio de exclusión de Pauli afirma que no puede haber dos electrones con el mismo espín en el mismo orbital.
 
-3. **Principio de máxima multiplicidad de Hund**.
+1. **Principio de máxima multiplicidad de Hund**.
 La configuración de mínima energía está dada por la mayor "multiplicidad", es decir, el mayor valor posible en la suma de los espines de los electrones de un nivel de energía. Eso implica que los electrones estarán desapareados en subniveles con la misma energía. A los subniveles con la misma energía se les llama "degenerados".
 
 ### **Configuración electrónica** (Ejemplos) {: .caja-subtitulo} 
 
-*   **Ejemplo:** Configuración electrónica del Na (Z=11). El sodio en estado fundamental o de mínima energía tiene 11 electrones que se colocan de acuerdo con lo dicho anteriormente, y que cumple el siguiente diagrama (Moeller).
+*   **Ejemplo:** Configuración electrónica del Na ($Z = 11$). El sodio en estado fundamental o de mínima energía tiene 11 electrones que se colocan de acuerdo con lo dicho anteriormente, y que cumple el siguiente diagrama (Moeller).
 
-![...](imagenes/tema01/moeller.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
+![...](imagenes/tema01/moeller.png){style="border: 1px solid #320d71; display: block; margin: 0 auto; width: 60%; height: auto;" }
 
 **Configuración electrónica (Oxígeno)**
 
