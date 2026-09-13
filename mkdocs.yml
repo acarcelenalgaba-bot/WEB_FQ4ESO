@@ -1,0 +1,69 @@
+site_name: Física y Química 4º ESO
+site_url: "https://acarcelenalgaba-bot.github.io/WEB_FQ4ESO/"
+site_author: Ángel Carcelén Algaba
+
+theme:
+  name: material
+  language: es
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo claro
+  features:
+    #- navigation.tabs
+    - navigation.sections
+    - content.code.copy
+    - content.code.annotate
+    - navigation.expand
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: false
+      title: "Contenidos"
+      toc_depth: 2
+  - pymdownx.magiclink
+
+
+plugins:
+  - search
+  - kroki
+#  - pdf-with-js
+
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js
+  - javascripts/print-button.js
+  - javascripts/disabled-topics.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Inicio: index.md
+  - Tema 1 - Átomos y enlace químico: tema1-atomos.md
+  - Tema 2 - Química del carbono: tema2-carbono.md
+  - Tema 3 - Formulación inorgánica: tema3-formulacion.md
+  - Tema 4 - Reactividad química: tema4-reactividad.md
+  - Tema 5 - Cinemática: tema5-cinematica.md
+  - Tema 6 - Dinámica: tema6-dinamica.md
+  - Tema 7 - Gravitación y electrostática: tema7-gravitacion.md
+  - Tema 8 - Presión: tema8-presion.md
+  - Tema 9 - Energía: tema9-energia.md
