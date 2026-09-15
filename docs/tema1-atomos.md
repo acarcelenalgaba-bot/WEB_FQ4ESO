@@ -6,9 +6,7 @@
 *   Dalton
 *   Thomson
 *   Rutherford
-    -   Hipótesis de Planck
 *   Bohr
-    -   Hipótesis de De Broglie
 *   Schrödinger
 
 ¿Sabéis qué es un átomo? ¿Conocéis algún modelo atómico? ¿Os suenan estos nombres?
@@ -113,25 +111,14 @@ Plank puso fin a esa discrepancia al enunciar la siguiente hipótesis en 1900:
 1.  Solo funciona bien para átomos hidrogenoides (un electrón).
 2.  Avances en espectroscopía muestran espectros que este modelo no puede explicar (por ejemplo, Efecto Zeeman).
 
-### **Hipótesis de De Broglie** {: .caja-subtitulo}
-
-En 1924 propuso en su tesis doctoral que: una partícula de masa m que se mueva a velocidad v puede, en condiciones experimentales adecuadas, presentarse y comportarse como una onda de longitud de onda $\lambda$. La relación entre estas magnitudes es:
-
-$\ce{\lambda \ = \dfrac {h}{m \cdot v}}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #f9f7fb" }
-
-Esta expresión relaciona magnitudes ondulatorias, longitud de onda, con magnitudes corpusculares como el momento $\ce{p = m \cdot v}$. En 1927 se demostró con la difracción de electrones el comportamiento corpuscular y ondulatorio de los mismos. De Broglie recibió el Premio Nobel de Física en 1929.
-
-![...](imagenes/tema01/broglie.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
 ### **Modelo mecano-cuántico (Schrödinger)** {: .caja-subtitulo}
 
 Recogiendo las aportaciones de De Broglie y Heisenberg entre otros, Schrödinger propone en 1924 una ecuación de ondas para calcular las propiedades de los electrones como ondas, la conocida como ecuación de Schrödinger y en 1926 publica unos artículos en los que propone el **modelo mecano-cuántico**.
 
 Se denota a la función de ondas como $\psi$ y su módulo al cuadrado se interpreta físicamente como la probabilidad de encontrar el electrón.
 
-*   Ahora por tanto, no existen órbitas fijas, sino zonas de mayor probabilidad de encontrar electrones, serán los orbitales atómicos.
-*   Al resolver la ecuación de Schrödinger aparecen de manera natural los números cuánticos.
+*   Ahora por tanto, no existen órbitas fijas, sino zonas de mayor probabilidad de encontrar electrones, serán los **orbitales atómicos**.
+*   Al resolver la ecuación de Schrödinger aparecen de manera natural los **números cuánticos**.
 
 ![...](imagenes/tema01/schrodinger.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
 
@@ -148,6 +135,28 @@ Se denota a la función de ondas como $\psi$ y su módulo al cuadrado se interpr
 
 ![...](imagenes/tema01/linea.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
+Se denomina **orbital** a la región del espacio donde existe una elevada probabilidad de encontrar al electrón. Estos orbitales dependen de tres números cuánticos $\psi$ (n, $l$, $m_l$): 
+
+
+
+**Número cuántico principal, $\boldsymbol{n}$**, relacionado con el tamaño del orbital y que define los niveles de energía, similares a los de Bohr.
+
+$$\boldsymbol{n} = 1, 2, 3,...$$
+
+**Número cuántico secundario, $\boldsymbol{l}$**, relacionado con la forma del orbital y que define los subniveles de energía. Cada número se denomina con una letra: s, p, d, f. 
+
+$$\boldsymbol{l} = 0, 1,... (n - 1)$$
+
+**Número cuántico magnético, $\boldsymbol{\ce{m_l}}$**, relacionado con la orientación del orbital. Es responsable de la existencia de varios orbitales semejantes del mismo tipo.
+
+$$\boldsymbol{\ce{m_l}} = - l ... 0 ... + l$$ 
+
+![...](imagenes/tema01/orbital_ejemplos.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
+
+Existe un último número cuántico denominado **espín** (**s**), propio de los electrones. Solo puede tener dos valores (+ 1/2 y - 1/2), lo que condiciona que en un orbital solo puede hacer dos electrones. Se representa cada uno con una flecha diferente.
+
+![...](imagenes/tema01/spin.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
+
 ## **2. Corteza electrónica. Capas o niveles de energía**
 
 Esta gráfica muestra el pozo de energía potencial del átomo de hidrógeno, con los niveles de energía permitidos según Bohr.
@@ -155,7 +164,7 @@ Esta gráfica muestra el pozo de energía potencial del átomo de hidrógeno, co
 ![...](imagenes/tema01/potencial.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
 1.  Los electrones ocupan los niveles más próximos al núcleo, con menor energía y por tanto más estables.
-2.  El número máximo de electrones que puede haber en cada capa o nivel es $\ce{2n^2}$ siendo n el número cuántico principal.
+2.  El número máximo de electrones que puede haber en cada capa o nivel es $\ce{2n^2}$ siendo n el **número cuántico principal**.
 3.  Los electrones de la última capa se denominan **electrones de valencia** y son los responsables de las propiedades químicas de la materia.
 
 | Nivel | Capa | Número de electrones |
@@ -233,103 +242,7 @@ Se escribe entre corchetes el gas noble anterior y los electrones de valencia, e
 | $\ce{_{19}K}$ | $\ce{1s^2 2s^2 2p^6 3s^2 3p^6 4s^1}$ | $\ce{1s^2 2s^2 2p^6 3s^2 3p^6}$ | $\ce{[Ar] 4s^1}$ |
 
 
-
-## **3. Propiedades periódicas**
-
-La variación de las propiedades periódicas va a depender de dos factores fundamentalmente:
-
-*   La carga nuclear
-*   La configuración electrónica.
-
-Las propiedades periódicas que vamos a estudiar son:
-
-*   Radio atómico.
-*   Carácter metálico.
-*   Afinidad electrónica.
-*   Electronegatividad.
-
-![...](imagenes/tema01/propiedades.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
-
-
-### **Radio atómico** {: .caja-subtitulo}
-
-Se considera al **radio atómico** de un elemento como la mitad de la distancia entre los núcleos de una molécula diatómica de ese elemento en estado sólido.
-
-Tened en cuenta que existen varias definiciones de radio atómico, pues en la práctica depende mucho del tipo de átomo que se estudie y de sus posibles enlaces. Así tenemos radio iónico, covalente, metálico…
-
-Una definición más general es la que considera que el radio atómico es la distancia entre el núcleo y el orbital más externo ocupado por electrones.
-
-![...](imagenes/tema01/distancia.png){ style="display: block; margin: 0 auto; width: 40%; height: auto;" }
-
-**Variación del radio atómico**
-
-*   **En un grupo:** El radio atómico crece según bajamos en un grupo, pues aumenta el número de capas o niveles ocupados.
-*   **En un periodo:** A lo largo de un periodo, vemos como los elementos añaden un protón al núcleo y un electrón en la capa o nivel de valencia, de modo que la atracción del núcleo sobre esa capa de valencia aumenta de izquierda a derecha en un mismo periodo, disminuyendo el radio atómico.
-
-![...](imagenes/tema01/radio.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-En esta gráfica se representa el radio atómico de los primeros 86 elementos de la tabla (desde el H al Rn) en función del número atómico.
-
-![...](imagenes/tema01/valores_radio.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
-
-Se ve claramente como disminuye a lo largo de un periodo y aumenta a lo largo de un grupo (alcalinos y gases nobles)
-
-### **Carácter metálico** {: .caja-subtitulo}
-
-Se denomina **carácter metálico** de un elemento a su capacidad para perder electrones.
-
-![...](imagenes/tema01/caracter.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
-
-### **Afinidad electrónica (AE)** {: .caja-subtitulo}
-
-Es la **variación de energía** que se produce cuando un átomo neutro, en estado gaseoso y estado electrónico fundamental adquiere un electrón, pasando a ser un anión, también en estado gaseoso y fundamental.
-
-$$\ce{F(g) + e^- \rightarrow F^-(g) \hspace{2cm} AE = - 328 kJ/mol}$$
-
-$$\ce{F (1s^2 2s^2 2p^5) + e^- \rightarrow F^- (1s^2 2s^2 2p^5) }$$
-
-La tendencia general es que:
-
-*   Suele ser exotérmica (libera energía).
-*   Aumenta de izquierda a derecha en un periodo.
-*   Aumenta en un grupo desde abajo hacia arriba.
-
-La IUPAC considera que ΔE es positivo cuando hay que suministrar energía y es negativo cuando la energía es liberada.
-
-![...](imagenes/tema01/afinidad.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
-
-### **Electronegatividad (χ)** {: .caja-subtitulo}
-
-La electronegatividad (χ) mide la tendencia de un átomo a atraer hacia sí los electrones compartidos en un enlace covalente.
-
-Electronegatividad y carácter metálico (electropositividad) son conceptos opuestos y, por tanto, a mayor χ menor carácter metálico y viceversa.
-
-χ es un compendio entre $\ce{E_i}$ y AE: aumenta, por tanto, hacia arriba en los grupos y hacia la derecha en los periodos.
-
-![...](imagenes/tema01/afinidad.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
-
-Pauling estableció una escala de electronegatividades entre 0,7 (Fr) y 4 (F).
-
-![...](imagenes/tema01/electronegatividad.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
-
-## **4. Partículas elementales. Modelo estándar**
-
-![...](imagenes/tema01/estandar.png){ style="display: block; margin: 0 auto; width: 65%; height: auto;" }
-
-**FERMIONES (Materia)**
-
-*   **Quarks:** Up (Arriba), Charm (Encanto), Top (Cima), Down (Abajo), Strange (Extraño), Bottom (Fondo).
-*   **Leptones:** Neutrino Electrón, Neutrino Muon, Neutrino Tau, Electrón, Muon, Tau.
-
-**BOSONES (Fuerzas)**
-
-*   Fotón (Electromagnetismo)
-*   Gluón (Fuerza Nuclear Fuerte)
-*   Bosón Z⁰ y W⁺/W⁻ (Fuerza Nuclear Débil)
-*   Higgs (Masa)
-*   Gravitón (Gravedad - Hipotético)
-
-## **5. Enlace químico**
+## **4. Enlace químico**
 
 Dos átomos se enlazan para alcanzar un estado de menor energía, estable.
 
