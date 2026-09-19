@@ -16,7 +16,7 @@
 [Enlace al vídeo](https://www.youtube.com/watch?v=0UW90luAJE0)
 
 ¿Podríais decir al menos una característica de cada modelo de los que se habla en el vídeo?
-¿Echáis en falta algún modelo? Pues sí, en este vídeo no hablan del modelo debido a Schrödinger.
+¿Echáis en falta algún modelo? 
 
 ### **Evolución de los modelos atómicos** {: .caja-subtitulo}
 
