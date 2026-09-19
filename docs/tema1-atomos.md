@@ -137,8 +137,6 @@ Se denota a la función de ondas como $\psi$ y su módulo al cuadrado se interpr
 
 Se denomina **orbital** a la región del espacio donde existe una elevada probabilidad de encontrar al electrón. Estos orbitales dependen de tres números cuánticos $\psi$ (n, $l$, $m_l$): 
 
-
-
 **Número cuántico principal, $\boldsymbol{n}$**, relacionado con el tamaño del orbital y que define los niveles de energía, similares a los de Bohr.
 
 $$\boldsymbol{n} = 1, 2, 3,...$$

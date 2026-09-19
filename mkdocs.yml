@@ -51,6 +51,7 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js
   - javascripts/print-button.js
+  - javascripts/zoom.js
   - javascripts/disabled-topics.js
 
 extra_css:
