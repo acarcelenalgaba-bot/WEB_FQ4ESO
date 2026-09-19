@@ -153,7 +153,7 @@ $$\boldsymbol{\ce{m_l}} = - l ... 0 ... + l$$
 
 ![...](imagenes/tema01/orbital_ejemplos.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
-Existe un último número cuántico denominado **espín** (**s**), propio de los electrones. Solo puede tener dos valores (+ 1/2 y - 1/2), lo que condiciona que en un orbital solo puede hacer dos electrones. Se representa cada uno con una flecha diferente.
+Existe un último número cuántico denominado **espín** (**s**), propio de los electrones. Solo puede tener dos valores (+ 1/2 y - 1/2), lo que condiciona que en un orbital solo puede haber dos electrones. Se representa cada uno con una flecha diferente.
 
 ![...](imagenes/tema01/spin.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
 
