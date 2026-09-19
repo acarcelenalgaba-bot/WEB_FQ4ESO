@@ -1,0 +1,13 @@
+{
+    "yaml.disableSchemaDetection": [
+        "**/.github/workflows/*.yml",
+        "**/.github/workflows/*.yaml",
+        "**/.gitea/workflows/*.yml",
+        "**/.gitea/workflows/*.yaml",
+        "**/.forgejo/workflows/*.yml",
+        "**/.forgejo/workflows/*.yaml"
+    ],
+    "yaml.schemas": {
+        "https://www.schemastore.org/mkdocs-1.6.json": "file:///workspaces/WEB_FQ4ESO/mkdocs.yml"
+    }
+}
