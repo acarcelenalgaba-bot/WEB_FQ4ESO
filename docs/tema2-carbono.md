@@ -1,5 +1,11 @@
 # Tema 2: Química del Carbono
 
+## 1. Introducción
+
+La química orgánica es la rama de la química que se ha especializado en el estudio de los compuestos complejos que forma el carbono, tanto los que utilizan los seres vivos como los que se sintetizan en el laboratorio.
+
+Quizás te preguntes por qué merece el carbono una rama específica para su estudio. La razón es muy sencilla: porque es el elemento que mayor número de compuestos forma, siendo todos ellos muy complejos y variados.
+
 ## 1. Enlaces del Carbono
 
 - **Enlace sencillo (C–C):** se forma por la compartición de un par de electrones.
