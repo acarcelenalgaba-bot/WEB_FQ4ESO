@@ -8,6 +8,11 @@ Quizás te preguntes por qué merece el carbono una rama específica para su est
 
 Para entenderlo, debemos recurrir nuevamente a la configuración electrónica. El carbono pertenece a la familia de los carbonoideos con una configuración $\ce{2s^2 2p^2}$, por lo que posee cuatro electrones de valencia. Para cumplir el octeto podría formar enlaces iónicos ganando o perdiendo electrones, pero requiere demasiada energía.
 
+Sin embargo, compartir sus electrones formando enlaces covalentes es mucho más sencillo y origina diversas posibilidades:
+
+<!-- Imagen del esquema de enlaces del carbono -->
+![Esquema de enlaces covalentes del carbono](ruta/a/la/imagen_esquema_enlaces.png)
+
 ## 1. Enlaces del Carbono
 
 - **Enlace sencillo (C–C):** se forma por la compartición de un par de electrones.
