@@ -10,8 +10,7 @@ Para entenderlo, debemos recurrir nuevamente a la configuración electrónica. E
 
 Sin embargo, compartir sus electrones formando enlaces covalentes es mucho más sencillo y origina diversas posibilidades:
 
-<!-- Imagen del esquema de enlaces del carbono -->
-![Esquema de enlaces covalentes del carbono](ruta/a/la/imagen_esquema_enlaces.png)
+![...](imagenes/tema02/configuracion.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
 
 ## 1. Enlaces del Carbono
 
