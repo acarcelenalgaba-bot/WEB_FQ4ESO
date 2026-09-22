@@ -224,8 +224,14 @@ La configuración electrónica (orden de llenado) nos permite localizar la posic
 
 Mirando los **últimos electrones de la configuración**:
 
-*   El nivel más alto de todos los términos nos da el **periodo**.
+*   El nivel más alto de todos los términos nos da el **periodo** que ocupa el elemento en la tabla periódica de acuerdo con las siguientes reglas.
+    - Coincide para los orbitales **s** y **p**. Disminuye en uno para los orbitales **d** y en dos para los **f**.
+  
 *   El número de electrones en el subnivel del último término de la configuración, nos da el **grupo**.
+
+![...](imagenes/tema01/tabla.png){ style="display: block; margin: 0 auto; width: 95%; height: auto;" }
+
+La identificación de la configuración electrónica con el sistema permite una nueva forma de clasificar los elementos, como pertenecientes a los bloques s, p, d y f.
 
 ![...](imagenes/tema01/bloques.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
 
@@ -238,8 +244,7 @@ Mirando los **últimos electrones de la configuración**:
 *   **Bloque d:** Grupos 3 al 12 (Metales de transición).
 
 *   **Bloque f:** Lantánidos y actínidos (Metales de transición interna).
-
-
+ 
 ## **4. Enlace químico**
 
 Dos átomos se enlazan para alcanzar un estado de menor energía, estable.
