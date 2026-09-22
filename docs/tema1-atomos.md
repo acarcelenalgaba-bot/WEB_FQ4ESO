@@ -233,7 +233,7 @@ Mirando los **últimos electrones de la configuración**:
 
 *   **Bloque s:** Grupos 1 (Alcalinos) y 2 (Alcalinotérreos).
   
-*   **Bloque p:** Grupos 13 al 18.
+*   **Bloque p:** Grupos 13 (Terreos), 14 (Carbonoideos), 15 (Nitrogenoideos), 16 (Anfígenos), 17 (Halógenos) y 18 (Gases nobles).
 
 *   **Bloque d:** Grupos 3 al 12 (Metales de transición).
 
