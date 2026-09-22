@@ -222,22 +222,22 @@ Se escribe entre corchetes el gas noble anterior y los electrones de valencia, e
 
 La configuración electrónica (orden de llenado) nos permite localizar la posición de un elemento en la tabla y viceversa.
 
-Mirando los últimos electrones de la configuración:
+Mirando los **últimos electrones de la configuración**:
 
-*   El nivel más alto de todos los términos nos da el periodo.
-*   El número de electrones en el subnivel del último término de la configuración, nos da el grupo.
+*   El nivel más alto de todos los términos nos da el **periodo**.
+*   El número de electrones en el subnivel del último término de la configuración, nos da el **grupo**.
 
 ![...](imagenes/tema01/bloques.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
 
 **Bloques de la tabla periódica:**
 
-*   **Bloque s:** Grupos 1 y 2.
+*   **Bloque s:** Grupos 1 (Alcalinos) y 2 (Alcalinotérreos).
   
 *   **Bloque p:** Grupos 13 al 18.
 
-*   **Bloque d:** Grupos 3 al 12.
+*   **Bloque d:** Grupos 3 al 12 (Metales de transición).
 
-*   **Bloque f:** Lantánidos y actínidos.
+*   **Bloque f:** Lantánidos y actínidos (Metales de transición interna).
 
 
 ## **4. Enlace químico**
