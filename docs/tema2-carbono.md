@@ -6,6 +6,8 @@ La química orgánica es la rama de la química que se ha especializado en el es
 
 Quizás te preguntes por qué merece el carbono una rama específica para su estudio. La razón es muy sencilla: porque es el elemento que mayor número de compuestos forma, siendo todos ellos muy complejos y variados.
 
+Para entenderlo, debemos recurrir nuevamente a la configuración electrónica. El carbono pertenece a la familia de los carbonoideos con una configuración $\ce{2s^2 2p^2}$, por lo que posee cuatro electrones de valencia. Para cumplir el octeto podría formar enlaces iónicos ganando o perdiendo electrones, pero requiere demasiada energía.
+
 ## 1. Enlaces del Carbono
 
 - **Enlace sencillo (C–C):** se forma por la compartición de un par de electrones.
