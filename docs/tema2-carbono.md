@@ -2,7 +2,7 @@
 
 ## 1. Introducción
 
-La química orgánica es la rama de la química que se ha especializado en el estudio de los compuestos complejos que forma el carbono, tanto los que utilizan los seres vivos como los que se sintetizan en el laboratorio.
+La **química orgánica** es la rama de la química que se ha especializado en el estudio de los compuestos complejos que forma el carbono, tanto los que utilizan los seres vivos como los que se sintetizan en el laboratorio.
 
 Quizás te preguntes por qué merece el carbono una rama específica para su estudio. La razón es muy sencilla: porque es el elemento que mayor número de compuestos forma, siendo todos ellos muy complejos y variados.
 
@@ -10,7 +10,7 @@ Para entenderlo, debemos recurrir nuevamente a la configuración electrónica. E
 
 Sin embargo, compartir sus electrones formando enlaces covalentes es mucho más sencillo y origina diversas posibilidades:
 
-![...](imagenes/tema02/configuracion.png){ style="display: block; margin: 0 auto; width: 60%; height: auto;" }
+![...](imagenes/tema02/configuracion.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
 ## 1. Enlaces del Carbono
 

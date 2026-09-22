@@ -207,6 +207,17 @@ De acuerdo con el diagrama de Moeller (Aufbau) los electrones empiezan a complet
 
 ![...](imagenes/tema01/moeller2.png){ style="display: block; margin: 0 auto; width: 35%; height: auto;" }
 
+### **Configuración electrónica Kernel** {: .caja-subtitulo}
+
+Existe una manera compacta de escribir la configuración electrónica de un elemento, usando como referencia la configuración electrónica del gas noble inmediatamente anterior.
+
+Se escribe entre corchetes el gas noble anterior y los electrones de valencia, es decir, de la última capa, de modo usual.
+
+
+| Átomo | Configuración normal | Configuración del gas noble | Configuración kernel |
+| :: | :: | :: | :: |
+| $\ce{_{19}K}$ | $\ce{1s^2 2s^2 2p^6 3s^2 3p^6 4s^1}$ | $\ce{1s^2 2s^2 2p^6 3s^2 3p^6}$ | $\ce{[Ar] 4s^1}$ |
+
 ### **Configuración electrónica y sistema periódico** {: .caja-subtitulo}
 
 La configuración electrónica (orden de llenado) nos permite localizar la posición de un elemento en la tabla y viceversa.
@@ -227,17 +238,6 @@ Mirando los últimos electrones de la configuración:
 *   **Bloque d:** Grupos 3 al 12.
 
 *   **Bloque f:** Lantánidos y actínidos.
-
-### **Configuración electrónica Kernel** {: .caja-subtitulo}
-
-Existe una manera compacta de escribir la configuración electrónica de un elemento, usando como referencia la configuración electrónica del gas noble inmediatamente anterior.
-
-Se escribe entre corchetes el gas noble anterior y los electrones de valencia, es decir, de la última capa, de modo usual.
-
-
-| Átomo | Configuración normal | Configuración del gas noble | Configuración kernel |
-| :: | :: | :: | :: |
-| $\ce{_{19}K}$ | $\ce{1s^2 2s^2 2p^6 3s^2 3p^6 4s^1}$ | $\ce{1s^2 2s^2 2p^6 3s^2 3p^6}$ | $\ce{[Ar] 4s^1}$ |
 
 
 ## **4. Enlace químico**
