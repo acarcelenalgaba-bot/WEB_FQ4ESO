@@ -478,3 +478,7 @@ Si forman **moléculas**
 *   Sólo se disuelven en disolventes de polaridad semejante.
 
 ![...](imagenes/tema01/eq19.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
+
+##  **9. Fuerzas intermoleculares**
+
+![...](imagenes/tema01/eq20.png){ style="display: block; margin: 0 auto; width: 95%; height: auto;" }
