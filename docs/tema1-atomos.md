@@ -481,7 +481,7 @@ Si forman **moléculas**
 
 ##  **9. Fuerzas intermoleculares**
 
-Las sustancias covalentes moleculares podían presentarse en los tres estados: sólido, liquido y gas. Que aparezcan en uno u otro depende de las interacciones entre moléculas. Estas interacciones entre moléculas son un tipo de enlace que llamaremos enlaces débiles para diferenciarlos de los enlaces fuertes: iónico, covalente y metálico. 
+Las sustancias covalentes moleculares pueden presentarse en los tres estados: sólido, liquido y gas. Que aparezcan en uno u otro depende de las interacciones entre moléculas. Estas interacciones entre moléculas son un tipo de enlace que llamaremos enlaces débiles para diferenciarlos de los enlaces fuertes: iónico, covalente y metálico. 
 
 Estos enlaces entre moléculas pueden ser de dos tipos: **Fuerzas de Van der Waals** y **enlaces de hidrógeno**.
 
