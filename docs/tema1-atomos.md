@@ -479,35 +479,6 @@ Si forman **moléculas**
 
 ![...](imagenes/tema01/eq19.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
 
-##  **9. Fuerzas intermoleculares**
-
-Las sustancias covalentes moleculares pueden presentarse en los tres estados: sólido, liquido y gas. Que aparezcan en uno u otro depende de las interacciones entre moléculas. Estas interacciones entre moléculas son un tipo de enlace que llamaremos enlaces débiles para diferenciarlos de los enlaces fuertes: iónico, covalente y metálico. 
-
-Estos enlaces entre moléculas pueden ser de dos tipos: **Fuerzas de Van der Waals** y **enlaces de hidrógeno**.
-
-Las **fuerzas de Van der Waals** pueden ser de varios tipos:
-
-- **Fuerzas de dispersión**, o fuerzas dipolo instantáneo - dipolo inducido.
-
-- **Fuerzas dipolo - dipolo inducido**.
-
-- **Fuerzas dipolo - dipolo**. 
-
-Las **fuerzas de dispersión**, o fuerzas dipolo instantáneo - dipolo inducido, justifican los puntos de ebullición más altos de lo esperable para moléculas apolares como, $\ce{N2}$, $\ce{O2}$, o los gases nobles. Estas moléculas apolares no debieran interaccionar, pero en alguna de ellas se pueden producir dipolos instantáneos que inducen en las que están próximas dipolos inducidos, estos dipolos formados interaccionan en breves intervalos de tiempo aumentando los puntos de ebullición.
-
-![...](imagenes/tema01/eq20.gif){ style="display: block; margin: 0 auto; width: 45%; height: auto;" }
-
-Las **fuerzas dipolo - dipolo inducido** tienen lugar al interaccionar moléculas polares con moléculas apolares, como el $\ce{H2O}$ (polar) con el $\ce{CO2}$ (apolar).
-
-![...](imagenes/tema01/eq21.gif){ style="display: block; margin: 0 auto; width: 45%; height: auto;" }
-
-Las **fuerzas dipolo - dipolo** son las más intensas de las tres, las dos moléculas deben de ser polares, es el caso de interacción entre moléculas de $\ce{HCl}$, por ejemplo.
-
-![...](imagenes/tema01/eq22.gif){ style="display: block; margin: 0 auto; width: 45%; height: auto;" }
-
-El **enlace de hidrógeno**, o enlace por puentes de hidrógeno, se produce en moléculas que contienen átomos de pequeño tamaño, muy electronegativos y con pares no enlazantes, como el F, O y N, unidos a átomos de hidrógeno, como ocurre en el $\ce{HF}$, $\ce{H2O}$ y $\ce{NH3}$.
-
-![...](imagenes/tema01/eq23.gif){ style="display: block; margin: 0 auto; width: 45%; height: auto;" }
 
 
 
