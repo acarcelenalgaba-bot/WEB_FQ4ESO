@@ -260,7 +260,7 @@ Dos átomos se enlazan para alcanzar un estado de menor energía, estable.
 *   Sabemos que todos los sistemas tienden a un estado de mínima energía. Pues cuando se unen dos o más átomos lo hacen porque la energía del sistema unido es menor.
 *   Cuando se produce la unión entre átomos, se libera energía. La energía que se libera cuando se produce la unión entre átomos se puede medir y dará cuenta de cómo de fuerte será dicho enlace. Es la llamada **energía de enlace**.
 
-![...](imagenes/tema01/eq02.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
+![...](imagenes/tema01/eq02.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
 ### ¿**Cómo se alcanza el mínimo de energía**? {: .caja-subtitulo}
 
@@ -276,7 +276,7 @@ Kössel y Lewis proponen en 1916 que los átomos tienden a alcanzar la estructur
 
 Tienen 8 electrones en su última capa ($\ce{ns^2 np^6}$), lo que los conforma con la configuración electrónica de un gas noble. Por eso se llama la **regla del octeto**.
 
-![...](imagenes/tema01/eq03.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
+![...](imagenes/tema01/eq03.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
 *   **Gráfica izquierda:** Curva de energía potencial (E) vs distancia (d). Se muestra la distancia de enlace ($\ce{d_0}$) donde las fuerzas atractivas y repulsivas se equilibran.
 
@@ -323,7 +323,7 @@ Un **cristal iónico** es un agregado de cationes y aniones con una ordenación 
 *   Cada anión debe agrupar a su alrededor el número máximo de cationes.
 *   La separación entre los iones debe ser la mínima posible y entre los iones del mismo signo la máxima posible.
 
-> Por ejemplo, en la NaCl, cada $\ce{Na^+}$ (azul) está rodeado de 6 $\ce{Cl^-}$ (amarillo).
+> Por ejemplo, en la NaCl, cada $\ce{Na^+}$ (amarillo) está rodeado de 6 $\ce{Cl^-}$ (azul).
 
 ![...](imagenes/tema01/eq07.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
@@ -333,14 +333,13 @@ Las propiedades más características de los compuestos iónicos son:
 
 *   Elevados puntos de fusión y de ebullición.
 *   Dureza.
-*   Fragilidad.
+*   Fragilidad. Al aplicar presión, las capas de iones se desplazan y los iones del mismo signo quedan enfrentados, provocando la ruptura del cristal.
 *   **Conductividad eléctrica.** No conducen la electricidad en estado sólido, sin embargo en disolución acuosa o fundidos son buenos conductores de la electricidad (**Electrolitos**).
 *   **Solubilidad.** Se disuelven bien, en general, en disolventes polares como el agua y no son solubles en disolventes apolares.
 
 ![...](imagenes/tema01/eq08.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
 
-> **Fragilidad en un cristal iónico.**
-> Al aplicar presión, las capas de iones se desplazan y los iones del mismo signo quedan enfrentados, provocando la ruptura del cristal.
+
 
 ## **7. Enlace metálico**
 
