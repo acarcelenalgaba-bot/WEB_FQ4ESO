@@ -18,9 +18,7 @@ Sin embargo, compartir sus electrones formando enlaces covalentes es mucho más 
 - **Enlace doble (C=C):** se forma por la compartición de dos pares de electrones.
 - **Enlace triple (C≡C):** se forma por la compartición de tres pares de electrones.
 
-## 2. Grupos funcionales
-
-**Grupo funcional:** Átomo o grupos de átomos que caracterizan a una serie de compuestos orgánicos con propiedades químicas parecidas.
+## 2. Hidrocarburos
 
 ### 2.1 Alcanos -ano
 
@@ -28,7 +26,7 @@ Cadena lineal o ramificados laterales; enlace sencillo.
 
 | Fórmula semidesarrollada | Fórmula molecular | Nombre |
 |---|---|---|
-| CH₄ | CH₄ | Metano |
+| $\ce{CH4}$ | CH₄ | Metano |
 | CH₃-CH₃ | C₂H₆ | Etano |
 | CH₃-CH₂-CH₃ | C₃H₈ | Propano |
 | CH₃-CH₂-CH₂-CH₃ | C₄H₁₀ | Butano |
@@ -148,6 +146,10 @@ Cadena lineal o ramificados laterales; enlace sencillo.
 | CHI₃ | Triyodometano o Yodoformo | |
 | (benceno con CH₃ y Cl) | 1,2-Dicloro-4-metilbenceno | Se elige el sentido de numeración para que los localizadores de los sustituyentes sean los más bajos (1,2,4). Se nombran en orden alfabético; en el orden alfabético no se tiene en cuenta el prefijo di-. |
 | (benceno con Br y Br) | 1,2-Dibromobenceno o-Dibromobenceno | Cuando los radicales van en carbonos contiguos 1,2-, se puede usar la nomenclatura alternativa "orto", que se escribe solo -o-. |
+
+## 3 Grupos funcionales
+
+Cuando el carbono se une a elementos diferentes del hidrógeno origina una estructura que son los grupos funcionales. Un **grupo funcional** sería un átomo o grupos de átomos que caracterizan a una serie de compuestos orgánicos con propiedades químicas parecidas.
 
 ## 2.1 Alcoholes -ol
 
