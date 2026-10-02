@@ -10,13 +10,11 @@ Para entenderlo, debemos recurrir nuevamente a la configuración electrónica. E
 
 Sin embargo, compartir sus electrones formando enlaces covalentes es mucho más sencillo y origina diversas posibilidades:
 
-![...](imagenes/tema02/configuracion.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
-
-## 1. Enlaces del Carbono
-
 - **Enlace sencillo (C–C):** se forma por la compartición de un par de electrones.
 - **Enlace doble (C=C):** se forma por la compartición de dos pares de electrones.
 - **Enlace triple (C≡C):** se forma por la compartición de tres pares de electrones.
+
+![...](imagenes/tema02/configuracion.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
 ## 2. Hidrocarburos
 
@@ -26,16 +24,16 @@ Cadena lineal o ramificados laterales; enlace sencillo.
 
 | Fórmula semidesarrollada | Fórmula molecular | Nombre |
 |---|---|---|
-| $\ce{CH4}$ | CH₄ | Metano |
-| CH₃-CH₃ | C₂H₆ | Etano |
-| CH₃-CH₂-CH₃ | C₃H₈ | Propano |
-| CH₃-CH₂-CH₂-CH₃ | C₄H₁₀ | Butano |
-| CH₃-CH₂-CH₂-CH₂-CH₃ | C₅H₁₂ | Pentano |
-| CH₃-(CH₂)₄-CH₃ | C₆H₁₄ | Hexano |
-| CH₃-(CH₂)₅-CH₃ | C₇H₁₆ | Heptano |
-| CH₃-(CH₂)₆-CH₃ | C₈H₁₈ | Octano |
-| CH₃-(CH₂)₇-CH₃ | C₉H₂₀ | Nonano |
-| CH₃-(CH₂)₈-CH₃ | C₁₀H₂₂ | Decano |
+| $\ce{CH4}$ | $\ce{CH4}$ | Metano |
+| $\ce{CH3-CH3}$ | $\ce{C2H6}$ | Etano |
+| $\ce{CH3-CH2-CH3}$ | $\ce{C3H8}$ | Propano |
+| $\ce{CH3-CH2-CH2-CH3}$ | $\ce{C4H10}$ | Butano |
+| $\ce{CH3-CH2-CH2-CH2-CH3}$ | $\ce{C5H12}$ | Pentano |
+| $\ce{CH3-(CH2)4-CH3}$ | $\ce{C6H14}$ | Hexano |
+| $\ce{CH3-(CH2)5-CH3}$ | $\ce{C7H16}$ | Heptano |
+| $\ce{CH3-(CH2)6-CH3}$ | $\ce{C8H18}$ | Octano |
+| $\ce{CH3-(CH2)7-CH3}$ | $\ce{C9H20}$ | Nonano |
+| $\ce{CH3-(CH2)8-CH3}$ | $\ce{C10H22}$ | Decano |
 
 **RADICALES ALQUILO**
 
@@ -44,12 +42,12 @@ Cadena lineal o ramificados laterales; enlace sencillo.
 
 | Radical | Nombre |
 |---|---|
-| CH₃– | metil o metilo |
-| CH₃-CH₂– | etil o etilo |
-| CH₃-CH₂-CH₂– | propil o propilo |
-| CH₃-CH– \| CH₃ | isopropil o isopropilo (1-metiletil) |
-| CH₃-CH₂-CH₂-CH₂– | butil (n-butil) o butilo |
-| CH₃-CH₂-CH– \| CH₃ | sec-butil o sec-butilo (1-metilpropil) |
+| $\ce{CH3-}$ | metil o metilo |
+| $\ce{CH3-CH2-}$ | etil o etilo |
+| $\ce{CH3-CH2-CH2-}$ | propil o propilo |
+| $\ce{CH3-CH-}$ \| $\ce{CH3}$ | isopropil o isopropilo (1-metiletil) |
+| $\ce{CH3-CH2-CH2-CH2-}$ | butil (n-butil) o butilo |
+| $\ce{CH3-CH2-CH-}$ \| $\ce{CH3}$ | sec-butil o sec-butilo (1-metilpropil) |
 
 ### 2.2 Alquenos -eno
 
@@ -58,15 +56,15 @@ Cadena lineal o ramificados laterales; enlace sencillo.
 
 | Fórmula | Nombre | Observaciones |
 |---|---|---|
-| CH₂=CH₂ | Eteno (Etileno) | Alqueno se comienza con un número si es necesario para evitar ambigüedades. |
-| CH₃-CH=CH₂ | Propeno | Es el caso que no hace falta indicar el localizador del doble enlace porque no existe ninguna duda de su posición (entre el carbono 1 y 2). Si fuera entre los dos átomos de carbono sería el mismo compuesto, pero se comenzaría la numeración por el otro extremo y de nuevo quedaría entre 1 y 2. |
-| CH₃-CH₂-CH=CH₂ | But-1-eno (1-Buteno) | La numeración se empieza por el extremo derecho, para así que el doble enlace con el localizador más bajo, el 1. |
-| CH₃-CH=CH-CH₃ | But-2-eno (2-Buteno) | En este caso es indiferente el extremo por el que se ataca la numeración, pues en ambos casos el doble enlace se sitúa entre los carbonos 2 y 3. Se nombra but-2-eno por ser el 2 el número más pequeño que se puede asignar a los carbonos que se encuentran el doble enlace. |
-| CH₃-CH₂-CH₂-CH=CH₂ \| CH₃ | 4-Metilpent-1-eno (4-Metil-1-penteno) | Se numera de forma que el doble enlace queda con el localizador más bajo, ya que tiene prioridad sobre las ramificaciones. |
-| CH₃-CH=CH-CH₂-CH₂-CH₃ \| CH₂ \| CH₃ | 4,5-Dimetilhept-1-eno (4,5-Dimetil-1-hepteno) | Se numera por la izquierda para que el doble enlace quede con el localizador más bajo, ya que tiene prioridad sobre las ramificaciones. |
-| CH₃-CH₂-CH=CH-CH₂-CH₃ \| CH₃ | 2-Metilhex-3-eno (2-Metil-3-hexeno) | En este caso el doble enlace se encuentra compitiendo con el metilo: localizador independientemente del extremo por el que se nombre. Se numera por el extremo que es el radical el que le asigne los localizadores más bajos. |
-| CH₃-CH=CH-CH₂-CH₂-CH₃ \| CH₂ \| CH₃ | Nona-1,4-dieno (1,4-Nonadieno) | Se numera por el extremo de la derecha y así que dan los localizadores más bajos para los dobles enlaces (1,4), mientras que por el otro extremo se obtendría (5,8). La terminación abre es -dieno, indicando que existen dos dobles enlaces. |
-| CH₃-CH=CH-CH₂-CH=CH₂ \| CH₃ \| CH₃ | 2,4-Dimetilhexa-1,5-dieno (2,4-Dimetil-1,5-hexadieno) | Los dobles enlaces quedan con los mismos localizadores (1,5) independientemente del extremo por el que se comience, entonces se numera por la izquierda para que los radicales queden con los localizadores más bajos. |
+| CH2=CH2 | Eteno (Etileno) | Alqueno se comienza con un número si es necesario para evitar ambigüedades. |
+| CH3-CH=CH2 | Propeno | Es el caso que no hace falta indicar el localizador del doble enlace porque no existe ninguna duda de su posición (entre el carbono 1 y 2). Si fuera entre los dos átomos de carbono sería el mismo compuesto, pero se comenzaría la numeración por el otro extremo y de nuevo quedaría entre 1 y 2. |
+| CH3-CH2-CH=CH2 | But-1-eno (1-Buteno) | La numeración se empieza por el extremo derecho, para así que el doble enlace con el localizador más bajo, el 1. |
+| CH3-CH=CH-CH3 | But-2-eno (2-Buteno) | En este caso es indiferente el extremo por el que se ataca la numeración, pues en ambos casos el doble enlace se sitúa entre los carbonos 2 y 3. Se nombra but-2-eno por ser el 2 el número más pequeño que se puede asignar a los carbonos que se encuentran el doble enlace. |
+| CH3-CH2-CH2-CH=CH2 \| CH3 | 4-Metilpent-1-eno (4-Metil-1-penteno) | Se numera de forma que el doble enlace queda con el localizador más bajo, ya que tiene prioridad sobre las ramificaciones. |
+| CH3-CH=CH-CH2-CH2-CH3 \| CH2 \| CH3 | 4,5-Dimetilhept-1-eno (4,5-Dimetil-1-hepteno) | Se numera por la izquierda para que el doble enlace quede con el localizador más bajo, ya que tiene prioridad sobre las ramificaciones. |
+| CH3-CH2-CH=CH-CH2-CH3 \| CH3 | 2-Metilhex-3-eno (2-Metil-3-hexeno) | En este caso el doble enlace se encuentra compitiendo con el metilo: localizador independientemente del extremo por el que se nombre. Se numera por el extremo que es el radical el que le asigne los localizadores más bajos. |
+| CH3-CH=CH-CH2-CH2-CH3 \| CH2 \| CH3 | Nona-1,4-dieno (1,4-Nonadieno) | Se numera por el extremo de la derecha y así que dan los localizadores más bajos para los dobles enlaces (1,4), mientras que por el otro extremo se obtendría (5,8). La terminación abre es -dieno, indicando que existen dos dobles enlaces. |
+| CH3-CH=CH-CH2-CH=CH2 \| CH3 \| CH3 | 2,4-Dimetilhexa-1,5-dieno (2,4-Dimetil-1,5-hexadieno) | Los dobles enlaces quedan con los mismos localizadores (1,5) independientemente del extremo por el que se comience, entonces se numera por la izquierda para que los radicales queden con los localizadores más bajos. |
 
 ### 2.3 Alquinos -ino
 
@@ -76,11 +74,11 @@ Cadena lineal o ramificados laterales; enlace sencillo.
 | Fórmula | Nombre | Observaciones |
 |---|---|---|
 | CH≡CH | Etino (Acetileno) | El número localizador se omite ya que no hay ninguna duda de su posición (entre el carbono 1 y 2). Para la IUPAC, el nombre etino es el aceptado. |
-| CH₃-C≡CH | Propino | Este caso no hace falta indicar el localizador del triple enlace porque no existe ninguna duda de su posición (entre el carbono 1 y 2). Si fuera entre los dos átomos de carbono sería el mismo compuesto, pero se comenzaría la numeración por el otro extremo y de nuevo quedaría entre 1 y 2. |
-| CH₃-CH₂-C≡CH | But-1-ino (1-Butino) | La numeración se empieza por el extremo derecho, para así que el triple enlace con el localizador más bajo, el 1. |
-| CH₃-C≡C-CH₃ | But-2-ino (2-Butino) | En este caso es indiferente el extremo por el que se ataca la numeración, pues en ambos casos el triple enlace se sitúa entre los carbonos 2 y 3. |
-| CH₃-CH₂-C≡C-CH₃ | Pent-2-ino (2-Pentino) | Se numera por el extremo derecho para que el triple enlace quede con el localizador más bajo. |
-| HC≡C-CH₂-CH₂-CH₂-CH₃ \| CH₃ \| CH₃ | 4,6-Dimetilhept-1-ino (4,6-Dimetil-1-heptino) | Se numera de forma que el triple enlace quede con el localizador más bajo, ya que tiene prioridad sobre las ramificaciones. |
+| CH3-C≡CH | Propino | Este caso no hace falta indicar el localizador del triple enlace porque no existe ninguna duda de su posición (entre el carbono 1 y 2). Si fuera entre los dos átomos de carbono sería el mismo compuesto, pero se comenzaría la numeración por el otro extremo y de nuevo quedaría entre 1 y 2. |
+| CH3-CH2-C≡CH | But-1-ino (1-Butino) | La numeración se empieza por el extremo derecho, para así que el triple enlace con el localizador más bajo, el 1. |
+| CH3-C≡C-CH3 | But-2-ino (2-Butino) | En este caso es indiferente el extremo por el que se ataca la numeración, pues en ambos casos el triple enlace se sitúa entre los carbonos 2 y 3. |
+| CH3-CH2-C≡C-CH3 | Pent-2-ino (2-Pentino) | Se numera por el extremo derecho para que el triple enlace quede con el localizador más bajo. |
+| HC≡C-CH2-CH2-CH2-CH3 \| CH3 \| CH3 | 4,6-Dimetilhept-1-ino (4,6-Dimetil-1-heptino) | Se numera de forma que el triple enlace quede con el localizador más bajo, ya que tiene prioridad sobre las ramificaciones. |
 
 ### 2.4 Cicloalcanos, cicloalquenos
 
@@ -136,22 +134,22 @@ Cadena lineal o ramificados laterales; enlace sencillo.
 
 | Fórmula | Nombre | Observaciones |
 |---|---|---|
-| CH₃-CH₂-CH=C=CH-CH₃ \| CH₂F \| CH₃ | 4-Etil-3-fluorhex-2-eno (4-Etil-3-fluor-2-hexeno) | La numeración de la cadena se hace por la derecha ya que viene establecida por la doble enlace. Los radicales se citan en orden alfabético. |
-| CH₃-CHCl-CHCl-CH≡CH | 3,4-Dicloropent-1-ino (3,4-Dicloro-1-pentino) | El triple enlace tiene prioridad sobre los radicales en la numeración de la cadena principal. |
+| CH3-CH2-CH=C=CH-CH3 \| CH2F \| CH3 | 4-Etil-3-fluorhex-2-eno (4-Etil-3-fluor-2-hexeno) | La numeración de la cadena se hace por la derecha ya que viene establecida por la doble enlace. Los radicales se citan en orden alfabético. |
+| CH3-CHCl-CHCl-CH≡CH | 3,4-Dicloropent-1-ino (3,4-Dicloro-1-pentino) | El triple enlace tiene prioridad sobre los radicales en la numeración de la cadena principal. |
 | (ciclopentano con Cl y Cl) | 1,1-Dicloro-3-metilciclopentano | Los carbonos del ciclo se numeran en el sentido que los localizadores de los sustituyentes sean los más bajos (1,1,3). |
 | (ciclohexeno con Br) | 4-Bromociclohexeno | La prioridad para la numeración la tiene el doble enlace, al que le corresponde el carbono 1 y no hace falta indicarlo. Luego se numera en el sentido que el radical tenga el localizador más bajo. |
 | CHF₃ | Trifluorometano o Fluoroformo | Cada uno de estos derivados halogenados del metano tiene un nombre común aceptado por la IUPAC. |
 | CHCl₃ | Triclorometano o Cloroformo | |
 | CHBr₃ | Tribromometano o Bromoformo | |
 | CHI₃ | Triyodometano o Yodoformo | |
-| (benceno con CH₃ y Cl) | 1,2-Dicloro-4-metilbenceno | Se elige el sentido de numeración para que los localizadores de los sustituyentes sean los más bajos (1,2,4). Se nombran en orden alfabético; en el orden alfabético no se tiene en cuenta el prefijo di-. |
+| (benceno con CH3 y Cl) | 1,2-Dicloro-4-metilbenceno | Se elige el sentido de numeración para que los localizadores de los sustituyentes sean los más bajos (1,2,4). Se nombran en orden alfabético; en el orden alfabético no se tiene en cuenta el prefijo di-. |
 | (benceno con Br y Br) | 1,2-Dibromobenceno o-Dibromobenceno | Cuando los radicales van en carbonos contiguos 1,2-, se puede usar la nomenclatura alternativa "orto", que se escribe solo -o-. |
 
-## 3 Grupos funcionales
+## 3. Grupos funcionales
 
 Cuando el carbono se une a elementos diferentes del hidrógeno origina una estructura que son los grupos funcionales. Un **grupo funcional** sería un átomo o grupos de átomos que caracterizan a una serie de compuestos orgánicos con propiedades químicas parecidas.
 
-## 2.1 Alcoholes -ol
+### 3.1 Alcoholes -ol
 
 Grupos hidroxilo (-OH)
 
@@ -163,16 +161,16 @@ Grupos hidroxilo (-OH)
 
 | Fórmula | Nombre | Observaciones |
 |---|---|---|
-| CH₃-CHOH-CH₂-CHOH-CH₂-CH₃ | Hexano-2,4-diol (2,4-Hexanediol) | Se nombra por la izquierda para que los grupos -OH tengan los localizadores más bajos. Se utiliza el sufijo -diol que indica que hay dos grupos -OH. |
-| CH₃-CH₂-CH(CH₃)-CH₂-CH₂-OH | 3-Metilpentan-1-ol (3-Metil pentanol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
-| CH₃-CH₂-C(CH₃)₂-CH₂-CH(OH)-CH₃ | 3,5,5-Trimetilhexan-2-ol (3,5,5-Trimetilhexan-2-ol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
-| CH₂OH-CHOH-CH₂OH | Propano-1,2,3-triol (1,2,3-Propanetriol) | Se indica la presencia de tres grupos -OH con el sufijo -triol. Como el sufijo no menciona por vocal, la -ol- final del hidrocarburo se conserva. Glicerina es el término en un nombre común aceptado. |
-| CH₃-CHOH-CH₂-CH₂-CH(CH₃)-CH₃ | 4-Metilhexan-2-ol (4-Metil-2-hexanol) | Se nombra por la izquierda para que los grupos -OH tengan los radicales. Se utiliza el sufijo -diol que indica que hay dos grupos -OH. |
-| CH₃-CH=CH-CH=C(CH₃)-CH₃ | 4-Metilhexa-2,4-dien-2-ol (4-Metil-2,4-hexadien-2-ol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
-| CH₃-CH=CH-CHOH-CH₃ | Pent-3-en-2-ol (3-Penten-2-ol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
-| CH₂OH-CH=CH-CH₂-CH₂OH | Pent-2-en-1,5-diol (2-Penten-1,5-diol) | Los grupos -OH que son los que tiene la prioridad quedan con la misma numeración por ambos extremos, en este caso se le da preferencia al doble enlace. |
+| CH3-CHOH-CH2-CHOH-CH2-CH3 | Hexano-2,4-diol (2,4-Hexanediol) | Se nombra por la izquierda para que los grupos -OH tengan los localizadores más bajos. Se utiliza el sufijo -diol que indica que hay dos grupos -OH. |
+| CH3-CH2-CH(CH3)-CH2-CH2-OH | 3-Metilpentan-1-ol (3-Metil pentanol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
+| CH3-CH2-C(CH3)₂-CH2-CH(OH)-CH3 | 3,5,5-Trimetilhexan-2-ol (3,5,5-Trimetilhexan-2-ol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
+| CH2OH-CHOH-CH2OH | Propano-1,2,3-triol (1,2,3-Propanetriol) | Se indica la presencia de tres grupos -OH con el sufijo -triol. Como el sufijo no menciona por vocal, la -ol- final del hidrocarburo se conserva. Glicerina es el término en un nombre común aceptado. |
+| CH3-CHOH-CH2-CH2-CH(CH3)-CH3 | 4-Metilhexan-2-ol (4-Metil-2-hexanol) | Se nombra por la izquierda para que los grupos -OH tengan los radicales. Se utiliza el sufijo -diol que indica que hay dos grupos -OH. |
+| CH3-CH=CH-CH=C(CH3)-CH3 | 4-Metilhexa-2,4-dien-2-ol (4-Metil-2,4-hexadien-2-ol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
+| CH3-CH=CH-CHOH-CH3 | Pent-3-en-2-ol (3-Penten-2-ol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
+| CH2OH-CH=CH-CH2-CH2OH | Pent-2-en-1,5-diol (2-Penten-1,5-diol) | Los grupos -OH que son los que tiene la prioridad quedan con la misma numeración por ambos extremos, en este caso se le da preferencia al doble enlace. |
 
-## 2.2 Éteres -éter
+### 3.2 Éteres -éter
 
 Compuestos unidos a un átomo de oxígeno.
 
@@ -180,7 +178,7 @@ Compuestos unidos a un átomo de oxígeno.
 
 - Se nombran en orden alfabético los radicales R y R' separados por espacios y a continuación la palabra éter, también separada por un espacio. Si los dos radicales son iguales, se usa el prefijo "di-".
 
-Ej: CH₃-O-CH₂-CH₃ se nombra: Etil metil éter
+Ej: CH3-O-CH2-CH3 se nombra: Etil metil éter
 
 **NOMENCLATURA SUSTITUTIVA**
 
@@ -192,7 +190,7 @@ Ej: CH₃-O-CH₂-CH₃ se nombra: Etil metil éter
 
 Ej:
 
-a) CH₃-O-CH₂-CH₃
+a) CH3-O-CH2-CH3
 
 - Sustituyente R'-O: **Metoxi**
 - Hidrocarburo principal, R: **Etano**
@@ -200,14 +198,14 @@ a) CH₃-O-CH₂-CH₃
 
 | Fórmula | Nomenclatura funcional | Nomenclatura de sustitución |
 |---|---|---|
-| CH₃-O-CH₃ | Dimetil éter | Metoximetano |
-| CH₃-O-CH₂-CH₃ | Etil metil éter | Metoxietano |
-| CH₃-CH₂-O-CH₂-CH₃ | Dietil éter | Etoxietano |
-| CH₃-CH₂-CH₂-CH₂-O-CH₃ | Butil metil éter | 1-Metoxibutano |
-| CH₃-CH₂-O-C₆H₅ | Etil fenil éter | Etoxibenceno |
-| CH₂=CH-O-CH₃ | Metil vinil éter | Metoxieteno |
+| CH3-O-CH3 | Dimetil éter | Metoximetano |
+| CH3-O-CH2-CH3 | Etil metil éter | Metoxietano |
+| CH3-CH2-O-CH2-CH3 | Dietil éter | Etoxietano |
+| CH3-CH2-CH2-CH2-O-CH3 | Butil metil éter | 1-Metoxibutano |
+| CH3-CH2-O-C₆H₅ | Etil fenil éter | Etoxibenceno |
+| CH2=CH-O-CH3 | Metil vinil éter | Metoxieteno |
 
-## 2.9 Aldehídos -al
+### 3.3 Aldehídos -al
 
 Grupo carbonilo (-CHO) en el extremo de la cadena carbonada.
 
@@ -219,16 +217,16 @@ Grupo carbonilo (-CHO) en el extremo de la cadena carbonada.
 
 | Fórmula | Nombre | Observaciones |
 |---|---|---|
-| CH₃-CH₂-CH(CH₃)-CH=CH-CHO | 3,5-Dimetilhex-4-enal (3,5-Dimetil-4-hexenal) | Se nombra por la derecha ya que el grupo -CHO tiene preferencia sobre los radicales, aunque no se indica el localizador. |
-| CH₃-CH₂-CH(CH₃)-C≡CH | But-3-inal (3-Butinal) | Se nombra por el extremo de la derecha, ya que el grupo -CHO tiene preferencia sobre los radicales. |
-| OHC-CH₂-CH(CH₃)-CHO | Butanodial | Cuando hay dos grupos -CHO en los extremos se añade el sufijo -dial al nombre completo del hidrocarburo. No hace falta indicar los localizadores. |
-| OHC-CH(CH₃)-CH₂-CHO | Metilpropanodial | No es necesario indicar el localizador del radical metilo ya que no hay otra posibilidad de colocación. |
-| CH₃-CH₂-CH(CH₃)-CH=CH-CHO | 3-Metilhex-2-en-5-inal (3-Metil-2-hexen-5-inal) | Se nombra por la derecha ya que el grupo -CHO tiene preferencia sobre los radicales, aunque no se indica el localizador. |
-| CH₃-CH₂-CH(CH₃)-CH=CH-CHO | 3-Propilpent-4-enal (3-Propil-4-enal) | La cadena principal es la que contiene el grupo -CHO y el doble enlace, aunque no sea la más larga. Se nombra por el extremo que se le da el localizador. El grupo -CHO, pues tiene prioridad sobre el doble enlace y el radical. |
+| CH3-CH2-CH(CH3)-CH=CH-CHO | 3,5-Dimetilhex-4-enal (3,5-Dimetil-4-hexenal) | Se nombra por la derecha ya que el grupo -CHO tiene preferencia sobre los radicales, aunque no se indica el localizador. |
+| CH3-CH2-CH(CH3)-C≡CH | But-3-inal (3-Butinal) | Se nombra por el extremo de la derecha, ya que el grupo -CHO tiene preferencia sobre los radicales. |
+| OHC-CH2-CH(CH3)-CHO | Butanodial | Cuando hay dos grupos -CHO en los extremos se añade el sufijo -dial al nombre completo del hidrocarburo. No hace falta indicar los localizadores. |
+| OHC-CH(CH3)-CH2-CHO | Metilpropanodial | No es necesario indicar el localizador del radical metilo ya que no hay otra posibilidad de colocación. |
+| CH3-CH2-CH(CH3)-CH=CH-CHO | 3-Metilhex-2-en-5-inal (3-Metil-2-hexen-5-inal) | Se nombra por la derecha ya que el grupo -CHO tiene preferencia sobre los radicales, aunque no se indica el localizador. |
+| CH3-CH2-CH(CH3)-CH=CH-CHO | 3-Propilpent-4-enal (3-Propil-4-enal) | La cadena principal es la que contiene el grupo -CHO y el doble enlace, aunque no sea la más larga. Se nombra por el extremo que se le da el localizador. El grupo -CHO, pues tiene prioridad sobre el doble enlace y el radical. |
 | (ciclopentano con CHO) | Ciclopentanocarbaldehído | En los compuestos cíclicos se añade el sufijo -carbaldehído al nombre del ciclo. |
 | (benceno con CHO) | Bencenocarbaldehído (Benzaldehído) | En los compuestos cíclicos se añade el sufijo -carbaldehído al nombre del ciclo. El nombre benzaldehído deriva del ácido carboxílico (ácido benzoico). |
 
-## 2.10 Cetonas -ona
+### 3.4 Cetonas -ona
 
 Grupo carbonilo (CO)
 
@@ -246,12 +244,12 @@ Grupo carbonilo (CO)
 
 | Fórmula | Nombre de sustitución | Nombre funcional | Observaciones |
 |---|---|---|---|
-| CH₃-CO-CH₃ | Propanona (Acetona) | Dimetil cetona | No se indica el localizador 2 ya que el grupo carbonilo (-CO-) no puede ir en otra posición. El nombre acetona es un nombre común aceptado y muy utilizado. |
-| CH₃-CO-CH₂-CH₃ | Butanona | Etil metil cetona | No se indica el localizador 2 ya que el grupo carbonilo (-CO-) no puede ir en otra posición. |
-| CH₃-CH₂-CO-CH₂-CH₃ | Pentan-3-ona (3-Pentanona) | Dietil cetona | En este caso es necesario indicar la posición del grupo carbonilo -CO- con su localizador correspondiente. |
-| CH₃-CH₂-CH₂-CO-CH₃ | Pentan-2-ona (2-Pentanona) | Metil propil cetona | Es necesario indicar la posición del grupo carbonilo -CO- con su localizador correspondiente. Se numera la cadena por el extremo que se asigne al grupo -CO- el localizador más bajo. |
+| CH3-CO-CH3 | Propanona (Acetona) | Dimetil cetona | No se indica el localizador 2 ya que el grupo carbonilo (-CO-) no puede ir en otra posición. El nombre acetona es un nombre común aceptado y muy utilizado. |
+| CH3-CO-CH2-CH3 | Butanona | Etil metil cetona | No se indica el localizador 2 ya que el grupo carbonilo (-CO-) no puede ir en otra posición. |
+| CH3-CH2-CO-CH2-CH3 | Pentan-3-ona (3-Pentanona) | Dietil cetona | En este caso es necesario indicar la posición del grupo carbonilo -CO- con su localizador correspondiente. |
+| CH3-CH2-CH2-CO-CH3 | Pentan-2-ona (2-Pentanona) | Metil propil cetona | Es necesario indicar la posición del grupo carbonilo -CO- con su localizador correspondiente. Se numera la cadena por el extremo que se asigne al grupo -CO- el localizador más bajo. |
 
-## 2.11 Ácidos Carboxílicos -oico
+### 3.5 Ácidos Carboxílicos -oico
 
 Grupo carboxílico (-COOH)
 
@@ -262,14 +260,14 @@ Grupo carboxílico (-COOH)
 | Fórmula | Nombre | Observaciones |
 |---|---|---|
 | H-COOH | Ácido metanoico (Ácido fórmico) | En la escritura de los ácidos el grupo funcional se acostumbra a escribirlo abreviadamente como -COOH, aunque se sobreentiende que lleva un doble enlace C=O. El nombre ácido fórmico es un nombre común aceptado. |
-| CH₃-CH₂-COOH | Ácido propanoico (Ácido propiónico) | El localizador 1 del grupo -COOH no se indica, pues siempre va en un extremo. El nombre de ácido propanoico es un nombre común aceptado. |
-| CH₃-CH(CH₃)-COOH | Ácido metilpropanoico (Ácido isobutírico) | No es necesario indicar el localizador 2 del sustituyente (metil), ya que no ofrece duda al no poder ir en otro lugar. |
-| CH₃-CH=CH-COOH | Ácido but-2-enoico (Ácido 2-butenoico) | No es necesario indicar el localizador 2 del doble enlace, pues no puede ir en otro lugar. |
-| CH₃-CH≡C-COOH | Ácido but-2-inoico (Ácido 2-butinoico) | No es necesario indicar el localizador 2 del triple enlace, pues no puede ir en otro lugar. |
+| CH3-CH2-COOH | Ácido propanoico (Ácido propiónico) | El localizador 1 del grupo -COOH no se indica, pues siempre va en un extremo. El nombre de ácido propanoico es un nombre común aceptado. |
+| CH3-CH(CH3)-COOH | Ácido metilpropanoico (Ácido isobutírico) | No es necesario indicar el localizador 2 del sustituyente (metil), ya que no ofrece duda al no poder ir en otro lugar. |
+| CH3-CH=CH-COOH | Ácido but-2-enoico (Ácido 2-butenoico) | No es necesario indicar el localizador 2 del doble enlace, pues no puede ir en otro lugar. |
+| CH3-CH≡C-COOH | Ácido but-2-inoico (Ácido 2-butinoico) | No es necesario indicar el localizador 2 del triple enlace, pues no puede ir en otro lugar. |
 | HOOC-COOH | Ácido etanodioico (Ácido oxálico) | El sufijo -dioico indica que hay dos grupos carboxilo. |
 | C₆H₅-COOH | Ácido benzoico | El nombre ácido benzoico es un nombre común pero es el que más se utiliza. |
 
-## 2.12 Ésteres -oato
+### 3.6 Ésteres -oato
 
 Grupo carboxilo (-COOH) sustituido por un radical (-COOR')
 
@@ -281,13 +279,13 @@ Se obtiene en la reacción de esterificación.
 
 | Fórmula | Nombre | Observaciones |
 |---|---|---|
-| H-COO-CH₂-CH₃ | Metanoato de propilo (Formiato de propilo) | Este éster deriva del ácido metanoico (fórmico). El radical está escrito a continuación del grupo -COOR. |
-| CH₃-CH(CH₃)-CH₂-COO-CH₂-CH₃ | 3-Metilbutanoato de etilo | En la numeración tiene preferencia el grupo -COOR al que le corresponde el localizador 1, pero no hace falta indicarlo. |
-| HCOO-CH₂-CH₂-CH₂-COO-CH₃ | Pent-4-inoato de metilo (4-Pentinoato de metilo) | Al grupo -COOR le corresponde el localizador 1, ya que tiene preferencia sobre instauraciones. |
-| C₆H₅-COO-CH₃ | Benzoato de metilo | Deriva del ácido benzoico C₆H₅-COOH. En el que se ha sustituido el hidrógeno por un grupo metilo. |
-| CH₃-COO-C₆H₅ | Etanoato de fenilo (Acetato de fenilo) | El radical fenilo -C₆H₅ ha sustituido al hidrógeno del grupo -COOH del ácido etanoico (ácido acético). |
+| H-COO-CH2-CH3 | Metanoato de propilo (Formiato de propilo) | Este éster deriva del ácido metanoico (fórmico). El radical está escrito a continuación del grupo -COOR. |
+| CH3-CH(CH3)-CH2-COO-CH2-CH3 | 3-Metilbutanoato de etilo | En la numeración tiene preferencia el grupo -COOR al que le corresponde el localizador 1, pero no hace falta indicarlo. |
+| HCOO-CH2-CH2-CH2-COO-CH3 | Pent-4-inoato de metilo (4-Pentinoato de metilo) | Al grupo -COOR le corresponde el localizador 1, ya que tiene preferencia sobre instauraciones. |
+| C₆H₅-COO-CH3 | Benzoato de metilo | Deriva del ácido benzoico C₆H₅-COOH. En el que se ha sustituido el hidrógeno por un grupo metilo. |
+| CH3-COO-C₆H₅ | Etanoato de fenilo (Acetato de fenilo) | El radical fenilo -C₆H₅ ha sustituido al hidrógeno del grupo -COOH del ácido etanoico (ácido acético). |
 
-## 2.13 Aminas
+### 3.7 Aminas
 
 Derivados del amoniaco (NH₃) por sustitución de uno, dos o tres H por radicales.
 
@@ -295,7 +293,7 @@ Derivados del amoniaco (NH₃) por sustitución de uno, dos o tres H por radical
 
 Se nombran en orden alfabético los radicales seguidos de la palabra amina sin espacio entre ellos. Si los radicales son idénticos se simplifican anteponiendo el prefijo di- o tri-.
 
-### 2.13.1 Aminas Primarias
+### 3.7.1 Aminas Primarias
 
 **NOMENCLATURA SUSTITUTIVA**
 
@@ -307,13 +305,13 @@ Se nombran añadiendo -amina al nombre del hidrocarburo que ha sustituido al hid
 
 | Fórmula | Nombre de sustitución | Nombre funcional | Observaciones |
 |---|---|---|---|
-| CH₂=CH-NH₂ | Etenamina | Vinilamina Etenamina | El radical CH₂=CH- se puede nombrar como etenil o vinil. |
-| CH₂=CH-CH₂-NH₂ | Prop-2-en-1-amina (2-Propen-1-amina) | Alilamina | Se le asigna el localizador más bajo. |
+| CH2=CH-NH₂ | Etenamina | Vinilamina Etenamina | El radical CH2=CH- se puede nombrar como etenil o vinil. |
+| CH2=CH-CH2-NH₂ | Prop-2-en-1-amina (2-Propen-1-amina) | Alilamina | Se le asigna el localizador más bajo. |
 | C₆H₅-NH₂ | Bencenamina | Fenilamina (Anilina) | Anilina es nombre común. |
-| NH₂-CH₂-CH(NH₂)-CH₂-CH₃ | Butano-1,2-diamina (1,2-Butanodiamina) | | En los casos que haya dos o más grupos amino -NH₂, se utiliza la nomenclatura de sustitución. |
-| NH₂-CH₂-CH=CH-CH₂-CH₃ | Pent-3-en-1-amina (3-Penten-1-amina) | 3-Pentenamina | La amina tiene preferencia sobre el doble enlace. El carbono 1 es el que está unido al nitrógeno. La nomenclatura de sustitución es la más utilizada para estos casos. |
+| NH₂-CH2-CH(NH₂)-CH2-CH3 | Butano-1,2-diamina (1,2-Butanodiamina) | | En los casos que haya dos o más grupos amino -NH₂, se utiliza la nomenclatura de sustitución. |
+| NH₂-CH2-CH=CH-CH2-CH3 | Pent-3-en-1-amina (3-Penten-1-amina) | 3-Pentenamina | La amina tiene preferencia sobre el doble enlace. El carbono 1 es el que está unido al nitrógeno. La nomenclatura de sustitución es la más utilizada para estos casos. |
 
-### 2.13.2 Aminas Secundarias y Terciarias
+### 3.7.2 Aminas Secundarias y Terciarias
 
 **NOMENCLATURA SUSTITUTIVA**
 
@@ -323,47 +321,18 @@ Se nombran como derivados N-sustituidos de una amina primaria, a la que le corre
 
 | Fórmula | Nombre | Observaciones |
 |---|---|---|
-| CH₃-NH-CH₃ | Dimetilamina | Se puede escribir sin indicar los enlaces simples: (CH₃)₂NH. El radical se escribe entre paréntesis con el subíndice 2. En las aminas secundarias hay que sustituir 2 hidrógenos del amonio y por lo tanto queda -NH- unido a los dos radicales y no -NH₂. |
-| CH₃-CH₂-NH-CH₂-CH₃ | Dietilamina | El nombre se escribe sin espacios. Se puede escribir sin indicar los enlaces: (CH₃CH₂)₂NH. |
-| CH₃-N(CH₃)-CH₃ | Trimetilamina | También se puede escribir: (CH₃)₃N. |
-| CH₃-CH₂-N(CH₂-CH₃)-CH₂-CH₃ | Trietilamina | También se puede escribir: (CH₃CH₂)₃N. |
+| CH3-NH-CH3 | Dimetilamina | Se puede escribir sin indicar los enlaces simples: (CH3)₂NH. El radical se escribe entre paréntesis con el subíndice 2. En las aminas secundarias hay que sustituir 2 hidrógenos del amonio y por lo tanto queda -NH- unido a los dos radicales y no -NH₂. |
+| CH3-CH2-NH-CH2-CH3 | Dietilamina | El nombre se escribe sin espacios. Se puede escribir sin indicar los enlaces: (CH3CH2)₂NH. |
+| CH3-N(CH3)-CH3 | Trimetilamina | También se puede escribir: (CH3)₃N. |
+| CH3-CH2-N(CH2-CH3)-CH2-CH3 | Trietilamina | También se puede escribir: (CH3CH2)₃N. |
 | C₆H₅-NH-C₆H₅ | Difenilamina | El radical derivado del benceno es el fenil- y se puede escribir como C₆H₅- o bien utilizar el anillo bencénico. |
 
 | Fórmula | Nombre | Observaciones |
 |---|---|---|
-| CH₃-CH₂-NH-CH₂-CH₂-CH₃ | N-Etilpropan-1-amina N-Etilpropilamina (Etil)propilamina | La cadena principal es el radical de 3 átomos de carbono. Obsérvese el uso de los paréntesis para indicar claramente cuáles son los sustituyentes de N. |
-| CH₃-NH-CH₂-CH₂-CH₃ | N-Metilpropan-1-amina N-Metilpropilamina (Metil)propilamina | La cadena principal es el radical de 3 átomos de carbono. |
-| CH₃-NH-CH=CH₂ | N-Metiletenamina N-Metilvinilamina Metil(vinil)amina | La cadena principal es el radical de 2 átomos de carbono. El radical es un metilo frecuentemente como un radical. |
-| CH₃-CH₂-CH₂-CH₂-NH-CH(CH₃)₂ | N-Isopropilbutan-1-amina (Butil)isopropilamina | La cadena principal es el radical de 4 átomos de carbono. En la función, los radicales se nombran en orden alfabético. |
-| CH₃-N(CH₃)-CH₂-CH₂-CH₃ | N,N-Dimetilpropan-1-amina N,N-Dimetilpropilamina (Dimetil)propilamina | La cadena principal es el radical de 3 átomos de carbono. Se usa el localizador N- para indicar que los dos radicales metilos van unidos al átomo de nitrógeno. |
-| CH₃-CH₂-CH₂-CH₂-N(CH₃)-CH₂-CH₃ | N-Etil-N-metilbutan-1-amina N-Etil-N-metilbutilamina Butil(etil)metilamina | En la nomenclatura funcional, los radicales se nombran en orden alfabético. La cadena principal es el benceno. En la función, los radicales se nombran en orden alfabético. Anilina es el nombre común de la fenilamina. |
+| CH3-CH2-NH-CH2-CH2-CH3 | N-Etilpropan-1-amina N-Etilpropilamina (Etil)propilamina | La cadena principal es el radical de 3 átomos de carbono. Obsérvese el uso de los paréntesis para indicar claramente cuáles son los sustituyentes de N. |
+| CH3-NH-CH2-CH2-CH3 | N-Metilpropan-1-amina N-Metilpropilamina (Metil)propilamina | La cadena principal es el radical de 3 átomos de carbono. |
+| CH3-NH-CH=CH2 | N-Metiletenamina N-Metilvinilamina Metil(vinil)amina | La cadena principal es el radical de 2 átomos de carbono. El radical es un metilo frecuentemente como un radical. |
+| CH3-CH2-CH2-CH2-NH-CH(CH3)₂ | N-Isopropilbutan-1-amina (Butil)isopropilamina | La cadena principal es el radical de 4 átomos de carbono. En la función, los radicales se nombran en orden alfabético. |
+| CH3-N(CH3)-CH2-CH2-CH3 | N,N-Dimetilpropan-1-amina N,N-Dimetilpropilamina (Dimetil)propilamina | La cadena principal es el radical de 3 átomos de carbono. Se usa el localizador N- para indicar que los dos radicales metilos van unidos al átomo de nitrógeno. |
+| CH3-CH2-CH2-CH2-N(CH3)-CH2-CH3 | N-Etil-N-metilbutan-1-amina N-Etil-N-metilbutilamina Butil(etil)metilamina | En la nomenclatura funcional, los radicales se nombran en orden alfabético. La cadena principal es el benceno. En la función, los radicales se nombran en orden alfabético. Anilina es el nombre común de la fenilamina. |
 
-## 3. Orden de Preferencia de Grupos
-
-| Orden de prioridad | Función | Grupo Funcional | Nombre como principal (sufijo) | Nombre como sustituyente (prefijo) |
-|---|---|---|---|---|
-| 1° | Ácido | -COOH | Ácido ... oico (-carboxílico) | carboxi- |
-| 2° | Éster (o sales) | -COOR | ... oato de ... ilo -oato de ... | alcoxicarbonil- |
-| 3° | Haluro de ácido | -CO-X (X = halógeno) | Haluro de ... ilo | haloformil- |
-| 4° | Amida | -CONH₂ | ... amida (-carboxamida) | carbamoil- |
-| 5° | Nitrilo | -C≡N | ... nitrilo (-carbonitrilo) | ciano- |
-| 6° | Aldehído | -CHO | ... al (-carbaldehído) | formil- |
-| 7° | Cetona | -CO- | ... ona | oxo- |
-| 8° | Alcohol (Fenol) | -OH | ... ol | hidroxi- |
-| 9° | Amina | -NH₂ | ... amina | amino- |
-| 10° | Éter | -O-R' | ... éter (R-oxi-R) | alcoxi- |
-| 11° | Insaturaciones | C=C, C≡C | ... eno, ... ino | |
-
-## 4. Compuestos con Nombre Común
-
-| Fórmula | Nombre común |
-|---|---|
-| CH₃-CH(CH₃)- | Isopropil o isopropilo (1-metiletil) |
-| CH₃-CO-CH₃ | Propanona (Acetona) |
-| H-COOH | Ácido metanoico (Ácido fórmico) |
-| C₆H₅-COOH | Ácido benzoico |
-| C₆H₅-COOH | Ácido bencenocarboxílico |
-| H-COO-CH₃ | Metanoato de metilo (Formiato de metilo) |
-| CH₃-COO-C₆H₅ | Etanoato de fenilo (Acetato de fenilo) |
-| C₆H₅-COO-CH₃ | Benzoato de metilo |
-| C₆H₅-NH₂ | Bencenamina Fenilamina (Anilina) |
