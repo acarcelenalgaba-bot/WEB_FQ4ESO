@@ -3,8 +3,8 @@
 // =========================================================================
 const DISABLED_TOPICS = [
   //"tema2-carbono",
-  "tema3-formulacion",
-  "tema4-reactividad",
+  //"tema3-formulacion",
+  //"tema4-reactividad",
   "tema5-cinematica",
   "tema6-dinamica",
   "tema7-gravitacion",
