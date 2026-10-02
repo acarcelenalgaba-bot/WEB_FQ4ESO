@@ -2,7 +2,7 @@
 // UNICO PUNTO DE CONTROL: Añade o quita aquí las páginas deshabilitadas
 // =========================================================================
 const DISABLED_TOPICS = [
-  "tema2-carbono",
+  //"tema2-carbono",
   "tema3-formulacion",
   "tema4-reactividad",
   "tema5-cinematica",
