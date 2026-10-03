@@ -75,8 +75,8 @@ A partir de los hidrocarburos podemos obtener los **radicales** de alquilo por p
 | Fórmula | Nombre | | Fórmula | Nombre | 
 |---|---||---|---|
 | $\ce{CH3-}$ | Metil o metilo || $\ce{CH3-CH2-}$ | Etil o etilo |
-| $\ce{CH3-CH2-CH2-}$ | Propil o propilo || $\ce{CH3-CH(-CH3)-}$ | Isopropil o isopropilo |
-| $\ce{CH3-CH2-CH2-CH2-}$ | Butil o butilo || $\ce{CH3-CH(-CH3)-CH2-}$ | Isobutil o isobutilo |
+| $\ce{CH3-CH2-CH2-}$ | Propil o propilo || <img src="../imagenes/tema02/isopropilo.svg" style="width: 45%; height: auto; display: block; margin-left: 0 !important; margin-right: auto !important;"> | Isopropil o isopropilo |
+| $\ce{CH3-CH2-CH2-CH2-}$ | Butil o butilo || <img src="../imagenes/tema02/isobutilo.svg" style="width: 60%; height: auto; display: block; margin-left: 0 !important; margin-right: auto !important;">  | Isobutil o isobutilo |
 | $\ce{CH3-CH2-CH2-CH2-CH2-}$ | Pentil o pentilo || $\ce{CH3-CH2-CH2-CH2-CH2-CH2-}$ | Hexil o hexilo |
 
 

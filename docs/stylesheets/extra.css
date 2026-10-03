@@ -106,6 +106,23 @@
      thead {
         display: table-header-group;
     }
+
+    table {
+        width: 100% !important;
+        table-layout: fixed !important; /* Fuerza a las columnas a repartirse el espacio sin salirse */
+    }
+
+    td, th {
+        word-wrap: break-word !important;
+        overflow-wrap: break-word !important;
+    }
+
+    /* Ajustar las imágenes SVG de las tablas al ancho máximo de la celda */
+    table img {
+        max-width: 100% !important;
+        height: auto !important;
+    }
+
 }
 
 /* Centrar de forma automática todas las imágenes del documento */
