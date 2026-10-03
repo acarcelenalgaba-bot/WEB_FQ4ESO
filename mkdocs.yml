@@ -39,6 +39,7 @@ markdown_extensions:
       title: "Contenidos"
       toc_depth: 2
   - pymdownx.magiclink
+  - admonition
 
 
 plugins:

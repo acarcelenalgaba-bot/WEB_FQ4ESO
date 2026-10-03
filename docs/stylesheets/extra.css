@@ -197,6 +197,17 @@ img {
   margin-top: 1.2em;
 }
 
+/* Estilo para la caja de subtítulo (H3) */
+.caja-subtitulo2 {
+  width: fit-content;
+  font-size: 20px !important;
+  background-color: #d2f483;
+  color: #020f15;
+  padding: 5px 10px;
+  border-radius: 4px;
+  margin-top: 1.2em;
+}
+
 /* Contenedor flexible para alinear título y botón en la misma fila */
 .header-tema-container {
   display: flex;

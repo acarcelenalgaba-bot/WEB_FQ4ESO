@@ -10,46 +10,96 @@ Para entenderlo, debemos recurrir nuevamente a la configuración electrónica. E
 
 Sin embargo, compartir sus electrones formando enlaces covalentes es mucho más sencillo y origina diversas posibilidades:
 
-- **Enlace sencillo (C–C):** se forma por la compartición de un par de electrones.
-- **Enlace doble (C=C):** se forma por la compartición de dos pares de electrones.
-- **Enlace triple (C≡C):** se forma por la compartición de tres pares de electrones.
+- **Enlace sencillo ($\ce{C–C}$):** se forma por la compartición de un par de electrones.
+- **Enlace doble ($\ce{C=C}$):** se forma por la compartición de dos pares de electrones.
+- **Enlace triple ($\ce{C≡C}$):** se forma por la compartición de tres pares de electrones.
 
 ![...](imagenes/tema02/configuracion.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
 ## 2. Hidrocarburos
 
-### 2.1 Alcanos -ano
+Los **hidrocarburos** son compuestos constituidos exclusivamente por **carbono** e **hidrógeno**. Entre los átomos de carbono pueden existir enlaces simples, dobles o triples. Constituyen el esqueleto de las moléculas orgánicas.
 
-Cadena lineal o ramificados laterales; enlace sencillo.
+Podemos clasificar los hidrocarburos en dos grandes grupos:
 
-| Fórmula semidesarrollada | Fórmula molecular | Nombre |
-|---|---|---|
-| $\ce{CH4}$ | $\ce{CH4}$ | Metano |
-| $\ce{CH3-CH3}$ | $\ce{C2H6}$ | Etano |
-| $\ce{CH3-CH2-CH3}$ | $\ce{C3H8}$ | Propano |
-| $\ce{CH3-CH2-CH2-CH3}$ | $\ce{C4H10}$ | Butano |
-| $\ce{CH3-CH2-CH2-CH2-CH3}$ | $\ce{C5H12}$ | Pentano |
-| $\ce{CH3-(CH2)4-CH3}$ | $\ce{C6H14}$ | Hexano |
-| $\ce{CH3-(CH2)5-CH3}$ | $\ce{C7H16}$ | Heptano |
-| $\ce{CH3-(CH2)6-CH3}$ | $\ce{C8H18}$ | Octano |
-| $\ce{CH3-(CH2)7-CH3}$ | $\ce{C9H20}$ | Nonano |
-| $\ce{CH3-(CH2)8-CH3}$ | $\ce{C10H22}$ | Decano |
+- **Hidrocarburos alifáticos**
 
-**RADICALES ALQUILO**
+Los hidrocarburos alifáticos pueden ser de cadena lineal, cíclicos, saturados o no saturados:
 
-- Son alcanos que han perdido uno de sus hidrógenos.
-- Se nombran igual que los alcanos cambiando la terminación -ano por -il o -ilo.
+![...](imagenes/tema02/clasificacion.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
-| Radical | Nombre |
+- **Hidrocarburos aromáticos o bencénicos**
+
+Los hidrocarburos aromáticos son los derivados del benceno ($\ce{C6H6}$), cuya singular estructura le confiere unas propiedades características (aromaticidad).
+
+![...](imagenes/tema02/aromaticos.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
+
+### **2.1 Hidrocarburos saturados lineales. Alcanos -ano** {: .caja-subtitulo}
+
+Los hidrocarburos saturados de cadena lineal tienen de fórmula general $\ce{C_nH_{2n+2}}$. Sólo contienen enlaces simples C-C. Pueden ser de cadena lineal o presentar ramificaciones laterales.
+
+En una cadena carbonada podemos identificar carbonos primarios, o de final de cadena, en los que solo uno de sus enlaces se utiliza para enlazar con otro carbono; secundarios, enlazados a dos carbonos; terciarios, enlazados a tres carbonos, o cuaternarios cuando sus cuatro enlaces son uniones C-C:
+
+![...](imagenes/tema02/tipos_carbonos.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
+
+### **Nomenclatura** {: .caja-subtitulo2}
+
+- **Los hidrocarburos de cadena lineal** se nombran con un prefijo que indica el número de átomos de carbono de la cadena y la terminación -**ano**, característica de los hidrocarburos saturados.
+
+| Número de carbonos | Prefijo | 
 |---|---|
-| $\ce{CH3-}$ | metil o metilo |
-| $\ce{CH3-CH2-}$ | etil o etilo |
-| $\ce{CH3-CH2-CH2-}$ | propil o propilo |
-| $\ce{CH3-CH-}$ \| $\ce{CH3}$ | isopropil o isopropilo (1-metiletil) |
-| $\ce{CH3-CH2-CH2-CH2-}$ | butil (n-butil) o butilo |
-| $\ce{CH3-CH2-CH-}$ \| $\ce{CH3}$ | sec-butil o sec-butilo (1-metilpropil) |
+| 1 | met- |
+| 2 | et- |
+| 3 | prop- |
+| 4 | but- |
+| 5 | pent- |
+| 6 | hex- |
+| 7 | hept- |
+| 8 | oct- |
+| 9 | non- |
+| 10 | dec- | 
 
-### 2.2 Alquenos -eno
+**Ejemplos**. Los primeros términos de la serie, hasta cuatro átomos de carbono, reciben nombres especiales:
+
+| Fórmula | Nombre | 
+|---|---|
+| $\ce{CH4}$ | Metano |
+| $\ce{CH3-CH3}$ | Etano |
+| $\ce{CH3-CH2-CH3}$ | Propano |
+| $\ce{CH3-CH2-CH2-CH3}$ | Butano |
+| $\ce{CH3-CH2-CH2-CH2-CH3}$ | Pentano |
+| $\ce{CH3-CH2-CH2-CH2-CH2-CH3}$ | Hexano |
+
+A partir de los hidrocarburos podemos obtener los **radicales** de alquilo por pérdida de un hidrógeno (lo que deja un enlace libre). Los radicales de alquilo se nombran igual que los hidrocarburos de los que derivan cambiando la terminación -ano por -**il** o -**ilo**:
+
+| Fórmula | Nombre | | Fórmula | Nombre | 
+|---|---||---|---|
+| $\ce{CH3-}$ | Metil o metilo || $\ce{CH3-CH2-}$ | Etil o etilo |
+| $\ce{CH3-CH2-CH2-}$ | Propil o propilo || $\ce{CH3-CH(-CH3)-}$ | Isopropil o isopropilo |
+| $\ce{CH3-CH2-CH2-CH2-}$ | Butil o butilo || $\ce{CH3-CH(-CH3)-CH2-}$ | Isobutil o isobutilo |
+| $\ce{CH3-CH2-CH2-CH2-CH2-}$ | Pentil o pentilo || $\ce{CH3-CH2-CH2-CH2-CH2-CH2-}$ | Hexil o hexilo |
+
+
+Para **nombrar** **hidrocarburos saturados ramificados** se aplican los criterios siguientes:
+
+1. **Elegir la cadena principal**. Para ello aplicar, por orden, las siguientes normas:
+   
+      - La más larga
+      - La que tenga mayor número de sustituciones
+      - La que tenga los localizadores (suma) más bajos.
+
+2. **Numerar la cadena principal** de tal forma que los localizadores (suma) sean los más bajos posibles.
+
+3. **Nombrar los sustituyentes por orden alfabético**. A la hora de clasificar alfabéticamente no se consideran los prefijos numerales (di, tri...) de los sustituyentes simples.
+
+4. **Nombrar la cadena principal**.
+
+!!! note "Localizadores"
+Los **localizadores** son números que se asignan a los átomos de carbono de la cadena principal. Sirven para indicar la posición de las sustituciones (ramificaciones).
+
+![...](imagenes/tema02/ejemplo1.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
+
+### **2.2 Alquenos -eno** {: .caja-subtitulo}
 
 - **Doble enlace C=C**
 - Los dobles enlaces se localizan con números localizadores colocados antes del sufijo -eno.
