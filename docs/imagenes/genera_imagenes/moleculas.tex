@@ -1,0 +1,23 @@
+\documentclass{article}
+\usepackage{chemfig}
+\usepackage{mhchem}
+\usepackage{tikz}
+\usepackage[active,tightpage]{preview}
+\setlength\PreviewBorder{3pt}
+
+% --- NUEVO: Exportar nombres a un archivo auxiliar ---
+\newwrite\svgnames
+\immediate\openout\svgnames=\jobname.names
+\newcommand{\svgname}[1]{\immediate\write\svgnames{#1}}
+% -----------------------------------------------------
+
+\begin{document}
+
+
+\svgname{isopropilo}
+\begin{preview} 
+\chemfig{[,0.6] CH_3-CH(-[2]CH_3)-}
+\end{preview} 
+
+
+\end{document}
