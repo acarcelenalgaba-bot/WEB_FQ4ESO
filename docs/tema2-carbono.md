@@ -98,6 +98,17 @@ Los **localizadores** son números que se asignan a los átomos de carbono de la
 
 ![...](imagenes/tema02/ejemplo1.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
+### **Hidrocarburos saturados cíclicos** (**cicloalcanos**) {: .caja-subtitulo}
+En este tipo de hidrocarburos los átomos de carbono se encuentran unidos formando anillos.
+
+### **Nomenclatura** {: .caja-subtitulo2}
+
+- Los cicloalcanos se nombran anteponiendo el nombre de los sustituyentes (en orden alfabético) al del hidrocarburo correspondiente con la palabra ciclo antepuesta.
+
+- La numeración del ciclo se hace de tal forma que los localizadores (suma) sean los más bajos posibles. Si hay duda decide el orden alfabético de los sustituyentes.
+
+
+
 ### **2.2 Alquenos -eno** {: .caja-subtitulo}
 
 - **Doble enlace C=C**
