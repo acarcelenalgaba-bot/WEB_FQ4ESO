@@ -72,13 +72,12 @@ En una cadena carbonada podemos identificar carbonos primarios, o de final de ca
 
 A partir de los hidrocarburos podemos obtener los **radicales** de alquilo por pérdida de un hidrógeno (lo que deja un enlace libre). Los radicales de alquilo se nombran igual que los hidrocarburos de los que derivan cambiando la terminación -ano por -**il** o -**ilo**:
 
-| Fórmula | Nombre | | Fórmula | Nombre | 
-|---|---||---|---|
-| $\ce{CH3-}$ | Metil o metilo || $\ce{CH3-CH2-}$ | Etil o etilo |
-| $\ce{CH3-CH2-CH2-}$ | Propil o propilo || <img src="../imagenes/tema02/isopropilo.svg" style="width: 45%; height: auto; display: block; margin-left: 0 !important; margin-right: auto !important;"> | Isopropil o isopropilo |
-| $\ce{CH3-CH2-CH2-CH2-}$ | Butil o butilo || <img src="../imagenes/tema02/isobutilo.svg" style="width: 60%; height: auto; display: block; margin-left: 0 !important; margin-right: auto !important;">  | Isobutil o isobutilo |
-| $\ce{CH3-CH2-CH2-CH2-CH2-}$ | Pentil o pentilo || $\ce{CH3-CH2-CH2-CH2-CH2-CH2-}$ | Hexil o hexilo |
-
+| Fórmula | Nombre | Fórmula | Nombre |
+|:---|:---|:---|:---|
+| <img src="../imagenes/tema02/metilo.svg" class="img-lineal"> | Metil o metilo | <img src="../imagenes/tema02/etilo.svg" class="img-lineal"> | Etil o etilo |
+| <img src="../imagenes/tema02/propilo.svg" class="img-lineal"> | Propil o propilo | <img src="../imagenes/tema02/isopropilo.svg" class="img-ramificada"> | Isopropil o isopropilo |
+| <img src="../imagenes/tema02/butilo.svg" class="img-lineal"> | Butil o butilo | <img src="../imagenes/tema02/isobutilo.svg" class="img-ramificada"> | Isobutil o isobutilo |
+| <img src="../imagenes/tema02/pentilo.svg" class="img-lineal"> | Pentil o pentilo | <img src="../imagenes/tema02/hexilo.svg" class="img-lineal"> | Hexil o hexilo |
 
 Para **nombrar** **hidrocarburos saturados ramificados** se aplican los criterios siguientes:
 

@@ -89,40 +89,51 @@
         page-break-inside: avoid !important;
     }
 
-    /* --- AJUSTE DE TABLAS PARA IMPRESIÓN --- */
-    /* Permitir que la tabla empiece donde le toca en el flujo del texto */
-    table {
-        break-inside: auto !important;
-        page-break-inside: auto !important;
-    }
-
-    /* Evitar que las filas individuales (tr) se rompan por la mitad */
-    tr {
-        break-inside: avoid !important;
-        page-break-inside: avoid !important;
-    }
-
-    /* Repetir la cabecera de la tabla en la parte superior si salta de página */
-     thead {
-        display: table-header-group;
-    }
-
+    /* Permitir que la tabla calcule su ancho según el contenido */
     table {
         width: 100% !important;
-        table-layout: fixed !important; /* Fuerza a las columnas a repartirse el espacio sin salirse */
+        table-layout: auto !important;
+        font-size: 0.8rem !important; /* Reduce ligeramente el texto general de la tabla */
     }
 
-    td, th {
-        word-wrap: break-word !important;
-        overflow-wrap: break-word !important;
+    /* Reducir la escala de MathJax en las tablas para que no fuerce celdas gigantes */
+    table mjx-container, table .MathJax, table .katex {
+        font-size: 88% !important;
+        max-width: 100% !important;
     }
 
-    /* Ajustar las imágenes SVG de las tablas al ancho máximo de la celda */
+    /* Espaciado interno para evitar que los bordes toquen el texto o imágenes */
+    th, td {
+        padding: 4px 6px !important;
+        vertical-align: middle !important;
+        word-break: normal !important;
+    }
+
+    /* Ajuste de imágenes en celdas */
     table img {
         max-width: 100% !important;
         height: auto !important;
+        display: block !important;
     }
 
+}
+
+/* Para moléculas de 1 sola fila horizontal (metilo, etilo, propilo, etc.) */
+.img-lineal {
+  height: 30px !important;
+  width: auto !important;
+  display: block !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+/* Para moléculas ramificadas con 2 niveles (isopropilo, isobutilo, etc.) */
+.img-ramificada {
+  height: 60px !important; /* El doble de alto preserva la escala de la letra */
+  width: auto !important;
+  display: block !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
 }
 
 /* Centrar de forma automática todas las imágenes del documento */
