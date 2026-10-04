@@ -35,7 +35,31 @@ Podemos clasificar los hidrocarburos en dos grandes grupos:
 
 Los hidrocarburos alifáticos pueden ser de cadena lineal, cíclicos, saturados o no saturados:
 
-![...](imagenes/tema02/clasificacion.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
+![...](imagenes/tema02/clasificacion.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center; vertical-align: middle;">Cadena lineal</th>
+      <th style="text-align: center; vertical-align: middle;">Cíclicos</th>
+      <th style="text-align: center; vertical-align: middle;">Ramificados</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">
+        <img src="../imagenes/tema02/butano.svg" width="250" style="vertical-align: middle;">
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img src="../imagenes/tema02/ciclopentano.svg" width="200" style="vertical-align: middle;">
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img src="../imagenes/tema02/etilmetilbutano.svg" width="220" style="vertical-align: middle;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 - **Hidrocarburos aromáticos o bencénicos**
 
