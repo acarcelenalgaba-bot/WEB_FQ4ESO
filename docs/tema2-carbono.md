@@ -16,7 +16,16 @@ Sin embargo, compartir sus electrones formando enlaces covalentes es mucho más 
 
 ![...](imagenes/tema02/configuracion.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
-## 2. Hidrocarburos
+## 2. Representaciones moleculares
+
+En los compuestos orgánicos encontramos una gran variedad de posibilidades de utilizar diferentes tipos de fórmulas según lo que nos interese destacar.
+
+| Fórmula molecular | Fórmula semidesarrollada | Fórmula desarrollada | Fórmula estructural | 
+|---|---|---|---|
+| Informa solo acerca de qué elementos y en qué cantidad aparecen en el compuesto | Muestra únicamente los enlaces entre carbonos o algún otro elemento puente. | Muestra todos los enlaces que existen en la molécula | Indica los enlaces, los ángulos y la disposición espacial |
+| <img src="../imagenes/tema02/eter1.png"> | <img src="../imagenes/tema02/eter2.png"> | <img src="../imagenes/tema02/eter3.png"> | <img src="../imagenes/tema02/eter4.png"> |
+
+## 3. Hidrocarburos
 
 Los **hidrocarburos** son compuestos constituidos exclusivamente por **carbono** e **hidrógeno**. Entre los átomos de carbono pueden existir enlaces simples, dobles o triples. Constituyen el esqueleto de las moléculas orgánicas.
 
@@ -34,7 +43,7 @@ Los hidrocarburos aromáticos son los derivados del benceno ($\ce{C6H6}$), cuya 
 
 ![...](imagenes/tema02/aromaticos.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
-### **2.1 Hidrocarburos saturados lineales. Alcanos -ano** {: .caja-subtitulo}
+### **3.1 Hidrocarburos saturados lineales. Alcanos -ano** {: .caja-subtitulo}
 
 Los hidrocarburos saturados de cadena lineal tienen de fórmula general $\ce{C_nH_{2n+2}}$. Sólo contienen enlaces simples C-C. Pueden ser de cadena lineal o presentar ramificaciones laterales.
 
@@ -46,18 +55,18 @@ En una cadena carbonada podemos identificar carbonos primarios, o de final de ca
 
 - **Los hidrocarburos de cadena lineal** se nombran con un prefijo que indica el número de átomos de carbono de la cadena y la terminación -**ano**, característica de los hidrocarburos saturados.
 
-| Número de carbonos | Prefijo | 
-|---|---|
-| 1 | met- |
-| 2 | et- |
-| 3 | prop- |
-| 4 | but- |
-| 5 | pent- |
-| 6 | hex- |
-| 7 | hept- |
-| 8 | oct- |
-| 9 | non- |
-| 10 | dec- | 
+<div class="tabla-carbonos">
+  <!-- Encabezado repetido para las 4 columnas -->
+  <strong>Número de carbonos</strong><strong>Prefijo</strong>
+  <strong>Número de carbonos</strong><strong>Prefijo</strong>
+
+  <!-- Filas (de 4 en 4 celdas) -->
+  <div>1</div><div>met-</div><div>6</div><div>hex-</div>
+  <div>2</div><div>et-</div><div>7</div><div>hept-</div>
+  <div>3</div><div>prop-</div><div>8</div><div>oct-</div>
+  <div>4</div><div>but-</div><div>9</div><div>non-</div>
+  <div>5</div><div>pent-</div><div>10</div><div>dec-</div>
+</div>
 
 **Ejemplos**. Los primeros términos de la serie, hasta cuatro átomos de carbono, reciben nombres especiales:
 
@@ -109,7 +118,7 @@ En este tipo de hidrocarburos los átomos de carbono se encuentran unidos forman
 
 
 
-### **2.2 Alquenos -eno** {: .caja-subtitulo}
+### **3.2 Alquenos -eno** {: .caja-subtitulo}
 
 - **Doble enlace C=C**
 - Los dobles enlaces se localizan con números localizadores colocados antes del sufijo -eno.
@@ -126,7 +135,7 @@ En este tipo de hidrocarburos los átomos de carbono se encuentran unidos forman
 | CH3-CH=CH-CH2-CH2-CH3 \| CH2 \| CH3 | Nona-1,4-dieno (1,4-Nonadieno) | Se numera por el extremo de la derecha y así que dan los localizadores más bajos para los dobles enlaces (1,4), mientras que por el otro extremo se obtendría (5,8). La terminación abre es -dieno, indicando que existen dos dobles enlaces. |
 | CH3-CH=CH-CH2-CH=CH2 \| CH3 \| CH3 | 2,4-Dimetilhexa-1,5-dieno (2,4-Dimetil-1,5-hexadieno) | Los dobles enlaces quedan con los mismos localizadores (1,5) independientemente del extremo por el que se comience, entonces se numera por la izquierda para que los radicales queden con los localizadores más bajos. |
 
-### 2.3 Alquinos -ino
+### 3.3 Alquinos -ino
 
 - **Hidrocarburos de triples enlaces C≡C**
 - Los triples enlaces se localizan con números localizadores colocados antes del sufijo -ino.
@@ -140,7 +149,7 @@ En este tipo de hidrocarburos los átomos de carbono se encuentran unidos forman
 | CH3-CH2-C≡C-CH3 | Pent-2-ino (2-Pentino) | Se numera por el extremo derecho para que el triple enlace quede con el localizador más bajo. |
 | HC≡C-CH2-CH2-CH2-CH3 \| CH3 \| CH3 | 4,6-Dimetilhept-1-ino (4,6-Dimetil-1-heptino) | Se numera de forma que el triple enlace quede con el localizador más bajo, ya que tiene prioridad sobre las ramificaciones. |
 
-### 2.4 Cicloalcanos, cicloalquenos
+### 3.4 Cicloalcanos, cicloalquenos
 
 - Alcanos de cadena cerrada (ciclos) con un nº variable de átomos de carbono. Se nombran utilizando el prefijo ciclo- seguido del alcano.
 
@@ -160,7 +169,7 @@ En este tipo de hidrocarburos los átomos de carbono se encuentran unidos forman
 
 *(Imagen: 1-Cloro-2-metil-4-propilciclopentano)*
 
-### 2.5 Hidrocarburos Aromáticos -benceno
+### 3.5 Hidrocarburos Aromáticos -benceno
 
 - Hidrocarburos derivados del benceno (C₆H₆).
 
@@ -186,7 +195,7 @@ En este tipo de hidrocarburos los átomos de carbono se encuentran unidos forman
 
 *(Imagen: 2-fenilbut-2-eno)*
 
-### 2.6 Derivados Halogenados
+### 3.6 Derivados Halogenados
 
 - Compuestos obtenidos de hidrocarburos por sustitución por elementos halogenados (F, Cl, Br y I).
 
@@ -205,11 +214,11 @@ En este tipo de hidrocarburos los átomos de carbono se encuentran unidos forman
 | (benceno con CH3 y Cl) | 1,2-Dicloro-4-metilbenceno | Se elige el sentido de numeración para que los localizadores de los sustituyentes sean los más bajos (1,2,4). Se nombran en orden alfabético; en el orden alfabético no se tiene en cuenta el prefijo di-. |
 | (benceno con Br y Br) | 1,2-Dibromobenceno o-Dibromobenceno | Cuando los radicales van en carbonos contiguos 1,2-, se puede usar la nomenclatura alternativa "orto", que se escribe solo -o-. |
 
-## 3. Grupos funcionales
+## 4. Grupos funcionales
 
 Cuando el carbono se une a elementos diferentes del hidrógeno origina una estructura que son los grupos funcionales. Un **grupo funcional** sería un átomo o grupos de átomos que caracterizan a una serie de compuestos orgánicos con propiedades químicas parecidas.
 
-### 3.1 Alcoholes -ol
+### 4.1 Alcoholes -ol
 
 Grupos hidroxilo (-OH)
 
@@ -230,7 +239,7 @@ Grupos hidroxilo (-OH)
 | CH3-CH=CH-CHOH-CH3 | Pent-3-en-2-ol (3-Penten-2-ol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
 | CH2OH-CH=CH-CH2-CH2OH | Pent-2-en-1,5-diol (2-Penten-1,5-diol) | Los grupos -OH que son los que tiene la prioridad quedan con la misma numeración por ambos extremos, en este caso se le da preferencia al doble enlace. |
 
-### 3.2 Éteres -éter
+### 4.2 Éteres -éter
 
 Compuestos unidos a un átomo de oxígeno.
 
@@ -265,7 +274,7 @@ a) CH3-O-CH2-CH3
 | CH3-CH2-O-C₆H₅ | Etil fenil éter | Etoxibenceno |
 | CH2=CH-O-CH3 | Metil vinil éter | Metoxieteno |
 
-### 3.3 Aldehídos -al
+### 4.3 Aldehídos -al
 
 Grupo carbonilo (-CHO) en el extremo de la cadena carbonada.
 
@@ -286,7 +295,7 @@ Grupo carbonilo (-CHO) en el extremo de la cadena carbonada.
 | (ciclopentano con CHO) | Ciclopentanocarbaldehído | En los compuestos cíclicos se añade el sufijo -carbaldehído al nombre del ciclo. |
 | (benceno con CHO) | Bencenocarbaldehído (Benzaldehído) | En los compuestos cíclicos se añade el sufijo -carbaldehído al nombre del ciclo. El nombre benzaldehído deriva del ácido carboxílico (ácido benzoico). |
 
-### 3.4 Cetonas -ona
+### 4.4 Cetonas -ona
 
 Grupo carbonilo (CO)
 
@@ -309,7 +318,7 @@ Grupo carbonilo (CO)
 | CH3-CH2-CO-CH2-CH3 | Pentan-3-ona (3-Pentanona) | Dietil cetona | En este caso es necesario indicar la posición del grupo carbonilo -CO- con su localizador correspondiente. |
 | CH3-CH2-CH2-CO-CH3 | Pentan-2-ona (2-Pentanona) | Metil propil cetona | Es necesario indicar la posición del grupo carbonilo -CO- con su localizador correspondiente. Se numera la cadena por el extremo que se asigne al grupo -CO- el localizador más bajo. |
 
-### 3.5 Ácidos Carboxílicos -oico
+### 4.5 Ácidos Carboxílicos -oico
 
 Grupo carboxílico (-COOH)
 
@@ -327,7 +336,7 @@ Grupo carboxílico (-COOH)
 | HOOC-COOH | Ácido etanodioico (Ácido oxálico) | El sufijo -dioico indica que hay dos grupos carboxilo. |
 | C₆H₅-COOH | Ácido benzoico | El nombre ácido benzoico es un nombre común pero es el que más se utiliza. |
 
-### 3.6 Ésteres -oato
+### 4.6 Ésteres -oato
 
 Grupo carboxilo (-COOH) sustituido por un radical (-COOR')
 
@@ -345,7 +354,7 @@ Se obtiene en la reacción de esterificación.
 | C₆H₅-COO-CH3 | Benzoato de metilo | Deriva del ácido benzoico C₆H₅-COOH. En el que se ha sustituido el hidrógeno por un grupo metilo. |
 | CH3-COO-C₆H₅ | Etanoato de fenilo (Acetato de fenilo) | El radical fenilo -C₆H₅ ha sustituido al hidrógeno del grupo -COOH del ácido etanoico (ácido acético). |
 
-### 3.7 Aminas
+### 4.7 Aminas
 
 Derivados del amoniaco (NH₃) por sustitución de uno, dos o tres H por radicales.
 
@@ -353,7 +362,7 @@ Derivados del amoniaco (NH₃) por sustitución de uno, dos o tres H por radical
 
 Se nombran en orden alfabético los radicales seguidos de la palabra amina sin espacio entre ellos. Si los radicales son idénticos se simplifican anteponiendo el prefijo di- o tri-.
 
-### 3.7.1 Aminas Primarias
+### 4.7.1 Aminas Primarias
 
 **NOMENCLATURA SUSTITUTIVA**
 
@@ -371,7 +380,7 @@ Se nombran añadiendo -amina al nombre del hidrocarburo que ha sustituido al hid
 | NH₂-CH2-CH(NH₂)-CH2-CH3 | Butano-1,2-diamina (1,2-Butanodiamina) | | En los casos que haya dos o más grupos amino -NH₂, se utiliza la nomenclatura de sustitución. |
 | NH₂-CH2-CH=CH-CH2-CH3 | Pent-3-en-1-amina (3-Penten-1-amina) | 3-Pentenamina | La amina tiene preferencia sobre el doble enlace. El carbono 1 es el que está unido al nitrógeno. La nomenclatura de sustitución es la más utilizada para estos casos. |
 
-### 3.7.2 Aminas Secundarias y Terciarias
+### 4.7.2 Aminas Secundarias y Terciarias
 
 **NOMENCLATURA SUSTITUTIVA**
 

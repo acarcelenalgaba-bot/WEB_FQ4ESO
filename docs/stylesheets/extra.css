@@ -265,3 +265,30 @@ img {
   cursor: not-allowed !important;   /* Cursor de prohibido */
   pointer-events: none;             /* Desactiva los clics */
 }
+
+.tabla-carbonos {
+  display: grid;
+  grid-template-columns: repeat(4, auto); /* Cambiado a 4 columnas */
+  background-color: #ccc;                 /* Color de los bordes */
+  gap: 1px;                               /* Espacio = grosor del borde */
+  border: 1px solid #ccc;                 /* Borde exterior */
+  width: fit-content;
+}
+
+/* Estilo para todas las celdas */
+.tabla-carbonos > * {
+  background-color: #ffffff;
+  padding: 8px 16px;
+  text-align: center;
+}
+
+/* Estilo para los encabezados */
+.tabla-carbonos > strong {
+  background-color: #f6f7f8;
+  color: #101010;
+}
+
+/* Añade una línea divisoria entre la columna 2 y la 3 */
+.tabla-carbonos > :nth-child(4n + 2) {
+  border-right: 3px solid #cbdff3; /* Puedes cambiar el grosor o el color */
+}
