@@ -245,7 +245,7 @@ La identificación de la configuración electrónica con el sistema permite una 
 
 *   **Bloque f:** Lantánidos y actínidos (Metales de transición interna).
  
-## **4. Enlace químico**
+## **3. Enlace químico**
 
 Dos átomos se enlazan para alcanzar un estado de menor energía, estable.
 
@@ -297,7 +297,7 @@ En la naturaleza encontramos sustancias que tienen cierto carácter iónico y co
 *   **Covalente:** Ejemplo con Oxígeno e Hidrógeno.
 *   **Metálico:** Red de iones positivos rodeados por un mar de electrones.
 
-## **6. El enlace iónico**
+## **4. El enlace iónico**
 
 Cuando se aproximan un átomo de un elemento metálico, el metal pierde algún electrón de la última capa de valencia, que va a parar al elemento no metálico. Así se forman dos iones de cargas opuestas que se atraen y quedan enlazados por fuerzas electrostáticas.
 
@@ -340,71 +340,13 @@ Las propiedades más características de los compuestos iónicos son:
 ![...](imagenes/tema01/eq08.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
 
 
+## **5. Enlace metálico**
 
-## **7. Enlace metálico**
+El enlace **metálico** se produce entre dos elementos metálicos con tendencia a perder electrones. En esta situación, ningún elemento muestra tendencia a ganar electrones, por lo que la solución más estable consiste en dejar libres a los electrones y que sean compartidos entre todos los cationes que quedan.
 
-Las propiedades más representativas de los metales se pueden justificar a partir de dos modelos.
+La estructura que resulta es nuevamente una red cristalina tridimensional similar a la que se obtenía en el enlace iónico, pero con la salvedad de que ahora todas las particulas que conforman el entramado son cationes. La repulsion se consigue evitar gracias al efecto estabilizador de la nube de electrones. 
 
-1.  **Modelo de la nube electrónica o Drude:** es un modelo clásico (no cuántico) desarrollado a finales del siglo XIX y principios del XX. Este modelo tiene fallos que corrige en gran medida el modelo cuántico del electrón libre o modelo de gas de Fermi. Tanto el modelo de Drude como el de Fermi consideran a los electrones como partículas libres dentro de los materiales.
-2.  **Teoría de bandas:** Es una teoría cuántica en la que los electrones forman un gas cuántico (gas de Fermi) pero sometido a un potencial periódico producido por todos y cada uno de los núcleos positivos que forman la red cristalina.
-
-![...](imagenes/tema01/eq09.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
-
-### **Teoría de bandas** {: .caja-subtitulo}
-
-Consideremos dos átomos aislados de aquellos que constituyen el sólido, en estas condiciones, cada átomo por separado dispone de exactamente los mismos niveles de energía. 
-
-Supongamos ahora que acercamos estos átomos para formar el sólido, a medida que se aproximan, sus niveles electrónicos interactúan. Debido a esto, en virtud del **principio de exclusión de Pauli**, cada nivel único de energía de los electrones en cada átomo se desdobla. 
-
-La generalización de este razonamiento a los átomos nos lleva a ver que a cada nivel original del átomo, en un sólido le corresponde un número muy elevado de niveles discretos (tantos como átomos formen el sólido) de manera que estarán tan juntos que formarán lo que llamamos una "**banda de energía**".
-
-![...](imagenes/tema01/eq10.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
-  
-Se observa cómo los niveles discretos se ensanchan en bandas.
-
-Consideremos dos átomos aislados que constituyen el sólido, en estas condiciones, cada átomo por separado dispone de exactamente los mismos niveles de energía.
-
-Supongamos ahora que acercamos estos átomos para formar el sólido, a medida que se aproximan, sus nubes electrónicas interactúan. Debido a esto, en virtud del principio de exclusión de Pauli, cada nivel único de energía de los electrones en cada átomo se desdobla.
-
-La generalización de este razonamiento al caso de muchos átomos (10²³ m⁻³) nos lleva a ver que a cada nivel original del átomo, en un sólido le corresponde un número muy elevado de niveles discretos (tantos como átomos forman el sólido) de manera que estarán tan juntos que formarán lo que llamamos una **banda de energía**.
-
-### **Teoría de bandas (bandas y huecos)** {: .caja-subtitulo}
-
-De la misma manera que en el átomo los niveles de energía son discretos, en el sólido, entre banda y banda habrá valores de energía no permitidos (**banda prohibida**). 
-
-Del mismo modo que el nivel o capa de valencia determina las propiedades químicas de un elemento, en un sólido, las bandas de energía más externas serán las que principalmente determinen las propiedades del mismo. 
-
-Las bandas de energía más externas de un sólido se denominan bandas de valencia y de conducción y su posición relativa determina la distinción entre conductores, semiconductores y aislantes.
-
-![...](imagenes/tema01/eq11.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-> Figura. Aparición de bandas de energía fruto de la pérdida de degeneración de los niveles energéticos asociados a los electrones de un sólido.
-
-### **Teoría de bandas (Banda de valencia y de conducción)** {: .caja-subtitulo}
-
-*   **Banda de Valencia (B.V.):** Es la banda de energía más alta ocupada por electrones.
-*   **Banda de Conducción (B.C.):** Es la banda de energía vacía o parcialmente ocupada que permite la conducción eléctrica.
-  
-  La diferencia de energía entre ambas se llama **banda prohibida** (**BP**, gap).
-
-• Los **conductores** tienen la BV llena parcialmente de modo que al aplicar un E, los electrones pueden acceder a esos niveles y moverse (BC). También puede ocurrir que la BC y la BV estén solapadas, sin BP entre ellas. 
-
-• Los **aislantes** la BV está llena y la BP (gap) es tan grande que ante un E no pueden acceder electrones de la BV a la BC. 
-
-• Los **semiconductores** tienen una BP (gap) suficientemente pequeño para que puedan saltar electrones de la BV a la BC ante la presencia de un E. 
-
-![...](imagenes/tema01/eq12.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-### **Modelo de la nube electrónica** {: .caja-subtitulo}
-
-La estructura metálica está formada por iones positivos rodeados por un gas de electrones. Los electrones de valencia de cada uno de los átomos constituyentes son aportados al gas de electrones y dejan de pertenecer a un átomo en concreto. El gas de electrones funciona como un aglutinante de los iones de la red cristalina.
-
-![...](imagenes/tema01/eq13.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
-
-**Fallos:**
-
-*   Predice una dependencia de la conductividad con la T que difiere de los átomos.
-*   Predice un calor específico mucho mayor que el observado empíricamente.
+![...](imagenes/tema01/metales.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
 
 ### **Propiedades de los metales** {: .caja-subtitulo}
 
@@ -417,9 +359,9 @@ La estructura metálica está formada por iones positivos rodeados por un gas de
 
 *   El característico **brillo metálico** es también una consecuencia de la existencia de electrones libres que pueden absorber y emitir luz de diversas frecuencias.
 
-##  **8. Enlace covalente**
+##  **6. Enlace covalente**
 
-Cuando se enlazan dos **elementos no metálicos** forman sustancias mediante un enlace que se llama covalente (porque comparten electrones de valencia).
+Cuando se enlazan dos **elementos no metálicos** forman sustancias mediante un enlace que se llama **covalente** (porque comparten electrones de valencia).
 
 Cada hidrógeno comparte su electrón y el oxígeno comparte 2 electrones de su capa de valencia, así todos cumplen la regla del octeto.
 
@@ -441,7 +383,7 @@ Cada hidrógeno comparte su electrón y el oxígeno comparte 2 electrones de su 
 
 ### **Símbolos de Lewis** {: .caja-subtitulo}
 
-Un símbolo de Lewis está formado por el símbolo del elemento y un punto por cada electrón de valencia del átomo de un elemento. Los elementos de un mismo grupo tienen configuraciones similares en su capa de valencia, por lo que tienen símbolos de Lewis parecidos. El número de puntos (electrones de valencia) desapareados, corresponden al número de enlaces que un átomo de el elemento puede formar en un compuesto.
+Un **símbolo de Lewis** está formado por el símbolo del elemento y un punto por cada electrón de valencia del átomo de un elemento. Los elementos de un mismo grupo tienen configuraciones similares en su capa de valencia, por lo que tienen símbolos de Lewis parecidos. El número de puntos (electrones de valencia) desapareados, corresponden al número de enlaces que un átomo de el elemento puede formar en un compuesto.
 
 ![...](imagenes/tema01/eq16.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
 
@@ -477,8 +419,4 @@ Si forman **moléculas**
 *   Sólo se disuelven en disolventes de polaridad semejante.
 
 ![...](imagenes/tema01/eq19.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-
-
-
 
