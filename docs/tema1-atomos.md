@@ -365,7 +365,7 @@ Cuando se enlazan dos **elementos no metálicos** forman sustancias mediante un 
 
 Cada hidrógeno comparte su electrón y el oxígeno comparte 2 electrones de su capa de valencia, así todos cumplen la regla del octeto.
 
-![...](imagenes/tema01/eq15.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
+![...](imagenes/tema01/eq15.png){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
 
 **Las moléculas** son agrupaciones estables de un número fijo de átomos. Si los átomos son del mismo elemento forman sustancias simples, si son de diferentes elementos forman compuestos.
 
