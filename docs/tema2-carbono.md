@@ -1,6 +1,6 @@
 # Tema 2: Química del Carbono
 
-## 1. Introducción
+## **1. Introducción**
 
 La **química orgánica** es la rama de la química que se ha especializado en el estudio de los compuestos complejos que forma el carbono, tanto los que utilizan los seres vivos como los que se sintetizan en el laboratorio.
 
@@ -16,7 +16,7 @@ Sin embargo, compartir sus electrones formando enlaces covalentes es mucho más 
 
 ![...](imagenes/tema02/configuracion.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
-## 2. Representaciones moleculares
+## **2. Representaciones moleculares**
 
 En los compuestos orgánicos encontramos una gran variedad de posibilidades de utilizar diferentes tipos de fórmulas según lo que nos interese destacar.
 
@@ -25,7 +25,7 @@ En los compuestos orgánicos encontramos una gran variedad de posibilidades de u
 | Informa solo acerca de qué elementos y en qué cantidad aparecen en el compuesto | Muestra únicamente los enlaces entre carbonos o algún otro elemento puente. | Muestra todos los enlaces que existen en la molécula | Indica los enlaces, los ángulos y la disposición espacial |
 | <img src="../imagenes/tema02/eter1.png"> | <img src="../imagenes/tema02/eter2.png"> | <img src="../imagenes/tema02/eter3.png"> | <img src="../imagenes/tema02/eter4.png"> |
 
-## 3. Hidrocarburos
+## **3. Hidrocarburos**
 
 Los **hidrocarburos** son compuestos constituidos exclusivamente por **carbono** e **hidrógeno**. Entre los átomos de carbono pueden existir enlaces simples, dobles o triples. Constituyen el esqueleto de las moléculas orgánicas.
 
@@ -148,8 +148,6 @@ En este tipo de hidrocarburos los átomos de carbono se encuentran unidos forman
 
 - La numeración del ciclo se hace de tal forma que los localizadores (suma) sean los más bajos posibles. Si hay duda decide el orden alfabético de los sustituyentes.
 
-
-
 ### **3.2 Alquenos -eno** {: .caja-subtitulo}
 
 - **Doble enlace C=C**
@@ -246,7 +244,7 @@ En este tipo de hidrocarburos los átomos de carbono se encuentran unidos forman
 | (benceno con CH3 y Cl) | 1,2-Dicloro-4-metilbenceno | Se elige el sentido de numeración para que los localizadores de los sustituyentes sean los más bajos (1,2,4). Se nombran en orden alfabético; en el orden alfabético no se tiene en cuenta el prefijo di-. |
 | (benceno con Br y Br) | 1,2-Dibromobenceno o-Dibromobenceno | Cuando los radicales van en carbonos contiguos 1,2-, se puede usar la nomenclatura alternativa "orto", que se escribe solo -o-. |
 
-## 4. Grupos funcionales
+## **4. Grupos funcionales**
 
 Cuando el carbono se une a elementos diferentes del hidrógeno origina una estructura que son los grupos funcionales. Un **grupo funcional** sería un átomo o grupos de átomos que caracterizan a una serie de compuestos orgánicos con propiedades químicas parecidas.
 
