@@ -71,7 +71,15 @@ Los hidrocarburos aromáticos son los derivados del benceno ($\ce{C6H6}$), cuya 
 
 Los hidrocarburos saturados de cadena lineal tienen de fórmula general $\ce{C_nH_{2n+2}}$. Sólo contienen enlaces simples C-C. Pueden ser de cadena lineal o presentar ramificaciones laterales.
 
-En una cadena carbonada podemos identificar carbonos primarios, o de final de cadena, en los que solo uno de sus enlaces se utiliza para enlazar con otro carbono; secundarios, enlazados a dos carbonos; terciarios, enlazados a tres carbonos, o cuaternarios cuando sus cuatro enlaces son uniones C-C:
+En una cadena carbonada podemos identificar:
+
+- carbonos **primarios**, o de final de cadena, en los que solo uno de sus enlaces se utiliza para enlazar con otro carbono;
+
+- **secundarios**, enlazados a dos carbonos; 
+  
+- **terciarios**, enlazados a tres carbonos;
+  
+- **cuaternarios** cuando sus cuatro enlaces son uniones C-C.
 
 ![...](imagenes/tema02/tipos_carbonos.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
