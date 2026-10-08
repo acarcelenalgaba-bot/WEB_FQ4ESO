@@ -155,7 +155,7 @@ En este tipo de hidrocarburos los átomos de carbono se encuentran unidos forman
 
 | Fórmula | Nombre | Observaciones |
 |---|---|---|
-| CH2=CH2 | Eteno (Etileno) | Alqueno se comienza con un número si es necesario para evitar ambigüedades. |
+| $\ce{CH2=CH2}$ | Eteno (Etileno) | Alqueno se comienza con un número si es necesario para evitar ambigüedades. |
 | CH3-CH=CH2 | Propeno | Es el caso que no hace falta indicar el localizador del doble enlace porque no existe ninguna duda de su posición (entre el carbono 1 y 2). Si fuera entre los dos átomos de carbono sería el mismo compuesto, pero se comenzaría la numeración por el otro extremo y de nuevo quedaría entre 1 y 2. |
 | CH3-CH2-CH=CH2 | But-1-eno (1-Buteno) | La numeración se empieza por el extremo derecho, para así que el doble enlace con el localizador más bajo, el 1. |
 | CH3-CH=CH-CH3 | But-2-eno (2-Buteno) | En este caso es indiferente el extremo por el que se ataca la numeración, pues en ambos casos el doble enlace se sitúa entre los carbonos 2 y 3. Se nombra but-2-eno por ser el 2 el número más pequeño que se puede asignar a los carbonos que se encuentran el doble enlace. |
