@@ -67,7 +67,7 @@ Los hidrocarburos aromáticos son los derivados del benceno ($\ce{C6H6}$), cuya 
 
 ![...](imagenes/tema02/aromaticos.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
-### **3.1 Hidrocarburos saturados lineales. Alcanos -ano** {: .caja-subtitulo}
+### **3.1 Hidrocarburos saturados lineales. Alcanos (-ano)** {: .caja-subtitulo}
 
 Los hidrocarburos saturados de cadena lineal tienen de fórmula general $\ce{C_nH_{2n+2}}$. Sólo contienen enlaces simples C-C. Pueden ser de cadena lineal o presentar ramificaciones laterales.
 
@@ -81,7 +81,7 @@ En una cadena carbonada podemos identificar:
   
 - **cuaternarios** cuando sus cuatro enlaces son uniones C-C.
 
-![...](imagenes/tema02/tipos_carbonos.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
+![...](imagenes/tema02/tipos_carbonos.png){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
 
 ### **Nomenclatura** {: .caja-subtitulo2}
 
@@ -126,44 +126,53 @@ Para **nombrar** **hidrocarburos saturados ramificados** se aplican los criterio
    
       - La más larga
       - La que tenga mayor número de sustituciones
-      - La que tenga los localizadores (suma) más bajos.
 
 2. **Numerar la cadena principal** de tal forma que los localizadores (suma) sean los más bajos posibles.
 
-3. **Nombrar los sustituyentes por orden alfabético**. A la hora de clasificar alfabéticamente no se consideran los prefijos numerales (di, tri...) de los sustituyentes simples.
+3. **Nombrar los sustituyentes por orden alfabético** con:
+    1. Un número llamado localizador que indica la posición en la cadena.
+   
+    2. Un prefijo en función del número de carbonos. Si hay más de uno, se añade un prefijo numérico: di-, tri-, tetra-... A la hora de clasificar alfabéticamente no se consideran los prefijos numerales (di, tri...) de los sustituyentes simples.
+   
+    3. Se finalizan en -**il**.
+   
+    4. Los números se separan entre sí con comas y de las letras con un guion. 
 
-4. **Nombrar la cadena principal**.
+4. **Nombrar la cadena principal** con el prefijo adecuado terminado en -**ano**.
 
-!!! note "Localizadores"
-Los **localizadores** son números que se asignan a los átomos de carbono de la cadena principal. Sirven para indicar la posición de las sustituciones (ramificaciones).
+> Los **localizadores** son números que se asignan a los átomos de carbono de la cadena principal. Sirven para indicar la posición de las sustituciones (ramificaciones).
 
 ![...](imagenes/tema02/ejemplo1.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
 ### **Hidrocarburos saturados cíclicos** (**cicloalcanos**) {: .caja-subtitulo}
-En este tipo de hidrocarburos los átomos de carbono se encuentran unidos formando anillos.
+En este tipo de hidrocarburos los átomos de carbono se encuentran unidos **formando anillos**.
 
 ### **Nomenclatura** {: .caja-subtitulo2}
 
-- Los cicloalcanos se nombran anteponiendo el nombre de los sustituyentes (en orden alfabético) al del hidrocarburo correspondiente con la palabra ciclo antepuesta.
+- Los **cicloalcanos** se nombran anteponiendo el nombre de los sustituyentes (en orden alfabético) al del hidrocarburo correspondiente con la palabra **ciclo** antepuesta.
 
 - La numeración del ciclo se hace de tal forma que los localizadores (suma) sean los más bajos posibles. Si hay duda decide el orden alfabético de los sustituyentes.
 
-### **3.2 Alquenos -eno** {: .caja-subtitulo}
+![...](imagenes/tema02/cicloalcano.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
-- **Doble enlace C=C**
-- Los dobles enlaces se localizan con números localizadores colocados antes del sufijo -eno.
+### **3.2 Alquenos (-eno)** {: .caja-subtitulo}
 
-| Fórmula | Nombre | Observaciones |
-|---|---|---|
-| $\ce{CH2=CH2}$ | Eteno (Etileno) | Alqueno se comienza con un número si es necesario para evitar ambigüedades. |
-| CH3-CH=CH2 | Propeno | Es el caso que no hace falta indicar el localizador del doble enlace porque no existe ninguna duda de su posición (entre el carbono 1 y 2). Si fuera entre los dos átomos de carbono sería el mismo compuesto, pero se comenzaría la numeración por el otro extremo y de nuevo quedaría entre 1 y 2. |
-| CH3-CH2-CH=CH2 | But-1-eno (1-Buteno) | La numeración se empieza por el extremo derecho, para así que el doble enlace con el localizador más bajo, el 1. |
-| CH3-CH=CH-CH3 | But-2-eno (2-Buteno) | En este caso es indiferente el extremo por el que se ataca la numeración, pues en ambos casos el doble enlace se sitúa entre los carbonos 2 y 3. Se nombra but-2-eno por ser el 2 el número más pequeño que se puede asignar a los carbonos que se encuentran el doble enlace. |
-| CH3-CH2-CH2-CH=CH2 \| CH3 | 4-Metilpent-1-eno (4-Metil-1-penteno) | Se numera de forma que el doble enlace queda con el localizador más bajo, ya que tiene prioridad sobre las ramificaciones. |
-| CH3-CH=CH-CH2-CH2-CH3 \| CH2 \| CH3 | 4,5-Dimetilhept-1-eno (4,5-Dimetil-1-hepteno) | Se numera por la izquierda para que el doble enlace quede con el localizador más bajo, ya que tiene prioridad sobre las ramificaciones. |
-| CH3-CH2-CH=CH-CH2-CH3 \| CH3 | 2-Metilhex-3-eno (2-Metil-3-hexeno) | En este caso el doble enlace se encuentra compitiendo con el metilo: localizador independientemente del extremo por el que se nombre. Se numera por el extremo que es el radical el que le asigne los localizadores más bajos. |
-| CH3-CH=CH-CH2-CH2-CH3 \| CH2 \| CH3 | Nona-1,4-dieno (1,4-Nonadieno) | Se numera por el extremo de la derecha y así que dan los localizadores más bajos para los dobles enlaces (1,4), mientras que por el otro extremo se obtendría (5,8). La terminación abre es -dieno, indicando que existen dos dobles enlaces. |
-| CH3-CH=CH-CH2-CH=CH2 \| CH3 \| CH3 | 2,4-Dimetilhexa-1,5-dieno (2,4-Dimetil-1,5-hexadieno) | Los dobles enlaces quedan con los mismos localizadores (1,5) independientemente del extremo por el que se comience, entonces se numera por la izquierda para que los radicales queden con los localizadores más bajos. |
+Los **alquenos** son hidrocarburos no saturados que contienen dobles enlaces carbono-carbono. - **Doble enlace C=C**. 
+
+Los dobles enlaces se localizan con números localizadores colocados antes del sufijo -eno.
+
+### **Nomenclatura** {: .caja-subtitulo2}
+
+- Los alquenos se nombran igual que los hidrocarburos saturados correspondientes cambiando la terminación -**ano** por -**eno**.
+
+- En caso de que sea necesario se especifica la posición del doble enlace con un número (localizador). El localizador se coloca inmediatamente antes de la terminación característica del compuesto (eno).
+
+- La numeración de la cadena se hace de forma que el localizador del doble enlace tenga el número más bajo posible.
+
+Existen algunos radicales insaturados que por su importancia conviene conocer:
+
+![...](imagenes/tema02/alqueno.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
+
 
 ### 3.3 Alquinos -ino
 
