@@ -241,28 +241,36 @@ $\ce{CH3-CH=CH2-Br \hspace{1cm}}$  1-bromopropeno   $\ce{\hspace{1cm} CH3-CBr=CH
 
 Cuando el carbono se une a elementos diferentes del hidrógeno origina una estructura que son los grupos **funcionales**. Un **grupo funcional** sería un átomo o grupos de átomos que caracterizan a una serie de compuestos orgánicos con propiedades químicas parecidas.
 
-### 4.1 Alcoholes -ol
+### **4.1 Alcoholes -ol** {: .caja-subtitulo}
 
-Grupos hidroxilo (-OH)
+Los **alcoholes** resultan de la sustitución de uno o más átomos de hidrógeno de un hidrocarburo por grupos hidroxilo (-**OH**). Si la sustitución tiene lugar en un hidrocarburo alifático se obtienen los alcoholes propiamente dichos y si es aromático se obtienen los **fenoles**.
 
-- Se nombran como los hidrocarburos de los que proceden con la terminación -ol, indicando la posición con localizadores más bajos. Si hay más de un grupo, es necesario el prefijo multiplicador.
+Los alcoholes se pueden clasificar en primarios, secundarios o terciarios en función de que el grupo -OH se encuentre unido a un carbono primario, secundario o terciario:
 
-- Orden numérico preferencia sobre los dobles/triples enlaces.
+![...](imagenes/tema02/tipos_alcohol.png){ style="display: block; margin: 0 auto; width: 65%; height: auto;" }
 
-- Cuando el grupo -OH va como sustituyente, al existir en la cadena otro grupo funcional de mayor prioridad, se nombra como "hidroxi-".
+### **Nomenclatura** {: .caja-subtitulo2}
 
-| Fórmula | Nombre | Observaciones |
-|---|---|---|
-| CH3-CHOH-CH2-CHOH-CH2-CH3 | Hexano-2,4-diol (2,4-Hexanediol) | Se nombra por la izquierda para que los grupos -OH tengan los localizadores más bajos. Se utiliza el sufijo -diol que indica que hay dos grupos -OH. |
-| CH3-CH2-CH(CH3)-CH2-CH2-OH | 3-Metilpentan-1-ol (3-Metil pentanol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
-| CH3-CH2-C(CH3)₂-CH2-CH(OH)-CH3 | 3,5,5-Trimetilhexan-2-ol (3,5,5-Trimetilhexan-2-ol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
-| CH2OH-CHOH-CH2OH | Propano-1,2,3-triol (1,2,3-Propanetriol) | Se indica la presencia de tres grupos -OH con el sufijo -triol. Como el sufijo no menciona por vocal, la -ol- final del hidrocarburo se conserva. Glicerina es el término en un nombre común aceptado. |
-| CH3-CHOH-CH2-CH2-CH(CH3)-CH3 | 4-Metilhexan-2-ol (4-Metil-2-hexanol) | Se nombra por la izquierda para que los grupos -OH tengan los radicales. Se utiliza el sufijo -diol que indica que hay dos grupos -OH. |
-| CH3-CH=CH-CH=C(CH3)-CH3 | 4-Metilhexa-2,4-dien-2-ol (4-Metil-2,4-hexadien-2-ol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
-| CH3-CH=CH-CHOH-CH3 | Pent-3-en-2-ol (3-Penten-2-ol) | En la numeración el grupo funcional -OH tiene preferencia sobre los radicales. |
-| CH2OH-CH=CH-CH2-CH2OH | Pent-2-en-1,5-diol (2-Penten-1,5-diol) | Los grupos -OH que son los que tiene la prioridad quedan con la misma numeración por ambos extremos, en este caso se le da preferencia al doble enlace. |
+Para nombrarlos observamos las siguientes normas: 
 
-### 4.2 Éteres -éter
+a) Identifica la cadena más larga que contenga al grupo hidroxilo -OH. 
+
+b) Empieza a contar de manera que los hidroxilos queden en las posiciones más bajas posibles. Se incorpora un indicador numérico por cada grupo hidroxilo.
+
+c) Se cambia la terminación -**o** del hidrocarburo por el grupo -**ol**. 
+
+d) Se añade un prefijo numérico delante del sufijo indicando el número de -OH. Si hay más de un hidroxilo, tras la terminación del enlace simple o múltiple se añade una o. 
+
+![...](imagenes/tema02/butanodiol.png){ style="display: block; margin: 0 auto; width: 65%; height: auto;" }
+
+Otros ejemplos:
+
+| Fórmula | Nombre | Fórmula | Nombre |
+|:---|:---|:---|:---|
+| <img src="../imagenes/tema02/metanol.svg" class="img-lineal"> | metanol | <img src="../imagenes/tema02/propanol.svg" class="img-ramificada"> | propan-2-ol | 
+| <img src="../imagenes/tema02/etanol.svg" class="img-lineal"> | etanol | <img src="../imagenes/tema02/butanodiol.svg" class="img-ramificada"> | butano-1,3-diol |
+
+### **4.2 Éter** {: .caja-subtitulo}
 
 Compuestos unidos a un átomo de oxígeno.
 
@@ -297,7 +305,7 @@ a) CH3-O-CH2-CH3
 | CH3-CH2-O-C₆H₅ | Etil fenil éter | Etoxibenceno |
 | CH2=CH-O-CH3 | Metil vinil éter | Metoxieteno |
 
-### 4.3 Aldehídos -al
+### **4.3 Aldehídos -al** {: .caja-subtitulo}
 
 Grupo carbonilo (-CHO) en el extremo de la cadena carbonada.
 
@@ -318,7 +326,7 @@ Grupo carbonilo (-CHO) en el extremo de la cadena carbonada.
 | (ciclopentano con CHO) | Ciclopentanocarbaldehído | En los compuestos cíclicos se añade el sufijo -carbaldehído al nombre del ciclo. |
 | (benceno con CHO) | Bencenocarbaldehído (Benzaldehído) | En los compuestos cíclicos se añade el sufijo -carbaldehído al nombre del ciclo. El nombre benzaldehído deriva del ácido carboxílico (ácido benzoico). |
 
-### 4.4 Cetonas -ona
+### **4.4 Cetonas -ona** {: .caja-subtitulo}
 
 Grupo carbonilo (CO)
 
@@ -341,7 +349,7 @@ Grupo carbonilo (CO)
 | CH3-CH2-CO-CH2-CH3 | Pentan-3-ona (3-Pentanona) | Dietil cetona | En este caso es necesario indicar la posición del grupo carbonilo -CO- con su localizador correspondiente. |
 | CH3-CH2-CH2-CO-CH3 | Pentan-2-ona (2-Pentanona) | Metil propil cetona | Es necesario indicar la posición del grupo carbonilo -CO- con su localizador correspondiente. Se numera la cadena por el extremo que se asigne al grupo -CO- el localizador más bajo. |
 
-### 4.5 Ácidos Carboxílicos -oico
+### **4.5 Ácidos Carboxílicos -oico** {: .caja-subtitulo}
 
 Grupo carboxílico (-COOH)
 
@@ -359,7 +367,7 @@ Grupo carboxílico (-COOH)
 | HOOC-COOH | Ácido etanodioico (Ácido oxálico) | El sufijo -dioico indica que hay dos grupos carboxilo. |
 | C₆H₅-COOH | Ácido benzoico | El nombre ácido benzoico es un nombre común pero es el que más se utiliza. |
 
-### 4.6 Ésteres -oato
+### **4.6 Ésteres -oato** {: .caja-subtitulo}
 
 Grupo carboxilo (-COOH) sustituido por un radical (-COOR')
 
@@ -377,7 +385,7 @@ Se obtiene en la reacción de esterificación.
 | C₆H₅-COO-CH3 | Benzoato de metilo | Deriva del ácido benzoico C₆H₅-COOH. En el que se ha sustituido el hidrógeno por un grupo metilo. |
 | CH3-COO-C₆H₅ | Etanoato de fenilo (Acetato de fenilo) | El radical fenilo -C₆H₅ ha sustituido al hidrógeno del grupo -COOH del ácido etanoico (ácido acético). |
 
-### 4.7 Aminas
+### **4.7 Aminas** {: .caja-subtitulo}
 
 Derivados del amoniaco (NH₃) por sustitución de uno, dos o tres H por radicales.
 
