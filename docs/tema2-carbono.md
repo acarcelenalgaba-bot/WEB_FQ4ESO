@@ -173,6 +173,17 @@ Existen algunos radicales insaturados que por su importancia conviene conocer:
 
 ![...](imagenes/tema02/alqueno.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
+### **Cicloalquenos**) {: .caja-subtitulo}
+Los cicloalquenos son hidrocarburos insaturados que poseen uno o más dobles enlaces en su cadena
+que, además, está ciclada.
+
+### **Nomenclatura** {: .caja-subtitulo2}
+
+Los cicloalquenos se nombran igual que los hidrocarburos saturados cíclicos (cicloalcanos), cambiando la terminación -ano por -eno.
+
+
+
+![...](imagenes/tema02/cicloalqueno.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
 ### 3.3 Alquinos -ino
 
