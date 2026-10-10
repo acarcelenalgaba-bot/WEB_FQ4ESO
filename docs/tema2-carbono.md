@@ -241,7 +241,7 @@ $\ce{CH3-CH=CH2-Br \hspace{1cm}}$  1-bromopropeno   $\ce{\hspace{1cm} CH3-CBr=CH
 
 Cuando el carbono se une a elementos diferentes del hidrógeno origina una estructura que son los grupos **funcionales**. Un **grupo funcional** sería un átomo o grupos de átomos que caracterizan a una serie de compuestos orgánicos con propiedades químicas parecidas.
 
-### **4.1 Alcoholes -ol** {: .caja-subtitulo}
+### **4.1 Alcoholes (-ol)** {: .caja-subtitulo}
 
 Los **alcoholes** resultan de la sustitución de uno o más átomos de hidrógeno de un hidrocarburo por grupos hidroxilo (-**OH**). Si la sustitución tiene lugar en un hidrocarburo alifático se obtienen los alcoholes propiamente dichos y si es aromático se obtienen los **fenoles**.
 
@@ -272,84 +272,54 @@ Otros ejemplos:
 
 ### **4.2 Éter** {: .caja-subtitulo}
 
-Compuestos unidos a un átomo de oxígeno.
+En los éteres un átomo de oxígeno enlaza dos radicales de alquilo: **R-O-R'**
 
-**NOMENCLATURA FUNCIONAL**
+Los éteres se pueden considerar derivados de los hidrocarburos por sustitución de un hidrógeno por el radical -O-R (alcoxi), o bien derivados de los alcoholes si consideramos que el hidrógeno del grupo hidroxilo se ha sustituido por un radical de alquilo.
 
-- Se nombran en orden alfabético los radicales R y R' separados por espacios y a continuación la palabra éter, también separada por un espacio. Si los dos radicales son iguales, se usa el prefijo "di-".
+Si los dos radicales de alquilo son iguales se dice que el éter es simétrico y si son diferentes, asimétrico.
 
-Ej: CH3-O-CH2-CH3 se nombra: Etil metil éter
+### **Nomenclatura** {: .caja-subtitulo2}
+ 
+Se nombran los radicales (por orden alfabético) unidos al átomo de oxígeno seguidos de la palabra éter.
 
-**NOMENCLATURA SUSTITUTIVA**
+Ejemplos:
 
-- Se considera uno de los radicales unidos al oxígeno (el R+complejo, +largo) como "estructura principal", mientras que el resto R'-O se considera como sustituyente.
+![...](imagenes/tema02/eter_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
 
-- El éter se nombra con la raíz del nombre del hidrocarburo más sencillo (R'-O) acabado en "-oxi" y a continuación el nombre del hidrocarburo de la estructura principal.
+### **Grupo funcional: - CO - (carbonilo)**
 
-- Si el sustituyente (grupo alcoxi R'-O) puede ir unido en varias posiciones a la estructura principal, se indica con el localizador del carbono de la estructura principal al que se une.
+El grupo carbonilo consta de un oxígeno unido mediante un doble enlace al carbono. Puede estar situado en un carbono primario o en uno secundario
 
-Ej:
+![...](imagenes/tema02/carbonilo.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
-a) CH3-O-CH2-CH3
+### **4.3 Aldehídos (-al)** {: .caja-subtitulo}
 
-- Sustituyente R'-O: **Metoxi**
-- Hidrocarburo principal, R: **Etano**
-- **Metoxietano**
+En los aldehídos el grupo carbonilo se encuentra en un carbono primario: ![aldehído](imagenes/tema02/aldehido.svg){ style="display: inline-block; vertical-align: bottom; width: 10%; height: auto;" }
 
-| Fórmula | Nomenclatura funcional | Nomenclatura de sustitución |
-|---|---|---|
-| CH3-O-CH3 | Dimetil éter | Metoximetano |
-| CH3-O-CH2-CH3 | Etil metil éter | Metoxietano |
-| CH3-CH2-O-CH2-CH3 | Dietil éter | Etoxietano |
-| CH3-CH2-CH2-CH2-O-CH3 | Butil metil éter | 1-Metoxibutano |
-| CH3-CH2-O-C₆H₅ | Etil fenil éter | Etoxibenceno |
-| CH2=CH-O-CH3 | Metil vinil éter | Metoxieteno |
+### **Nomenclatura** {: .caja-subtitulo2}
 
-### **4.3 Aldehídos -al** {: .caja-subtitulo}
+Se nombran cambiando la terminación del hidrocarburo por -**al**.
 
-Grupo carbonilo (-CHO) en el extremo de la cadena carbonada.
+Ejemplos:
 
-- Se nombran añadiendo la terminación -al al nombre del hidrocarburo del que proceden. No se indica localizador. Si hay dos grupos -CHO, se añade la terminación -dial.
+![...](imagenes/tema02/aldehido_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
 
-- Orden numeración: Solo pueden ser terminales, por lo que la cadena se empieza a numerar por el extremo donde se encuentra el grupo -CHO.
+### **4.4 Cetonas (-ona)** {: .caja-subtitulo}
 
-- Sustituyente (-CHO): Prefijo formil-. Son prioritarios frente los aldehídos: ácidos carboxílicos y ésteres.
+En las cetonas el grupo carbonilo se encuentra en un carbono secundario:
+R- C -R'
 
-| Fórmula | Nombre | Observaciones |
-|---|---|---|
-| CH3-CH2-CH(CH3)-CH=CH-CHO | 3,5-Dimetilhex-4-enal (3,5-Dimetil-4-hexenal) | Se nombra por la derecha ya que el grupo -CHO tiene preferencia sobre los radicales, aunque no se indica el localizador. |
-| CH3-CH2-CH(CH3)-C≡CH | But-3-inal (3-Butinal) | Se nombra por el extremo de la derecha, ya que el grupo -CHO tiene preferencia sobre los radicales. |
-| OHC-CH2-CH(CH3)-CHO | Butanodial | Cuando hay dos grupos -CHO en los extremos se añade el sufijo -dial al nombre completo del hidrocarburo. No hace falta indicar los localizadores. |
-| OHC-CH(CH3)-CH2-CHO | Metilpropanodial | No es necesario indicar el localizador del radical metilo ya que no hay otra posibilidad de colocación. |
-| CH3-CH2-CH(CH3)-CH=CH-CHO | 3-Metilhex-2-en-5-inal (3-Metil-2-hexen-5-inal) | Se nombra por la derecha ya que el grupo -CHO tiene preferencia sobre los radicales, aunque no se indica el localizador. |
-| CH3-CH2-CH(CH3)-CH=CH-CHO | 3-Propilpent-4-enal (3-Propil-4-enal) | La cadena principal es la que contiene el grupo -CHO y el doble enlace, aunque no sea la más larga. Se nombra por el extremo que se le da el localizador. El grupo -CHO, pues tiene prioridad sobre el doble enlace y el radical. |
-| (ciclopentano con CHO) | Ciclopentanocarbaldehído | En los compuestos cíclicos se añade el sufijo -carbaldehído al nombre del ciclo. |
-| (benceno con CHO) | Bencenocarbaldehído (Benzaldehído) | En los compuestos cíclicos se añade el sufijo -carbaldehído al nombre del ciclo. El nombre benzaldehído deriva del ácido carboxílico (ácido benzoico). |
+### **Nomenclatura** {: .caja-subtitulo2}
 
-### **4.4 Cetonas -ona** {: .caja-subtitulo}
+La cadena se numera de tal forma que el grupo carbonilo tenga el número más bajo posible.
 
-Grupo carbonilo (CO)
+Se nombran cambiando la terminación del hidrocarburo por -**ona**.
 
-**NOMENCLATURA FUNCIONAL**
+Ejemplos:
 
-- Se nombran en orden alfabético los dos radicales separados por espacios y a continuación separada la palabra cetona. Si los dos radicales son idénticos se usa el prefijo di-.
+![...](imagenes/tema02/cetona_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
 
-**NOMENCLATURA SUSTITUTIVA**
-
-- Se nombran añadiendo la terminación -ona al nombre del hidrocarburo del que proceden, anteponiendo el localizador correspondiente. Si hay más de 1 grupo -CO-, se pone el prefijo multiplicador.
-
-- Orden numérico: el grupo -CO- tiene preferencia sobre las instauraciones. Se numera la cadena de modo que al grupo -CO- le corresponda el localizador más bajo.
-
-- Sustituyente (-CO-): Prefijo oxo-. Son prioritarios frente a las cetonas: ácidos carboxílicos, ésteres y aldehídos.
-
-| Fórmula | Nombre de sustitución | Nombre funcional | Observaciones |
-|---|---|---|---|
-| CH3-CO-CH3 | Propanona (Acetona) | Dimetil cetona | No se indica el localizador 2 ya que el grupo carbonilo (-CO-) no puede ir en otra posición. El nombre acetona es un nombre común aceptado y muy utilizado. |
-| CH3-CO-CH2-CH3 | Butanona | Etil metil cetona | No se indica el localizador 2 ya que el grupo carbonilo (-CO-) no puede ir en otra posición. |
-| CH3-CH2-CO-CH2-CH3 | Pentan-3-ona (3-Pentanona) | Dietil cetona | En este caso es necesario indicar la posición del grupo carbonilo -CO- con su localizador correspondiente. |
-| CH3-CH2-CH2-CO-CH3 | Pentan-2-ona (2-Pentanona) | Metil propil cetona | Es necesario indicar la posición del grupo carbonilo -CO- con su localizador correspondiente. Se numera la cadena por el extremo que se asigne al grupo -CO- el localizador más bajo. |
-
-### **4.5 Ácidos Carboxílicos -oico** {: .caja-subtitulo}
+### **4.5 Ácidos Carboxílicos (-oico)** {: .caja-subtitulo}
 
 Grupo carboxílico (-COOH)
 
