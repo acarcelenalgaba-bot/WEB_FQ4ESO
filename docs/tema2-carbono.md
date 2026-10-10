@@ -157,7 +157,7 @@ En este tipo de hidrocarburos los átomos de carbono se encuentran unidos **form
 
 ### **3.2 Alquenos (-eno)** {: .caja-subtitulo}
 
-Los **alquenos** son hidrocarburos no saturados que contienen dobles enlaces carbono-carbono. - **Doble enlace C=C**. 
+Los **alquenos** son hidrocarburos no saturados que contienen **dobles enlaces** carbono-carbono, **C=C**. 
 
 Los dobles enlaces se localizan con números localizadores colocados antes del sufijo -eno.
 
@@ -173,100 +173,73 @@ Existen algunos radicales insaturados que por su importancia conviene conocer:
 
 ![...](imagenes/tema02/alqueno.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
-### **Cicloalquenos**) {: .caja-subtitulo}
-Los cicloalquenos son hidrocarburos insaturados que poseen uno o más dobles enlaces en su cadena
-que, además, está ciclada.
+### **Cicloalquenos** {: .caja-subtitulo}
+
+Los **cicloalquenos** son hidrocarburos insaturados que poseen uno o más dobles enlaces en su cadena que, además, está ciclada.
 
 ### **Nomenclatura** {: .caja-subtitulo2}
 
 Los cicloalquenos se nombran igual que los hidrocarburos saturados cíclicos (cicloalcanos), cambiando la terminación -ano por -eno.
 
+![...](imagenes/tema02/cicloalqueno.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
+### **3.3 Alquinos (-ino)** {: .caja-subtitulo}
 
-![...](imagenes/tema02/cicloalqueno.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
+Los **alquinos** son hidrocarburos insaturados que se caracterizan por tener **triples enlaces** carbono-carbono
 
-### 3.3 Alquinos -ino
+### **Nomenclatura** {: .caja-subtitulo2}
 
-- **Hidrocarburos de triples enlaces C≡C**
-- Los triples enlaces se localizan con números localizadores colocados antes del sufijo -ino.
+- Los **alquinos** se nombran igual que los hidrocarburos saturados correspondientes, cambiando la terminación -**ano** por -**ino**. Los localizadores se colocan inmediatamente antes de la terminación característica del compuesto (ino).
+  
+- La numeración de la cadena se hará de forma tal que el triple enlace tenga el localizador más bajo.
 
-| Fórmula | Nombre | Observaciones |
-|---|---|---|
-| CH≡CH | Etino (Acetileno) | El número localizador se omite ya que no hay ninguna duda de su posición (entre el carbono 1 y 2). Para la IUPAC, el nombre etino es el aceptado. |
-| CH3-C≡CH | Propino | Este caso no hace falta indicar el localizador del triple enlace porque no existe ninguna duda de su posición (entre el carbono 1 y 2). Si fuera entre los dos átomos de carbono sería el mismo compuesto, pero se comenzaría la numeración por el otro extremo y de nuevo quedaría entre 1 y 2. |
-| CH3-CH2-C≡CH | But-1-ino (1-Butino) | La numeración se empieza por el extremo derecho, para así que el triple enlace con el localizador más bajo, el 1. |
-| CH3-C≡C-CH3 | But-2-ino (2-Butino) | En este caso es indiferente el extremo por el que se ataca la numeración, pues en ambos casos el triple enlace se sitúa entre los carbonos 2 y 3. |
-| CH3-CH2-C≡C-CH3 | Pent-2-ino (2-Pentino) | Se numera por el extremo derecho para que el triple enlace quede con el localizador más bajo. |
-| HC≡C-CH2-CH2-CH2-CH3 \| CH3 \| CH3 | 4,6-Dimetilhept-1-ino (4,6-Dimetil-1-heptino) | Se numera de forma que el triple enlace quede con el localizador más bajo, ya que tiene prioridad sobre las ramificaciones. |
+![...](imagenes/tema02/alquino.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
-### 3.4 Cicloalcanos, cicloalquenos
+### **3.4 Hidrocarburos Aromáticos (-benceno)** {: .caja-subtitulo}
 
-- Alcanos de cadena cerrada (ciclos) con un nº variable de átomos de carbono. Se nombran utilizando el prefijo ciclo- seguido del alcano.
+Se denominan **compuestos aromáticos** al benceno ($\ce{C6H6}$) y todas aquellas sustancias derivadas que por tener núcleos bencénicos en su molécula poseen propiedades químicas similares.
+  
+![...](imagenes/tema02/formas_benceno.svg){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
 
-- Si la cadena lateral es compleja, puede tomarse como cadena principal de la molécula y el ciclo como un sustituyente, nombrando con la terminación -ilo en vez de -ano.
+### **Nomenclatura** {: .caja-subtitulo2}
 
-*(Imágenes de ciclopropano, ciclobutano, ciclopentano, ciclohexano)*
+1) Los anillos con **un sustituyente** se nombran anteponiendo el nombre del sustituyente al del benceno.
 
-1) En cicloalcanos con un solo sustituyente, se toma el ciclo como cadena principal de la molécula. Es innecesario la numeración del ciclo.
+![...](imagenes/tema02/derivados_benceno.png){ style="display: block; margin: 0 auto; width: 65%; height: auto;" }
 
-*(Imágenes: Etilciclobutano, Isopropilciclohexano, Metilciclopentano)*
+2) En los anillos con **dos sustituyentes** se indican las posiciones con los números 1,2-; 1,3-; y 1,4-; o con los prefijos orto-; meta-; y para-.
 
-2) Si el cicloalcano tiene dos sustituyentes, se nombran por orden alfabético. Se numera el ciclo comenzando por el sustituyente que va antes en el nombre.
+![...](imagenes/tema02/benceno_disustituidos.png){ style="display: block; margin: 0 auto; width: 65%; height: auto;" }
 
-*(Imágenes: 1-Etil-3-metilciclopentano, 1-Bromo-3-cloro-ciclohexano)*
+3) Cuando hay **más de dos sustituyentes**, se numera el anillo de modo que los sustituyentes tomen los localizadores más bajos. Si varias numeraciones dan los mismos localizadores se da preferencia al orden alfabético.
 
-3) Si el anillo tiene tres o más sustituyentes, se nombran por orden alfabético. La numeración del ciclo se hace de forma que se otorguen los localizadores más bajos a los sustituyentes. En caso de obtener los mismos localizadores al comenzar por diferentes posiciones, se tiene en cuenta el orden alfabético.
+![...](imagenes/tema02/benceno_varios.svg){ style="display: block; margin: 0 auto; width: 65%; height: auto;" }
 
-*(Imagen: 1-Cloro-2-metil-4-propilciclopentano)*
-
-### 3.5 Hidrocarburos Aromáticos -benceno
-
-- Hidrocarburos derivados del benceno (C₆H₆).
-
-- Se nombran utilizando la palabra benceno, anteponiendo los nombres de los sustituyentes y sus localizadores.
-
-- La numeración se hace de tal forma que se dan los localizadores más bajos posibles a los sustituyentes, teniendo en cuenta el orden de prioridades. Si hay duda decide el orden alfabético de los sustituyentes.
-
-- El benceno como sustituyente se denomina fenilo.
-
-1) Los anillos con un sustituyente se nombran anteponiendo el nombre del sustituyente al del benceno.
-
-*(Imágenes: Metilbenceno, Etilbenceno, Isopropilbenceno, Vinilbenceno)*
-
-2) En los anillos con dos sustituyentes se indican las posiciones con los números 1,2-; 1,3-; y 1,4-; o con los prefijos orto-; meta-; y para-.
-
-*(Imágenes: o-clorometilbenceno, m-clorometilbenceno, p-clorometilbenceno)*
-
-3) Cuando hay más de dos sustituyentes, se numera el anillo de modo que los sustituyentes tomen los localizadores más bajos. Si varias numeraciones dan los mismos localizadores se da preferencia al orden alfabético.
-
-*(Imágenes: 1-cloro-2-etil-3-metilbenceno, 1-etil-3-isopropil-5-vinilbenceno, 1-etil-2,4-dimetilbenceno)*
-
-- El radical del benceno se denomina fenil o fenilo.
+<!--- El radical del benceno se denomina **fenil** o **fenilo**.
 
 *(Imagen: 2-fenilbut-2-eno)*
+![...](imagenes/tema02/2-fenilbut-2-eno.png){ style="display: block; margin: 0 auto; width: 70%; height: auto;" } 
 
-### 3.6 Derivados Halogenados
+-->
 
-- Compuestos obtenidos de hidrocarburos por sustitución por elementos halogenados (F, Cl, Br y I).
+<!---
+### **3.5 Derivados Halogenados** {: .caja-subtitulo}
 
-- Se nombran citando en primer lugar el nombre del halógeno como sustituyente fluor-; cloro-; bromo-; y yodo-; seguido del nombre del hidrocarburo, e indicando su posición con el localizador.
+Compuestos obtenidos de hidrocarburos por sustitución por elementos **halogenados** (F, Cl, Br y I).
 
-| Fórmula | Nombre | Observaciones |
-|---|---|---|
-| CH3-CH2-CH=C=CH-CH3 \| CH2F \| CH3 | 4-Etil-3-fluorhex-2-eno (4-Etil-3-fluor-2-hexeno) | La numeración de la cadena se hace por la derecha ya que viene establecida por la doble enlace. Los radicales se citan en orden alfabético. |
-| CH3-CHCl-CHCl-CH≡CH | 3,4-Dicloropent-1-ino (3,4-Dicloro-1-pentino) | El triple enlace tiene prioridad sobre los radicales en la numeración de la cadena principal. |
-| (ciclopentano con Cl y Cl) | 1,1-Dicloro-3-metilciclopentano | Los carbonos del ciclo se numeran en el sentido que los localizadores de los sustituyentes sean los más bajos (1,1,3). |
-| (ciclohexeno con Br) | 4-Bromociclohexeno | La prioridad para la numeración la tiene el doble enlace, al que le corresponde el carbono 1 y no hace falta indicarlo. Luego se numera en el sentido que el radical tenga el localizador más bajo. |
-| CHF₃ | Trifluorometano o Fluoroformo | Cada uno de estos derivados halogenados del metano tiene un nombre común aceptado por la IUPAC. |
-| CHCl₃ | Triclorometano o Cloroformo | |
-| CHBr₃ | Tribromometano o Bromoformo | |
-| CHI₃ | Triyodometano o Yodoformo | |
-| (benceno con CH3 y Cl) | 1,2-Dicloro-4-metilbenceno | Se elige el sentido de numeración para que los localizadores de los sustituyentes sean los más bajos (1,2,4). Se nombran en orden alfabético; en el orden alfabético no se tiene en cuenta el prefijo di-. |
-| (benceno con Br y Br) | 1,2-Dibromobenceno o-Dibromobenceno | Cuando los radicales van en carbonos contiguos 1,2-, se puede usar la nomenclatura alternativa "orto", que se escribe solo -o-. |
+Se nombran citando en primer lugar el nombre del halógeno como sustituyente fluor-; cloro-; bromo-; y yodo-; seguido del nombre del hidrocarburo, e indicando su posición con el localizador.
+
+Ejemplos: 
+
+$\ce{CH3-CH2-Cl \hspace{1cm}}$  cloroetano
+
+$\ce{CH3-CH=CH2-Br \hspace{1cm}}$  1-bromopropeno   $\ce{\hspace{1cm} CH3-CBr=CH3 \hspace{1cm}}$  2-bromopropeno
+
+-->
 
 ## **4. Grupos funcionales**
 
-Cuando el carbono se une a elementos diferentes del hidrógeno origina una estructura que son los grupos funcionales. Un **grupo funcional** sería un átomo o grupos de átomos que caracterizan a una serie de compuestos orgánicos con propiedades químicas parecidas.
+Cuando el carbono se une a elementos diferentes del hidrógeno origina una estructura que son los grupos **funcionales**. Un **grupo funcional** sería un átomo o grupos de átomos que caracterizan a una serie de compuestos orgánicos con propiedades químicas parecidas.
 
 ### 4.1 Alcoholes -ol
 
