@@ -8,8 +8,8 @@ fi
 FILE="$1"
 BASENAME=$(basename "$FILE" .tex)
 
-# Definimos la carpeta de salida (la carpeta padre)
-OUT_DIR=".."
+# Cambiamos la ruta a "../tema02" para que los SVG se guarden en la carpeta
+OUT_DIR="../tema02"
 
 echo "1/3 Compilando $FILE con pdflatex..."
 pdflatex -interaction=nonstopmode "$FILE" > /dev/null 2>&1
