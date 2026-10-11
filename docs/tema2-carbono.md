@@ -286,15 +286,15 @@ Ejemplos:
 
 ![...](imagenes/tema02/eter_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
 
-### **Grupo funcional: - CO - (carbonilo)**
+### **Grupo funcional: - CO - (carbonilo) Aldehídos y cetonas** {: .caja-subtitulo}
 
 El grupo carbonilo consta de un oxígeno unido mediante un doble enlace al carbono. Puede estar situado en un carbono primario o en uno secundario
 
-![...](imagenes/tema02/carbonilo.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
+![...](imagenes/tema02/tipo_carbonilo.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
 ### **4.3 Aldehídos (-al)** {: .caja-subtitulo}
 
-En los aldehídos el grupo carbonilo se encuentra en un carbono primario: ![aldehído](imagenes/tema02/aldehido.svg){ style="display: inline-block; vertical-align: bottom; width: 10%; height: auto;" }
+En los aldehídos el grupo carbonilo se encuentra en un carbono primario: ![aldehído](imagenes/tema02/carbonilo.svg){ style="display: inline-block; vertical-align: bottom; width: 10%; height: auto;" }
 
 ### **Nomenclatura** {: .caja-subtitulo2}
 
@@ -306,103 +306,56 @@ Ejemplos:
 
 ### **4.4 Cetonas (-ona)** {: .caja-subtitulo}
 
-En las cetonas el grupo carbonilo se encuentra en un carbono secundario:
-R- C -R'
+En las cetonas el grupo carbonilo se encuentra en un carbono secundario: $\ce{\quad R - CO - R'}$
 
 ### **Nomenclatura** {: .caja-subtitulo2}
 
-La cadena se numera de tal forma que el grupo carbonilo tenga el número más bajo posible.
+La cadena se numera de tal forma que el grupo **carbonilo** tenga el **número más bajo** posible.
 
 Se nombran cambiando la terminación del hidrocarburo por -**ona**.
 
 Ejemplos:
 
-![...](imagenes/tema02/cetona_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
+![...](imagenes/tema02/cetona_ejemplo.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
 
 ### **4.5 Ácidos Carboxílicos (-oico)** {: .caja-subtitulo}
 
-Grupo carboxílico (-COOH)
+Grupo funcional: $\quad$ ![carboxilo](imagenes/tema02/carboxilico.svg){ style="display: inline-block; vertical-align: bottom; width: 13%; height: auto;" }
 
-- Se nombran anteponiendo la palabra ácido al nombre del hidrocarburo del que proceden con la terminación -oico. Si hay dos -COOH-, se añade -dioico.
+La función **ácido** se caracteriza por la relativa facilidad con la que el hidrógeno del grupo carboxilo (hidrógeno ácido) puede ser sustituido por metales para formar sales o por radicales de alquilo para formar ésteres.
 
-- Orden numeración: solo pueden ser terminales. Se empieza a numerar por el extremo donde está el -COOH-. No localizador.
+### **Nomenclatura** {: .caja-subtitulo2}
 
-| Fórmula | Nombre | Observaciones |
-|---|---|---|
-| H-COOH | Ácido metanoico (Ácido fórmico) | En la escritura de los ácidos el grupo funcional se acostumbra a escribirlo abreviadamente como -COOH, aunque se sobreentiende que lleva un doble enlace C=O. El nombre ácido fórmico es un nombre común aceptado. |
-| CH3-CH2-COOH | Ácido propanoico (Ácido propiónico) | El localizador 1 del grupo -COOH no se indica, pues siempre va en un extremo. El nombre de ácido propanoico es un nombre común aceptado. |
-| CH3-CH(CH3)-COOH | Ácido metilpropanoico (Ácido isobutírico) | No es necesario indicar el localizador 2 del sustituyente (metil), ya que no ofrece duda al no poder ir en otro lugar. |
-| CH3-CH=CH-COOH | Ácido but-2-enoico (Ácido 2-butenoico) | No es necesario indicar el localizador 2 del doble enlace, pues no puede ir en otro lugar. |
-| CH3-CH≡C-COOH | Ácido but-2-inoico (Ácido 2-butinoico) | No es necesario indicar el localizador 2 del triple enlace, pues no puede ir en otro lugar. |
-| HOOC-COOH | Ácido etanodioico (Ácido oxálico) | El sufijo -dioico indica que hay dos grupos carboxilo. |
-| C₆H₅-COOH | Ácido benzoico | El nombre ácido benzoico es un nombre común pero es el que más se utiliza. |
+Los ácidos tienen preferencia sobre todas las funciones orgánicas por lo que la cadena se empieza a numerar por el extremo en que se encuentra el grupo carboxilo.
+
+Se nombran con la palabra **ácido** y cambiando la terminación del hidrocarburo por -**oico**.
+
+Ejemplos:
+
+![...](imagenes/tema02/acido_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
 
 ### **4.6 Ésteres -oato** {: .caja-subtitulo}
 
-Grupo carboxilo (-COOH) sustituido por un radical (-COOR')
+Grupo funcional:  $\quad$ ![ester](imagenes/tema02/ester.svg){ style="display: inline-block; vertical-align: bottom; width: 13%; height: auto;" }
 
-Se obtiene en la reacción de esterificación.
+Los ésteres resultan al sustituir el hidrógeno ácido de los ácidos por un radical de alquilo.
 
-- Se nombran como el ácido del que proceden, eliminando la palabra ácido, cambiando la terminación -ico del ácido por -ato, seguido de la preposición de y el nombre del radical terminado por -ilo.
+### **Nomenclatura** {: .caja-subtitulo2}
 
-- Sustituyente (-COOR-): prefijo alcoxicarbonil-. Prioritarios ante: ácidos carboxílicos.
+Se nombran cambiando la terminación **ico** del ácido por **ato**, seguido del nombre del radical que sustituye al átomo de hidrógeno.
 
-| Fórmula | Nombre | Observaciones |
-|---|---|---|
-| H-COO-CH2-CH3 | Metanoato de propilo (Formiato de propilo) | Este éster deriva del ácido metanoico (fórmico). El radical está escrito a continuación del grupo -COOR. |
-| CH3-CH(CH3)-CH2-COO-CH2-CH3 | 3-Metilbutanoato de etilo | En la numeración tiene preferencia el grupo -COOR al que le corresponde el localizador 1, pero no hace falta indicarlo. |
-| HCOO-CH2-CH2-CH2-COO-CH3 | Pent-4-inoato de metilo (4-Pentinoato de metilo) | Al grupo -COOR le corresponde el localizador 1, ya que tiene preferencia sobre instauraciones. |
-| C₆H₅-COO-CH3 | Benzoato de metilo | Deriva del ácido benzoico C₆H₅-COOH. En el que se ha sustituido el hidrógeno por un grupo metilo. |
-| CH3-COO-C₆H₅ | Etanoato de fenilo (Acetato de fenilo) | El radical fenilo -C₆H₅ ha sustituido al hidrógeno del grupo -COOH del ácido etanoico (ácido acético). |
+Ejemplos:
+
+![...](imagenes/tema02/ester_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
 
 ### **4.7 Aminas** {: .caja-subtitulo}
 
-Derivados del amoniaco (NH₃) por sustitución de uno, dos o tres H por radicales.
+Grupo funcional: $\quad$ ![ester](imagenes/tema02/amina.svg){ style="display: inline-block; vertical-align: bottom; width: 13%; height: auto;" }
 
-**NOMENCLATURA FUNCIONAL**
+Las aminas pueden considerarse como derivados de los hidrocarburos al sustituir un átomo de hidrógeno por el grupo –NH2 (amino). También pueden considerarse derivados del amoniaco (NH3) al sustituir sus hidrógenos por radicales de alquilo.
 
-Se nombran en orden alfabético los radicales seguidos de la palabra amina sin espacio entre ellos. Si los radicales son idénticos se simplifican anteponiendo el prefijo di- o tri-.
+Según el número de hidrógenos sustituidos podemos tener aminas primarias, secundarias o terciarias:
 
-### 4.7.1 Aminas Primarias
+![...](imagenes/tema02/tipo_amina.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
-**NOMENCLATURA SUSTITUTIVA**
-
-Se nombran añadiendo -amina al nombre del hidrocarburo que ha sustituido al hidrógeno del amoniaco, anteponiendo el localizador.
-
-- Orden de numeración: grupo -NH₂ tiene preferencia sobre las instauraciones. Se numera la cadena de modo que el grupo -NH₂ le corresponda el localizador más bajo.
-
-- Sustituyente (-NH₂): Prefijo amino-. Son prioritarios frente a las aminas: ácidos carboxílicos, ésteres, aldehídos y cetonas.
-
-| Fórmula | Nombre de sustitución | Nombre funcional | Observaciones |
-|---|---|---|---|
-| CH2=CH-NH₂ | Etenamina | Vinilamina Etenamina | El radical CH2=CH- se puede nombrar como etenil o vinil. |
-| CH2=CH-CH2-NH₂ | Prop-2-en-1-amina (2-Propen-1-amina) | Alilamina | Se le asigna el localizador más bajo. |
-| C₆H₅-NH₂ | Bencenamina | Fenilamina (Anilina) | Anilina es nombre común. |
-| NH₂-CH2-CH(NH₂)-CH2-CH3 | Butano-1,2-diamina (1,2-Butanodiamina) | | En los casos que haya dos o más grupos amino -NH₂, se utiliza la nomenclatura de sustitución. |
-| NH₂-CH2-CH=CH-CH2-CH3 | Pent-3-en-1-amina (3-Penten-1-amina) | 3-Pentenamina | La amina tiene preferencia sobre el doble enlace. El carbono 1 es el que está unido al nitrógeno. La nomenclatura de sustitución es la más utilizada para estos casos. |
-
-### 4.7.2 Aminas Secundarias y Terciarias
-
-**NOMENCLATURA SUSTITUTIVA**
-
-Se nombran como derivados N-sustituidos de una amina primaria, a la que le corresponde el radical R de mayor prioridad.
-
-- Orden de numeración: El nitrógeno no se numera en la cadena. Los radicales se nombran independientemente desde el carbono unido al nitrógeno. Para indicar que un radical se une al nitrógeno, se utiliza como localizador la letra N escrita en cursiva.
-
-| Fórmula | Nombre | Observaciones |
-|---|---|---|
-| CH3-NH-CH3 | Dimetilamina | Se puede escribir sin indicar los enlaces simples: (CH3)₂NH. El radical se escribe entre paréntesis con el subíndice 2. En las aminas secundarias hay que sustituir 2 hidrógenos del amonio y por lo tanto queda -NH- unido a los dos radicales y no -NH₂. |
-| CH3-CH2-NH-CH2-CH3 | Dietilamina | El nombre se escribe sin espacios. Se puede escribir sin indicar los enlaces: (CH3CH2)₂NH. |
-| CH3-N(CH3)-CH3 | Trimetilamina | También se puede escribir: (CH3)₃N. |
-| CH3-CH2-N(CH2-CH3)-CH2-CH3 | Trietilamina | También se puede escribir: (CH3CH2)₃N. |
-| C₆H₅-NH-C₆H₅ | Difenilamina | El radical derivado del benceno es el fenil- y se puede escribir como C₆H₅- o bien utilizar el anillo bencénico. |
-
-| Fórmula | Nombre | Observaciones |
-|---|---|---|
-| CH3-CH2-NH-CH2-CH2-CH3 | N-Etilpropan-1-amina N-Etilpropilamina (Etil)propilamina | La cadena principal es el radical de 3 átomos de carbono. Obsérvese el uso de los paréntesis para indicar claramente cuáles son los sustituyentes de N. |
-| CH3-NH-CH2-CH2-CH3 | N-Metilpropan-1-amina N-Metilpropilamina (Metil)propilamina | La cadena principal es el radical de 3 átomos de carbono. |
-| CH3-NH-CH=CH2 | N-Metiletenamina N-Metilvinilamina Metil(vinil)amina | La cadena principal es el radical de 2 átomos de carbono. El radical es un metilo frecuentemente como un radical. |
-| CH3-CH2-CH2-CH2-NH-CH(CH3)₂ | N-Isopropilbutan-1-amina (Butil)isopropilamina | La cadena principal es el radical de 4 átomos de carbono. En la función, los radicales se nombran en orden alfabético. |
-| CH3-N(CH3)-CH2-CH2-CH3 | N,N-Dimetilpropan-1-amina N,N-Dimetilpropilamina (Dimetil)propilamina | La cadena principal es el radical de 3 átomos de carbono. Se usa el localizador N- para indicar que los dos radicales metilos van unidos al átomo de nitrógeno. |
-| CH3-CH2-CH2-CH2-N(CH3)-CH2-CH3 | N-Etil-N-metilbutan-1-amina N-Etil-N-metilbutilamina Butil(etil)metilamina | En la nomenclatura funcional, los radicales se nombran en orden alfabético. La cadena principal es el benceno. En la función, los radicales se nombran en orden alfabético. Anilina es el nombre común de la fenilamina. |
 
