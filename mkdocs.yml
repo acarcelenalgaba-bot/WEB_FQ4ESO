@@ -37,7 +37,7 @@ markdown_extensions:
   - toc:
       permalink: false
       title: "Contenidos"
-      toc_depth: 2
+      toc_depth: 3
   - pymdownx.magiclink
   - admonition
 

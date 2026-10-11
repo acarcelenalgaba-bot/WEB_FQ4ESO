@@ -292,3 +292,8 @@ img {
 .tabla-carbonos > :nth-child(4n + 2) {
   border-right: 3px solid #cbdff3; /* Puedes cambiar el grosor o el color */
 }
+
+/* Oculta del menú lateral cualquier encabezado que tenga el ID #no-toc */
+.md-sidebar--secondary .md-nav__link[href*="#no-toc"] {
+  display: none !important;
+}

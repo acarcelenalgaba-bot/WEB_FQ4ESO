@@ -83,7 +83,7 @@ En una cadena carbonada podemos identificar:
 
 ![...](imagenes/tema02/tipos_carbonos.png){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 - **Los hidrocarburos de cadena lineal** se nombran con un prefijo que indica el número de átomos de carbono de la cadena y la terminación -**ano**, característica de los hidrocarburos saturados.
 
@@ -144,10 +144,10 @@ Para **nombrar** **hidrocarburos saturados ramificados** se aplican los criterio
 
 ![...](imagenes/tema02/ejemplo1.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
-### **Hidrocarburos saturados cíclicos** (**cicloalcanos**) {: .caja-subtitulo}
+### **Hidrocarburos saturados cíclicos** (**cicloalcanos**) {: .caja-subtitulo #no-toc }
 En este tipo de hidrocarburos los átomos de carbono se encuentran unidos **formando anillos**.
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 - Los **cicloalcanos** se nombran anteponiendo el nombre de los sustituyentes (en orden alfabético) al del hidrocarburo correspondiente con la palabra **ciclo** antepuesta.
 
@@ -161,7 +161,7 @@ Los **alquenos** son hidrocarburos no saturados que contienen **dobles enlaces**
 
 Los dobles enlaces se localizan con números localizadores colocados antes del sufijo -eno.
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 - Los alquenos se nombran igual que los hidrocarburos saturados correspondientes cambiando la terminación -**ano** por -**eno**.
 
@@ -173,11 +173,11 @@ Existen algunos radicales insaturados que por su importancia conviene conocer:
 
 ![...](imagenes/tema02/alqueno.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
-### **Cicloalquenos** {: .caja-subtitulo}
+### **Cicloalquenos** {: .caja-subtitulo #no-toc }
 
 Los **cicloalquenos** son hidrocarburos insaturados que poseen uno o más dobles enlaces en su cadena que, además, está ciclada.
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 Los cicloalquenos se nombran igual que los hidrocarburos saturados cíclicos (cicloalcanos), cambiando la terminación -ano por -eno.
 
@@ -187,7 +187,7 @@ Los cicloalquenos se nombran igual que los hidrocarburos saturados cíclicos (ci
 
 Los **alquinos** son hidrocarburos insaturados que se caracterizan por tener **triples enlaces** carbono-carbono
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 - Los **alquinos** se nombran igual que los hidrocarburos saturados correspondientes, cambiando la terminación -**ano** por -**ino**. Los localizadores se colocan inmediatamente antes de la terminación característica del compuesto (ino).
   
@@ -201,7 +201,7 @@ Se denominan **compuestos aromáticos** al benceno ($\ce{C6H6}$) y todas aquella
   
 ![...](imagenes/tema02/formas_benceno.svg){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 1) Los anillos con **un sustituyente** se nombran anteponiendo el nombre del sustituyente al del benceno.
 
@@ -249,7 +249,7 @@ Los alcoholes se pueden clasificar en primarios, secundarios o terciarios en fun
 
 ![...](imagenes/tema02/tipos_alcohol.png){ style="display: block; margin: 0 auto; width: 65%; height: auto;" }
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 Para nombrarlos observamos las siguientes normas: 
 
@@ -278,7 +278,7 @@ Los éteres se pueden considerar derivados de los hidrocarburos por sustitución
 
 Si los dos radicales de alquilo son iguales se dice que el éter es simétrico y si son diferentes, asimétrico.
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
  
 Se nombran los radicales (por orden alfabético) unidos al átomo de oxígeno seguidos de la palabra éter.
 
@@ -286,7 +286,7 @@ Ejemplos:
 
 ![...](imagenes/tema02/eter_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
 
-### **Grupo funcional: - CO - (carbonilo) Aldehídos y cetonas** {: .caja-subtitulo}
+### **Grupo funcional: - CO - (carbonilo) Aldehídos y cetonas** {: .caja-subtitulo #no-toc }
 
 El grupo carbonilo consta de un oxígeno unido mediante un doble enlace al carbono. Puede estar situado en un carbono primario o en uno secundario
 
@@ -296,7 +296,7 @@ El grupo carbonilo consta de un oxígeno unido mediante un doble enlace al carbo
 
 En los aldehídos el grupo carbonilo se encuentra en un carbono primario: ![aldehído](imagenes/tema02/carbonilo.svg){ style="display: inline-block; vertical-align: bottom; width: 10%; height: auto;" }
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 Se nombran cambiando la terminación del hidrocarburo por -**al**.
 
@@ -308,7 +308,7 @@ Ejemplos:
 
 En las cetonas el grupo carbonilo se encuentra en un carbono secundario: $\ce{\quad R - CO - R'}$
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 La cadena se numera de tal forma que el grupo **carbonilo** tenga el **número más bajo** posible.
 
@@ -324,7 +324,7 @@ Grupo funcional: $\quad$ ![carboxilo](imagenes/tema02/carboxilico.svg){ style="d
 
 La función **ácido** se caracteriza por la relativa facilidad con la que el hidrógeno del grupo carboxilo (hidrógeno ácido) puede ser sustituido por metales para formar sales o por radicales de alquilo para formar ésteres.
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 Los ácidos tienen preferencia sobre todas las funciones orgánicas por lo que la cadena se empieza a numerar por el extremo en que se encuentra el grupo carboxilo.
 
@@ -340,7 +340,7 @@ Grupo funcional:  $\quad$ ![ester](imagenes/tema02/ester.svg){ style="display: i
 
 Los ésteres resultan al sustituir el hidrógeno ácido de los ácidos por un radical de alquilo.
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 Se nombran cambiando la terminación **ico** del ácido por **ato**, seguido del nombre del radical que sustituye al átomo de hidrógeno.
 
@@ -358,7 +358,7 @@ Según el número de hidrógenos sustituidos podemos tener aminas primarias, sec
 
 ![...](imagenes/tema02/tipo_amina.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 - **Considerándolas derivados de los hidrocaburos**, las aminas primarias se nombran reemplazando la terminación **o** del alcano por **amina** (recomendación IUPAC).
 
@@ -378,7 +378,7 @@ Grupo funcional: $\quad$ ![ester](imagenes/tema02/amida.svg){ style="display: in
 
 Las **amidas** se consideran derivados de los ácidos carboxílicos en los que se ha sustituido el grupo **OH** del grupo carboxílico por un grupo $\ce{-NH2}$
 
-### **Nomenclatura** {: .caja-subtitulo2}
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 Se nombran cambiando la terminación **oico** de los ácidos por **amida**.
 
