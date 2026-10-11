@@ -334,7 +334,7 @@ Ejemplos:
 
 ![...](imagenes/tema02/acido_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
 
-### **4.6 Ésteres -oato** {: .caja-subtitulo}
+### **4.6 Ésteres (-oato)** {: .caja-subtitulo}
 
 Grupo funcional:  $\quad$ ![ester](imagenes/tema02/ester.svg){ style="display: inline-block; vertical-align: bottom; width: 13%; height: auto;" }
 
@@ -350,7 +350,7 @@ Ejemplos:
 
 ### **4.7 Aminas** {: .caja-subtitulo}
 
-Grupo funcional: $\quad$ ![ester](imagenes/tema02/amina.svg){ style="display: inline-block; vertical-align: bottom; width: 20%; height: auto;" }
+Grupo funcional: $\quad$ ![ester](imagenes/tema02/amina.svg){ style="display: inline-block; vertical-align: bottom; width: 10%; height: auto;" }
 
 Las aminas pueden considerarse como derivados de los hidrocarburos al sustituir un átomo de hidrógeno por el grupo –NH2 (amino). También pueden considerarse derivados del amoniaco (NH3) al sustituir sus hidrógenos por radicales de alquilo.
 
@@ -374,7 +374,7 @@ Ejemplos:
 
 ### **4.8 Amidas** {: .caja-subtitulo}
 
-Grupo funcional: $\quad$ ![ester](imagenes/tema02/amida.svg){ style="display: inline-block; vertical-align: bottom; width: 15%; height: auto;" }
+Grupo funcional: $\quad$ ![ester](imagenes/tema02/amida.svg){ style="display: inline-block; vertical-align: bottom; width: 13%; height: auto;" }
 
 Las **amidas** se consideran derivados de los ácidos carboxílicos en los que se ha sustituido el grupo **OH** del grupo carboxílico por un grupo $\ce{-NH2}$
 
