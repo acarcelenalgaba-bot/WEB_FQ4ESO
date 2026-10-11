@@ -374,7 +374,7 @@ Ejemplos:
 
 ### **4.8 Amidas** {: .caja-subtitulo}
 
-Grupo funcional: $\quad$ ![ester](imagenes/tema02/amida.svg){ style="display: inline-block; vertical-align: bottom; width: 20%; height: auto;" }
+Grupo funcional: $\quad$ ![ester](imagenes/tema02/amida.svg){ style="display: inline-block; vertical-align: bottom; width: 15%; height: auto;" }
 
 Las **amidas** se consideran derivados de los ácidos carboxílicos en los que se ha sustituido el grupo **OH** del grupo carboxílico por un grupo $\ce{-NH2}$
 
