@@ -346,11 +346,11 @@ Se nombran cambiando la terminación **ico** del ácido por **ato**, seguido del
 
 Ejemplos:
 
-![...](imagenes/tema02/ester_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
+![...](imagenes/tema02/ester_ejemplo.png){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
 
 ### **4.7 Aminas** {: .caja-subtitulo}
 
-Grupo funcional: $\quad$ ![ester](imagenes/tema02/amina.svg){ style="display: inline-block; vertical-align: bottom; width: 13%; height: auto;" }
+Grupo funcional: $\quad$ ![ester](imagenes/tema02/amina.svg){ style="display: inline-block; vertical-align: bottom; width: 20%; height: auto;" }
 
 Las aminas pueden considerarse como derivados de los hidrocarburos al sustituir un átomo de hidrógeno por el grupo –NH2 (amino). También pueden considerarse derivados del amoniaco (NH3) al sustituir sus hidrógenos por radicales de alquilo.
 
@@ -358,4 +358,31 @@ Según el número de hidrógenos sustituidos podemos tener aminas primarias, sec
 
 ![...](imagenes/tema02/tipo_amina.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
+### **Nomenclatura** {: .caja-subtitulo2}
+
+- **Considerándolas derivados de los hidrocaburos**, las aminas primarias se nombran reemplazando la terminación **o** del alcano por **amina** (recomendación IUPAC).
+
+Ejemplos:
+
+![...](imagenes/tema02/amina_ejemplo1.png){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
+
+- Si las **consideramos derivados del amoniaco** se nombran con el nombre del radical de alquilo y la palabra **amina** (admitido por la IUPAC):
+
+Ejemplos:
+
+![...](imagenes/tema02/amina_ejemplo2.png){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
+
+### **4.8 Amidas** {: .caja-subtitulo}
+
+Grupo funcional: $\quad$ ![ester](imagenes/tema02/amida.svg){ style="display: inline-block; vertical-align: bottom; width: 20%; height: auto;" }
+
+Las **amidas** se consideran derivados de los ácidos carboxílicos en los que se ha sustituido el grupo **OH** del grupo carboxílico por un grupo $\ce{-NH2}$
+
+### **Nomenclatura** {: .caja-subtitulo2}
+
+Se nombran cambiando la terminación **oico** de los ácidos por **amida**.
+
+Ejemplos:
+
+![...](imagenes/tema02/amida_ejemplo.png){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
 
