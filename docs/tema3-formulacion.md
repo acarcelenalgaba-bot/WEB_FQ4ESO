@@ -1,686 +1,336 @@
-# Tema 3: Termoquímica
+# ANEXO II. NOMENCLATURA INORGÁNICA
 
-## **1. Introducción a la Termoquímica**
+## **1. Nomenclatura química**
 
-**Termoquímica**. Parte de la termodinámica que estudia el intercambio de energía en las reacciones químicas.
+En 2005, la IUPAC acordó unas normas para unificar la nomenclatura, en las que el **número de oxidación** es un concepto clave. Gracias a él, podemos conocer la estequiometría de un compuesto, es decir, el número de átomos de cada elemento que lo forman.
 
-Las reacciones químicas obedecen a dos leyes fundamentales:
+> **Se denomina número de oxidación** a la carga formal que adquiriría un átomo si todos sus enlaces fueran 100 % iónicos. Por tanto, este número será positivo si pierden electrones y negativo si los ganan.
 
-- La ley de la **conservación de la masa** y
+## !!! note "Importante: Valencia y número de oxidación"
+Valencia y número de oxidación son términos relacionados. Por ejemplo, si un elemento posee dos números de oxidación, decimos que posee dos valencias o que será divalente.
 
-- La ley de la **conservación de la energía**.
+### **Tabla de números de oxidación** {: .caja-subtitulo #no-toc }
 
-La energía no se crea ni se destruye, solo se convierte de una forma en otra.
+Los números de oxidación que aparecen encabezando o finalizando una familia se aplican a todos sus elementos.
 
-La energía total del universo permanece constante.
+| \-1 | +1 | +2 | +1 | +2 | +3 | +4 | +3 | +3 | +4 | +5 | +6 | +5 | +7 | \-3 | \-4 | \-3 | \-2 | \-1 | 
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
+| H | Li | Be |  |  |  |  |  |  |  |  |  |  |  | B | C | N | O | F | 
+|  | Na | Mg |  |  |  |  |  |  |  |  |  |  |  | Al | Si | P | S | Cl | 
+|  | K | Ca |  |  |  |  |  |  |  |  |  |  |  | Ga | Ge | As | Se | Br | 
+|  | Rb | Sr | $\ce{Cr^{+2, +3}}$ | $\ce{Mn^{+2, +3}}$ | $\ce{Fe^{+2, +3}}$ | $\ce{Co^{+2, +3}}$ | $\ce{Ni^{+2, +3}}$ | $\ce{Cu^{+1, +2}}$ | $\ce{Zn^{+2}}$ | $\ce{Ag^{+1}}$ | $\ce{Cd^{+2}}$ | In | Sn | Sb | Te | I | Kr |  | 
+|  | Cs | Ba | $\ce{Pt^{+2, +4}}$ | $\ce{Au^{+1, +3}}$ | $\ce{Hg^{+1, +2}}$ | Tl |  |  |  |  |  | Pb | Bi | Po | At | Xe |  |  | 
+|  | Fr | Ra |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Rn |  | 
 
-Todas las reacciones químicas absorben o liberan energía, por lo general en forma de calor.
+*Algunos elementos poseen más números de oxidación, como el nitrógeno: -1, +1, +2, +3, +4, +5.*
 
-![...](imagenes/tema03/td1.png){style="display: block; margin: 0 auto; width: 20%; height: auto; border: 1px solid #333;"}
+## **1. Iones**
 
-### **La energía** {: .caja-subtitulo}
+### **1.1 Cationes** {: .caja-subtitulo}
 
-Es una propiedad de los cuerpos o sistemas que se relaciona con su capacidad para producir cambios en otros cuerpos o sistemas o en ellos mismos.
+Son los átomos que han perdido electrones y quedan con carga positiva. Esta carga coincide con su número de oxidación. Si hay más de un número de oxidación o valencia, dará lugar a cationes del mismo elemento con diferente carga.
 
-Para entender el significado de esta magnitud debemos conocer sus propiedades:
+**Fórmula:** $\ce{M^{n+}}$
 
-- transformación, cambiando la forma en la que se presenta: $\ce{E_C, E_P, E_{química}}$,...
+**Nombre:** M (carga y signo)
 
-- conservación de la cantidad total de energía
+| Ion | Nomenclatura | Ion | Nomenclatura | Ion | Nomenclatura | 
+| ----- | ----- | ----- | ----- | ----- | ----- | 
+| $\ce{Na+}$ | sodio(1+) | $\ce{Ca^{2+}}$ | calcio(2+) | $\ce{Ag+}$ | plata(1+) | 
+| $\ce{Al^{3+}}$ | aluminio(3+) | $\ce{Ni^{2+}}$ | níquel(2+) | $\ce{Ni^{3+}}$ | níquel(3+) | 
+| $\ce{Fe^{3+}}$ | hierro(3+) | $\ce{Fe^{2+}}$ | hierro(2+) | $\ce{Sn^{4+}}$ | estaño(4+) | 
 
-- degradación o pérdida de utilidad de la energía
+### **1.2 Aniones** {: .caja-subtitulo}
 
-- transferencia de energía de un sistema a otro
+Son átomos que han ganado electrones y quedan con carga negativa. Esta carga coincide con el número de oxidación.
 
-La unidad de energía en el S.I. es el **julio** (**J**)
+**Fórmula:** $\ce{X^{n-}}$
 
-Otra unidad: la caloría (cal) $\hspace{1cm}$ 1 cal = 4,18 J
+**Nombre:** X-uro (carga y signo)\*
 
-![...](imagenes/tema03/td2.png){style="display: block; margin: 0 auto; width: 20%; height: auto; border: 1px solid #333;"}
+*\*El paréntesis sigue al nombre sin ningún espacio. En el caso de que el número de oxidación sea único (monovalente), se puede omitir su valor.*
 
-### **Sistemas termodinámicos** {: .caja-subtitulo}
+| Ion | Nomenclatura | Ion | Nomenclatura | 
+| ----- | ----- | ----- | ----- | 
+| $\ce{Cl-}$ | cloruro(1-) o cloruro | $\ce{S^{2-}}$ | sulfuro(2-) o sulfuro | 
+| $\ce{F-}$ | fluoruro |  | **Excepción:** | 
+| $\ce{H-}$ | hidruro | $\ce{O^{2-}}$ | óxido | 
+| $\ce{N^{3-}}$ | nitruro | $\ce{O2^{2-}}$ | peróxido o dióxido(2-)\*\* | 
 
-Parte del mundo físico que aislamos para su estudio mediante paredes reales o imaginarias. El resto del universo, que no forma parte del sistema, se llama entorno.
+ *Corresponde a lo que se denomina anión homopoliatómico.*
 
-**<u>Tipos de sistemas</u>**:
+### **1.3 Aniones poliatómicos** {: .caja-subtitulo}
 
-<div style="display: flex; width: 100%; border: 1px solid #ddd; font-family: sans-serif;">
+Los aniones pueden estar formados por más de un elemento. En este caso, su nomenclatura se puede realizar de dos maneras:
 
-  <div style="flex: 1; width: 33.33%; border-right: 1px solid #ddd; display: flex; flex-direction: column;">
-    <div style="background-color: #f2f2f2; font-weight: bold; text-align: center; padding: 10px; border-bottom: 1px solid #ddd;">
-      ABIERTOS
-    </div>
-    <div style="padding: 10px; flex-grow: 1; vertical-align: top;">
-      Pueden intercambiar materia y energía con su entorno
-    </div>
-    <div style="height: 90%; display: flex; align-items: center; justify-content: center; padding: 10px; border-top: 1px solid #eee;">
-      <img src="../imagenes/tema03/td3_1.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-    </div>
-  </div>
+#### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
-  <div style="flex: 1; width: 33.33%; border-right: 1px solid #ddd; display: flex; flex-direction: column;">
-    <div style="background-color: #f2f2f2; font-weight: bold; text-align: center; padding: 10px; border-bottom: 1px solid #ddd;">
-      CERRADOS
-    </div>
-    <div style="padding: 10px; flex-grow: 1; vertical-align: top;">
-      Intercambian energía con su entorno pero no materia
-    </div>
-    <div style="height: 90%; display: flex; align-items: center; justify-content: center; padding: 10px; border-top: 1px solid #eee;">
-      <img src="../imagenes/tema03/td3_2.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-    </div>
-  </div>
+Se utilizan prefijos y sufijos conforme al número de oxidación con que actúa el elemento que da lugar al anión. Se pueden presentar varios casos, según sea el número de valencias que posea dicho elemento:
 
-  <div style="flex: 1; width: 33.33%; display: flex; flex-direction: column;">
-    <div style="background-color: #f2f2f2; font-weight: bold; text-align: center; padding: 10px; border-bottom: 1px solid #ddd;">
-      AISLADOS
-    </div>
-    <div style="padding: 10px; flex-grow: 1; vertical-align: top;">
-      No intercambian ni materia ni energía con su entorno
-    </div>
-    <div style="height: 90%; display: flex; align-items: center; justify-content: center; padding: 10px; border-top: 1px solid #eee;">
-      <img src="../imagenes/tema03/td3_3.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-    </div>
-  </div>
+| 1 valencia | 2 valencias | 3 valencias | 4 valencias | 
+| ----- | ----- | ----- | ----- | 
+| \-ato | \-ito | hipo- -ito | hipo- -ito | 
+|  | \-ato | \-ito | \-ito | 
+|  |  | \-ato | \-ato | 
+|  |  |  | per- -ato | 
 
-</div>
+Para formularlos, se escribe el no metal con su número de oxidación indicado por el prefijo y sufijo y, a continuación, se añaden tantos oxígenos como sean necesarios, considerando que cada oxígeno añadido aporta dos cargas negativas, para que el ion quede con la mínima carga negativa posible.
 
-**Ejemplos de tipos de sistemas**
+*Por ejemplo, el cloro tiene cuatro valencias, así que tendríamos las posibilidades:*
 
-<div style="display: flex; width: 100%; border: 1px solid #ddd; font-family: sans-serif;">
+* **hipoclorito:** +1
 
-  <div style="flex: 1; width: 33.33%; border-right: 1px solid #ddd; display: flex; flex-direction: column;">
-    <div style="background-color: #f2f2f2; font-weight: bold; text-align: center; padding: 10px; border-bottom: 1px solid #ddd;">
-      ABIERTOS
-    </div>
-    <div style="padding: 10px; flex-grow: 1; vertical-align: top;">
-      La hoguera necesita combustible para arder y cede CO<sub>2</sub>, vapor de agua y energía en forma de calor
-    </div>
-    <div style="height: 90%; display: flex; align-items: center; justify-content: center; padding: 10px; border-top: 1px solid #eee;">
-      <img src="../imagenes/tema03/td4_1.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-    </div>
-  </div>
+* **clorito:** +3
 
-  <div style="flex: 1; width: 33.33%; border-right: 1px solid #ddd; display: flex; flex-direction: column;">
-    <div style="background-color: #f2f2f2; font-weight: bold; text-align: center; padding: 10px; border-bottom: 1px solid #ddd;">
-      CERRADOS
-    </div>
-    <div style="padding: 10px; flex-grow: 1; vertical-align: top;">
-      La bombilla necesita energía eléctrica para emitir luz. Si se corta la corriente no se encenderá
-    </div>
-    <div style="height: 90%; display: flex; align-items: center; justify-content: center; padding: 10px; border-top: 1px solid #eee;">
-      <img src="../imagenes/tema03/td4_2.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-    </div>
-  </div>
+  $\ce{Cl^{3+} + O^{2-} = ClO+}$ *(Incorrecto)*
 
-  <div style="flex: 1; width: 33.33%; display: flex; flex-direction: column;">
-    <div style="background-color: #f2f2f2; font-weight: bold; text-align: center; padding: 10px; border-bottom: 1px solid #ddd;">
-      AISLADOS
-    </div>
-    <div style="padding: 10px; flex-grow: 1; vertical-align: top;">
-      Un termo mantiene constante la temperatura del café que hayamos introducido en él
-    </div>
-    <div style="height: 90%; display: flex; align-items: center; justify-content: center; padding: 10px; border-top: 1px solid #eee;">
-      <img src="../imagenes/tema03/td4_3.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-    </div>
-  </div>
+  $\ce{Cl^{3+} + (O2)^{4-} = ClO2-}$ *(Correcto)*
 
-</div>
+* **clorato:** +5
 
-### **Variables termodinámicas** {: .caja-subtitulo}
+  $\ce{Cl^{5+} + O^{2-} = ClO^{3+}}$ *(Incorrecto)*
 
-Son las magnitudes físicas y químicas que caracterizan a un sistema termodinámico. Un estado del sistema viene determinado por los valores que toman dichas variables.
+  $\ce{Cl^{5+} + (O2)^{4-} = ClO2+}$ *(Incorrecto)*
 
-**<u>Tipos</u>**:
+  $\ce{Cl^{5+} + (O3)^{6-} = ClO3-}$ *(Correcto)*
 
-- **Extensivas**: su valor depende de la cantidad de materia del sistema. La
-masa, el volumen, la cantidad de sustancia, la energía interna, la entropía,
-etc.
+* **perclorato:** +7
 
-- **Intensivas**: su valor no depende de la cantidad de materia del sistema.
-Por ejemplo, la concentración, la densidad, la temperatura, etc.
+#### **B. Nomenclatura de hidrógeno (adición)** {: .caja-subtitulo2 #no-toc }
 
-**Funciones de estado**: variables termodinámicas cuyo valor depende solo de los estados inicial y final de un sistema, y no del proceso seguido.
+Indicamos primero el número de oxígenos con prefijos numéricos seguido de la palabra **oxido**. A continuación, el elemento de la izquierda acabado en el sufijo **-ato**. Por último, indicamos la carga entre paréntesis al final y sin separación.
 
-<div align="center">
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none;"><img src="../imagenes/tema03/td5.png" width="500"/></td>
-    <td style="border: none;"><img src="../imagenes/tema03/td6.png" width="500"/></td>
-  </tr>
-</table>
-</div>
-
-Son funciones de estado el volumen, la presión, la energía interna, la entalpía, la entropía, etc
-
-### **Transferencia de energía: calor y trabajo** {: .caja-subtitulo}
-
-Cuando aumenta o disminuye la energía de un sistema, se dice que ha habido una transferencia de energía entre el sistema y el entorno, que puede hacerse en forma de:
-
-- **Calor** ($\ce{Q}$): debida a una diferencia de temperatura.
-  
-- **Trabajo** ($\ce{W}$): debida a una fuerza que provoca un desplazamiento.
-
-**Calor y trabajo NO son formas de energía**, sino mecanismos de transferencia de energía.
-
-### **Calor** {: .caja-subtitulo}
-
-- $\ce{Q > 0}$ si el sistema absorbe energía del entorno.
-
-- $\ce{Q < 0}$ si el sistema cede energía al entorno.
-
-![...](imagenes/tema03/td10.png){style="display: block; margin: left; width: 90%; height: auto;"}
-
-### **Trabajo** {: .caja-subtitulo}
-
-Trabajo realizado por una fuerza: fuerza por el desplazamiento de su punto de aplicación y por el coseno del ángulo que forman las direcciones de la fuerza y el desplazamiento.
-
-$\ce{W = F \cdot \Delta x \cdot cos \alpha}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #fcede6" }
-
-Unidad de trabajo en S.I: **julio** (**J**)
-
-![...](imagenes/tema03/td7.png){style="display: block; margin: left; width: 70%; height: auto; "}
-
-**Trabajo de expansión-compresión** asociado a los cambios de volumen, $\ce{\Delta V}$, que sufre un sistema sometido a una presión, p.
-
-$\ce{\hspace{5cm} W = F \cdot \Delta x \cdot cos \alpha \hspace{1cm} \longrightarrow \hspace{1cm} W = F \cdot \Delta x }$
+Si hay hidrógenos, esta palabra se antepone al resto, que se pone entre paréntesis:
 
 $$
-\left\{
-\begin{array}{c}
-\ce{\alpha \; = 0} \\
-\ce{cos \alpha \; = 1}
-\end{array}
-\right\} \quad \ce{F = p \cdot S} \quad 
-\left\{
-\begin{array}{l}
-\ce{p, presión a la que esta sometido el gas} \\
-\ce{S, la sección del cilindro}
-\end{array}
-\right.
+\text{[Palabra hidrogeno-]} + \text{[Prefijo numeral (oxido)]} + \text{[Nombre del elemento-ato]} + \text{(carga ion)}
 $$
 
-$\ce{W = - p \cdot \Delta V}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #fcede6" }
-
-![...](imagenes/tema03/td8.png){style="display: block; margin: left; width: 50%; height: auto; border: 1px solid #333;"}
-
-- En un proceso de expansión: $\ce{\Delta V > 0 \; \rightarrow \; W < 0}$ trabajo hecho por el sistema sobre el entorno.
-
-- En un proceso de compresión: $\ce{\Delta V < 0 \; \rightarrow \; W > 0}$ trabajo hecho sobre el sistema.
-
-## **2. Principios de la Termodinámica**
-
-### **Primer principio de la termodinámica** {: .caja-subtitulo}
-
-Es en esencia el principio de conservación de la energía aplicado a cualquier proceso termodinámico, controlando los intercambios de energía.
-
-**Energía interna** (**$\ce{U}$**): suma de las energías de todas las partículas que forman el sistema (Energía cinética de las partículas, energía potencial, energía vibracional...)
-
-No puede conocerse $\ce{U}$ en valor absoluto, pero si sus variaciones, $\ce{\Delta U}$, en función del calor, $\ce{Q}$, y del trabajo $\ce{W}$, intercambiados con el entorno durante un proceso.
-
-La variación de la energía interna de un sistema es igual a la suma del calor y del trabajo, intercambiado con el entorno.
-
-$\ce{\Delta U = W + Q}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #fcede6" }
-
-- $\ce{\Delta U > 0}$, si absorbe calor, $\ce{+Q}$, o si se hace un trabajo sobre él, $\ce{+W}$ (compresión).
-
-- $\ce{\Delta U < 0}$, si pierde calor, $\ce{-Q}$, o si efectúa un trabajo sobre el entorno, $\ce{-W}$ (expansión).
-
-![...](imagenes/tema03/td24.png){style="display: block; margin: left; width: 30%; height: auto; border: 1px solid #333;"}
-
-La **energía interna** es una **función de estado**.
-
-### **Aplicaciones del primer principio** {: .caja-subtitulo}
-
-Las reacciones químicas, suelen realizarse o bien a $\ce{p = cte}$ o bien a $\ce{V = cte}$. El primer principio sirve para estudiar los intercambios de energía en los procesos químicos.
-
-**Procesos isocóricos** (a **volumen constante**): Reacciones que se llevan a cabo en un recipiente cerrado.
-
-Como $\ce{V = cte \; \Longrightarrow \; W = 0}$.
-
-El calor que se absorbe o se desprende en la reacción, $\ce{Q_\text{v}}$ (calor a volumen cte), coincide con la variación de la energía interna que se produce en dicha reacción.
+**Ejemplo:**
 
 $$
-\begin{array}{l}
-\ce{\Delta U = Q + W} \\
-\ce{\Delta U = Q - p \cdot \Delta V}
-\end{array} \hspace{1.5cm} \ce{V = cte \rightarrow \Delta V = 0}
+\ce{HCO3-} \quad \rightarrow \quad \text{hidrogeno(trioxidocarbonato)(1-)}
 $$
 
-$\ce{\Delta U = Q_\text{v}}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #fcede6" }
-
-Si $\ce{Qv > 0}$, reacción endotérmica, recibe calor del entorno y $\ce{\Delta U > 0}$
-
-Si $\ce{Qv < 0}$, reacción exotérmica, cede calor al entorno y $\ce{\Delta U < 0}$
-
-**Procesos isobáricos** (a **presión constante**): Reacciones que se llevan a cabo en un recipiente abierto y a presión atmosférica.
-
-Calor que se absorbe o se desprende en la reacción, $\ce{Q_\text{p}}$ (calor a p = cte)
-
-$$\ce{\Delta U = Q + W = Q - p \cdot \Delta V}$$
-
-$\ce{Q_\text{p} = \Delta U + p \cdot \Delta V}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #fcede6" }
-
-Para expresar la transferencia de calor entre el sistema y el entorno en procesos a p = cte se suele utilizar una nueva magnitud, la **entalpía**, **H**: $\ce{\quad H = U + p \cdot V}$
-
-$\ce{Q_\text{p} = \Delta U + p \cdot \Delta V = (U_2 - U_1) + p \cdot (V_2 - V_1) = U_2 - U_1 + p \cdot V_2 - p \cdot V_1}$
-
-$\ce{Q_\text{p} = (U_2 + p \cdot V_2) - (U_1 + p \cdot V_1) = H_2 - H_1}$
-
-$\ce{p = cte \; \rightarrow \; p_1 = p_2 \hspace{2cm} Q_\text{p} = H_2 - H_1 = \Delta H}$
-
-$\ce{Q_\text{p} = \Delta H}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #fcede6" }
-
-Reacción **endotérmica**: $\ce{\quad Q_\text{p} > 0 \; \rightarrow \; H_{productos} > H_{reactivos} \; \rightarrow \; \Delta H > 0}$
-
-Reacción **exotérmica**: $\ce{\quad Q_\text{p} < 0 \; \rightarrow \; H_{productos} < H_{reactivos} \; \rightarrow \; \Delta H < 0 }$
-
-### **Relación entre Qp y Qv** {: .caja-subtitulo}
-
-La expresión que relaciona los calores a volumen y a presión constante es:
-
-$\ce{\hspace{5cm} \Delta H = \Delta U + p \cdot \Delta V \quad \rightarrow \quad}$ <span style="border: 2px solid #34077d; border-radius: 8px; background-color: #fcede6; padding: 4px 8px; display: inline-block;">$\ce{Q_\text{p} = Q_\text{v} + p \cdot \Delta V}$</span>
-
-- Si la **reacción química** se produce entre **sólidos**, **líquidos** o en **disolución**, no se producirán variaciones apreciables de volumen
-
-$\hspace{4cm}$<span style="border: 2px solid #34077d; border-radius: 8px; background-color: #fcede6; padding: 4px 8px; display: inline-block;">$\ce{Q_\text{p} \approx Q_\text{v}}$</span>$\ce{ \quad \rightarrow \quad \Delta H = \Delta U}$ 
-
-- Si la **reacción química** se produce entre **gases** a una presión y temperaturas determinadas: el valor de $\ce{\Delta n}$ = **variación** de mol de gases al pasar de reactivos a productos = número de **mol de productos gaseosos** $-$ número de **mol de reactivos gaseosos** ($\ce{\Delta n = n_\text{productos} - n_\text{reactivos}}$)
-
-$$\ce{p \cdot \Delta V = \Delta n \cdot R \cdot T}$$
-
-$\ce{\hspace{5cm} Q_\text{p} = Q_\text{V} + \Delta n \cdot R \cdot T \; \rightarrow \; }$ <span style="border: 2px solid #34077d; border-radius: 8px; background-color: #fcede6; padding: 4px 8px; display: inline-block;">$\ce{\Delta H = \Delta U + \Delta n \cdot R \cdot T}$</span>
-
-En reacciones con $\ce{\Delta n = 0}$ como, $\ce{H2 (g) + F2 (g) \rightarrow 2 HF (g) \; \rightarrow \; \Delta U = \Delta H}$
-
-## **3. Procesos físicos y entalpía**
-
-### **Entalpía de reacción $\ce{\Delta H}$** {: .caja-subtitulo}
-
-**Energía intercambiada** en forma de calor a **presión constante** cuando los reactivos se han transformado en los productos.
-
-**Ecuación termoquímica**: ecuación ajustada de la reacción en la que se **indica** el **estado físico** de cada sustancia y el **calor intercambiado con el entorno**, normalmente como $\ce{\Delta H}$.
-
-$$\begin{array}{ll}
-\ce{HgO (s) \rightarrow Hg (l) + 1/2 O2 (g)} & \ce{\Delta H = + 90,8 kJ/mol} \\
-\ce{2 HgO (s) \rightarrow 2 Hg (l) + O2 (g)} & \ce{\Delta H = + 181,6 kJ/mol} \\
-\ce{Hg (l) + 1/2 O2 (g) \rightarrow HgO (s)} & \ce{\Delta H = - 90,8 kJ/mol} \\
-\end{array}$$
-
-Si **invertimos el orden de la reacción**, se **cambia el signo** de $\ce{\Delta H_r}$.
-
-Si **multiplicamos la ecuación por un número**, **también se multiplica** la $\ce{\Delta H_r}$ ya que la entalpía es una variable extensiva, depende de la cantidad de materia.
-
-### **Diagramas entálpicos** {: .caja-subtitulo}
-
-**Diagrama entálpico**: **representación gráfica** de la variación de entalpía entre los reactivos y los productos en una **reacción química**.
-
-<div style="display: flex; width: 100%; border: 1px solid #ddd; font-family: sans-serif;">
-
-  <div style="flex: 1; width: 50%; border-right: 1px solid #ddd; display: flex; flex-direction: column;">
-    <div style="background-color: #f2f2f2; font-weight: bold; text-align: center; padding: 10px; border-bottom: 1px solid #ddd;">
-      Reacción endotérmica
-    </div>
-    <div style="height: 300px; display: flex; align-items: center; justify-content: center; padding: 10px; border-top: 1px solid #eee;">
-      <img src="../imagenes/tema03/td11_1.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; height: 25px;">
-        H<sup>productos</sup> &nbsp; > &nbsp; H<sub>reactivos</sub> &nbsp; &nbsp; &rarr; &nbsp; &nbsp; &Delta; H<sub>r</sub> &nbsp; > 0
-    </div>
-  </div>
-
-  <div style="flex: 1; width: 50%; border-right: 1px solid #ddd; display: flex; flex-direction: column;">
-    <div style="background-color: #f2f2f2; font-weight: bold; text-align: center; padding: 10px; border-bottom: 1px solid #ddd;">
-      Reacción exotérmica
-    </div>
-    <div style="height: 300px; display: flex; align-items: center; justify-content: center; padding: 10px; border-top: 1px solid #eee;">
-      <img src="../imagenes/tema03/td11_2.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; height: 25px;">
-        H<sup>productos</sup> &nbsp; < &nbsp; H<sub>reactivos</sub> &nbsp; &nbsp; &rarr; &nbsp; &nbsp; &Delta; H<sub>r</sub> &nbsp; < 0
-    </div>
-  </div>
-
-</div>
-
-## **4. Cálculo de entalpías**
-
-Para averiguar la entalpía de reacción, $\ce{\Delta H_r}$ de un proceso hay varios métodos:
-
-1. A partir de la **determinacion experimental**
-2. A partir de las **entalpías de formación**
-3. A partir de la **ley de Hess**
-4. A partir de las **entalpías de enlace**<br>
-
-
-### **1. Cálculo a partir de la determinación experimental**: {: .caja-subtitulo}
-
-El calorímetro contiene una masa de agua a cierta T, en la cual, o se produce la reacción, o está en contacto con el recipiente donde ésta ocurre.
-
-La $\ce{\Delta H_r}$ será absorbida o liberada por el agua del calorímetro, lo que hace variar su T.
-
-Como el sistema es adiabático:
-
-$\ce{Q_{reacción} + Q_{agua} = 0 \; \rightarrow \; Q_{reacción} = - Q_{agua}}$
-
-$\ce{Q_{agua} = m \cdot c_{agua} \cdot \Delta T}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #f9f7fb" }
-
-La reacción calienta el agua, y también los componentes del calorímetro. El calor invertido en esto es específico de cada calorímetro y debe tenerse en cuenta, o se cometerá un error de medición.
-
-![...](imagenes/tema03/td12.png){style="display: block; margin: left; width: 20%; height: auto; border: 1px solid #333;"}
-
-### **2. Cálculo de la $\ce{\Delta H_R}$ a partir de entalpías estándar de formación ($\ce{\Delta H^{\circ}_f}$)** {: .caja-subtitulo}
-
-La entalpía de reacción, $\ce{\Delta H_r}$ podría calcularse: $\ce{H_{productos} - H_{reactivos}}$, pero no es posible medir el valor absoluto de H de una sustancia, solo valores relativos con respecto a una referencia arbitraria:
-
-El **punto de referencia** para la H, **es la entalpía estándar de formación** ($\ce{\Delta H^{\circ}_f}$) de **cualquier elemento**, en su forma más estable (a 1 atm y 25 $^{\circ}$C), que es **cero**. 
-
-$\ce{\Delta H^{\circ}_f}$ (C, grafito) = 0 y $\ce{\Delta H^{\circ}_f}$ (C, diamante) = 1,90 kJ/mol
-
-La definición de la **entalpía estándar de formación** $\ce{\Delta H^{\circ}_f}$ de un compuesto sería el calor asociado a la formación de 1 mol de compuesto a partir de sus elementos a una presión de 1 atm.
-
-A partir de las entalpías de formación estándar es posible obtener entalpías de reacción:
-
-$\ce{\Delta H^{\circ}_{reacción} = \sum n \cdot \Delta H^{\circ}_f (productos) - \sum m \cdot \Delta H^{\circ}_f (reactivos)}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #f9f7fb" }
-
-$\ce{n, m =}$ coeficientes estequiométricos de productos y reactivos; el estado estándar se designa con el símbolo «$^{\circ}$», y especifica una T, que utiliza valores de $\ce{\Delta H^{\circ}_f}$ a 25 $^{\circ}$C
-
-Las entalpías de formación estándar están tabuladas, a 25 $^{\circ}$C
-
-![...](imagenes/tema03/td13.png){style="display: block; margin: left; width: 80%; height: auto; border: 1px solid #333;"}
-
-### **3. Cálculo a partir de la ley de Hess** {: .caja-subtitulo}
-
-La variación de entalpía que se produce cuando ocurre una determinada reacción es la misma tanto si ésta se produce en una sola etapa, como en varias etapas.
-
-Cuando una reacción química puede expresarse como suma algebraica de otras, su $\ce{\Delta H}$ reacción es igual a la misma suma algebraica de las $\ce{\Delta H}$ de las reacciones parciales.
-
-![...](imagenes/tema03/td14.png){style="display: block; margin: left; width: 60%; height: auto; border: 1px solid #333;"}
-
-**Ejercicio de la ley de Hess**
-
-Halla la entalpía de formación del amoniaco a partir de las siguientes ecuaciones:
-
-$\ce{1) 2 H2 (g) + N2 (g) \rightarrow N2H4 (g) \hspace{1.4cm} \Delta H^{\circ}_1 = + 95,4 kJ}$
-
-$\ce{2) N2H4 (g) + H2 (g) \rightarrow 2 NH3 (g) \hspace{1cm} \Delta H^{\circ}_2 = - 187,6 kJ}$
-
-**Solución**:
-
-La entalpía de reacción (formación del $\ce{NH3}$) que nos piden es de la siguiente reacción: 
-
-$\ce{\hspace{3cm} 3 H2 (g) + N2 (g) \rightarrow 2 NH3 (g) \hspace{1.4cm} \Delta H^{\circ}_r = ?}$
-
-Aplicando la ley de Hess, si sumamos las dos reacciones dadas obtenemos la ecuación buscada. 
+| Ion | Nomenclatura | Ion | Nomenclatura | 
+| ----- | ----- | ----- | ----- | 
+| $\ce{SO3^{2-}}$ | trioxidosulfato(2-) | $\ce{H2PO4-}$ | dihidrogeno(tetraoxidofosfato)(1-) | 
+| $\ce{SO4^{2-}}$ | tetraoxidosulfato(2-) | $\ce{ClO3-}$ | trioxidoclorato(1-) | 
+| $\ce{Cr2O7^{2-}}$ | heptaoxidodicromato(2-) | $\ce{MnO2-}$ | dioxidomanganato(1-) | 
+
+## !!! note "Importante"
+- No hay que dejar espacio entre el nombre y el paréntesis.
+- En palabras compuestas como los aniones poliatómicos y las sales y ácidos que de ellos se deriven, pierden la tilde todos los elementos tónicos menos el último. Así pues, en estos casos no deberás acentuar las partículas *oxido-* ni *hidrogeno-*.
+
+## **2. Compuestos binarios**
+
+Los compuestos binarios se forman por la unión de dos elementos, que se escriben de la siguiente forma:
 
 $$
-\begin{aligned}
-&\text{Etapa 1.} \quad \ce{2 H2 (g) + N2 (g) \rightarrow \cancel{\ce{N2H4}} (g)} \hspace{1.4cm} \Delta \ce{H}^{\circ}_1 = + 95,4 \text{ kJ} \\[0.1cm]
-&\text{Etapa 2.} \quad \ce{\cancel{\ce{N2H4}} (g) + H2 (g) \rightarrow 2 NH3 (g)} \hspace{1cm} \Delta \ce{H}^{\circ}_2 = - 187,6 \text{ kJ} \\[0.1cm]
-\hline \\[-0.05cm]
-&\text{Reacción} \quad \ce{3 H2 (g) + N2 (g) \rightarrow 2 NH3 (g)} 
-\end{aligned}
+\ce{M_x X_y}
 $$
 
-$\ce{\Delta H^{\circ}_{reacción} = \Delta H^{\circ}_1 + \Delta H^{\circ}_2 = + 95,4 kJ + (- 187,6 kJ) = - 92,2 kJ }$
+* $\ce{M}$: El elemento menos electronegativo se escribe a la izquierda.
 
-Pero en ella se forman 2 mol de $\ce{NH3}$ por lo tanto, la entalpía de formación del $\ce{NH3}$ sería: $\ce{- 92,2 / 2 = - 46,1 kJ/mol}$
+* $\ce{X}$: El elemento más electronegativo se sitúa a la derecha (con valencia negativa).
 
-La ley de Hess permite tratar las ecuaciones termoquímicas como ecuaciones algebraicas, pudiendo sumarlas, restarlas o multiplicarlas por un número, junto a las entalpías de reacción correspondientes.
-
-### **4. Cáculo a partir de la entalpía de enlace** {: .caja-subtitulo}
-
-La **entalpía de enlace** es un **valor medio de la energía** que se requiere para romper **1 mol de dichos enlaces**.
-
-Cuanto **mayor** sea la **energía de enlace**, **más fuerte y más estable** será dicho enlace.
-
-Una **reacción** consiste en una **reordenación de los átomos** de los reactivos para formar los productos. Esto supone la **ruptura de ciertos enlaces** y la **formación de otros nuevos**.
-
-La energía intercambiada en ese proceso de ruptura y formación de enlaces es otra forma de determinar “aproximadamente” la entalpía de una reacción $\ce{\Delta H_r}$:
-
-$\ce{\Delta H^{\circ}_{reacción} = \sum (energía de enlaces rotos) - \sum (energía de enlaces formados)}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #f9f7fb" }
-
-![...](imagenes/tema03/td15.png){style="display: block; margin: 0 auto; width: 70%; height: auto; border: 1px solid #333;"}
-
-**Ejercicio de la entalpía de enlace**
-
-Calcula la entalpía estándar de la reacción de combustión del metanol:
-
-$\ce{\hspace{5cm} CH3OH + 3/2 O2 \rightarrow CO2 + 2 H2O}$
-
-a partir de los datos de entalpías de enlace (kJ/mol): $\ce{C-H = 414; C-O = 352; O=O = 498; O-H = 460; C=O = 745}$
-
-**Solución**:
-
-<!--
-##latex id=combustion_metanol sep=2em
-\schemestart[0, 0.8, 1.5]
-	\subscheme{
-		\chemfig{C(-[2]H)(-[4]H)(-[6]H)-O-H} 
-        \hspace{2em}
-		+ \hspace{2em} 3/2
-        \hspace{1em}
-		\chemfig{O = O}
-        \hspace{2em}
-		\arrow{->}[0,1] 
-        \hspace{2em}
-    \chemfig{O = C = O} 
-        \hspace{2em}
-    + \hspace{2em} 2 
-      \hspace{1em}
-    \chemfig{H - O - H} 
-		}
-\schemestop
--->
-
-![...](imagenes/tema03/combustion_metanol.svg){style="display: block; margin: 0 auto; width: 95%; height: auto;"}
+El orden creciente de electronegatividades formales, comenzando con el flúor y terminando con el radón, que la IUPAC ha establecido como referencia para la ordenación de los símbolos de los elementos en las fórmulas, es el siguiente:
 
 $$
-\begin{array}{ll}
-\textbf{Enlaces que se rompen} & \textbf{Enlaces que se forman} \\
-\ce{3 enlaces C-H} & \ce{dos enlaces C=O} \\
-\ce{1 enlace C-O} & \ce{cuatro enlaces O-H} \\
-\ce{1 enlace O-H} & \\
-\ce{3/2 enlace O=O} & \\
-\end{array}
+\ce{F > O > Cl > Br > I > S > Se > Te > N > P > As > Sb > Bi > C > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl > H > ...}
 $$
 
-Aplicando la expresión:
+{ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
 
-$\ce{\Delta H^{\circ}_{reacción} = \sum (energía de enlaces rotos) - \sum (energía de enlaces formados)}$
+## !!! note "Importante"
+Esta ordenación de las electronegatividades no es la real, sino una asignación conveniente para formular los compuestos. En realidad, por ejemplo, el oxígeno es más electronegativo que el cloro, el nitrógeno es más electronegativo que el hidrógeno, etc.
 
-$\ce{\Delta H^{\circ}_{reacción} = (3 mol \cdot 414 kJ/mol + 1 mol \cdot  352 kJ/mol + 1 mol \cdot 460 kJ/mol + }$ 
+En la formación de un compuesto, asignamos a cada elemento una carga formal correspondiente al número de oxidación que utilice. Luego estos elementos se combinan en número de manera que la carga total sea nula.
 
-$\ce{\hspace{2cm} + 3/2 mol \cdot 498 kJ/mol) - (2 mol \cdot 745 kJ/mol + 4 mol \cdot 460 kJ/mol)}$
+Para conseguirlo, cada elemento se repetirá un número de veces igual a la división entre el mínimo común múltiplo ($\text{mcm}$) de todas las cargas y la carga de cada elemento. Una regla sencilla que, aunque con excepciones, puede ayudar a la formulación del compuesto, es el intercambio de valencias y la posterior simplificación.
 
-$\ce{\Delta H^{\circ}_{reacción} = - 529 kJ }$
+**Ejemplo de formulación:**
+Sulfuro de plomo(IV): formado por $\ce{Pb^{4+}}$ y $\ce{S^{2-}}$
 
-## **5. Segundo principio y Entropía**
+$$
+\text{mcm}(4, 2) = 4 \quad \rightarrow \quad \text{Pb: } 4/4 = 1; \quad \text{S: } 4/2 = 2 \quad \rightarrow \quad \ce{PbS2}
+$$
 
-El primer principio establece que cuando un sistema experimenta una transformación, se cumple que:
+*(O intercambio cruzado:* $\ce{Pb_2S_4 \rightarrow PbS2}$*)*
 
-$\ce{\hspace{3cm} \Delta U = Q + W}$
+En este curso utilizaremos dos tipos de nomenclatura:
 
-La energía total se conserva, pero hay procesos:
+1. **Prefijo multiplicador:** Se nombran de derecha a izquierda, de manera que leemos primero el elemento más electronegativo, acabado en el sufijo **-uro** (a excepción del oxígeno, que se lee como **óxido**), seguido del elemento de la izquierda. Se indica el número de cada átomo con prefijos numéricos (el término *mono-* se utilizará sobre el anión solo en el caso de que el elemento menos electronegativo posea más de una valencia).
 
-- **Espontáneos**: se producen sin ninguna intervención externa
+2. **Números de oxidación:** No se introducen prefijos numéricos, únicamente el número de oxidación del elemento menos electronegativo entre paréntesis y en números romanos. En caso de que posea una única valencia, se omite el número.
 
-- **No espontáneos**: se dan gracias a una acción externa continua
+| Compuesto | Nomenclatura (Prefijos) | Nomenclatura (Nº de oxidación) | 
+| ----- | ----- | ----- | 
+| $\ce{Li2O}$ | óxido de dilitio | óxido de litio | 
+| $\ce{FeH2}$ | dihidruro de hierro | hidruro de hierro(II) | 
+| $\ce{Cr2S3}$ | trisulfuro de dicromo | sulfuro de cromo(III) | 
+| $\ce{N2O}$ | óxido de dinitrógeno | óxido de nitrógeno(I) | 
+| $\ce{SI2}$ | diyoduro de azufre | yoduro de azufre(II) | 
+| $\ce{BaH2}$ | dihidruro de bario | hidruro de bario | 
 
-En principio, puede parecer que solo los procesos exotérmicos son espontáneos, pero hay procesos endotérmicos que también lo son.
+## !!! note "Importante"
+Con anterioridad a la publicación de las normas de la IUPAC del año 2005, los compuestos de oxígeno con un haluro se nombraban como los óxidos ($\ce{Cl2O}$ óxido de dicloro; $\ce{Cl2O5}$ pentaóxido de dicloro). Actualmente esta nomenclatura **no está aceptada**.
 
-Para predecir en qué sentido un sistema va a evolucionar de forma espontánea, el primer principio no es suficiente, solo $\ce{\Delta H}$ no sirve para determinar la espontaneidad, necesitamos una nueva magnitud física: **ENTROPÍA**
+### **2.1 Peróxidos** {: .caja-subtitulo}
 
-### **Concepto de entropía: S** {: .caja-subtitulo}
+Los **peróxidos** son compuestos que se obtienen por la combinación entre un metal y el grupo peróxido o dióxido(2-) ($\ce{O2^{2-}}$). El subíndice del oxígeno forma parte del ion, por lo que no se puede eliminar. Se confunden fácilmente con los óxidos.
 
-La **entropía** mide el **grado de desorden de un sistema a nivel molecular**
+**Nomenclatura:** sigue las mismas normas vistas anteriormente; están aceptados los dos nombres para el anión.
 
-- Es una magnitud extensiva y función de estado
+| Ion | Nombre sistemático | Nombre aceptado por la IUPAC | 
+| ----- | ----- | ----- | 
+| $\ce{Li2O2}$ | dióxido de dilitio | peróxido de litio | 
+| $\ce{CaO2}$ | dióxido de calcio | peróxido de calcio | 
+| $\ce{PbO2}$ | dióxido de plomo | peróxido de plomo(II) | 
 
-- Se mide en J/K
+**Ejemplos de formulación:**
 
-- $\ce{S_{gas} > S_{líquido} >S_{sólido}}$
+| Nombre | Compuesto | Nombre | Compuesto | 
+| ----- | ----- | ----- | ----- | 
+| peróxido de oro(I) | $\ce{Au2O2}$ | dióxido de bario | $\ce{BaO2}$ | 
+| triperóxido de dihierro / peróxido de hierro(III) | $\ce{Fe2(O2)3}$ | triperóxido de diníquel / peróxido de níquel(III) | $\ce{Ni2(O2)3}$ | 
 
-- La entropía de un sistema aumenta con la temperatura.
+## !!! note "Importante"
+Los peróxidos y los óxidos suelen confundirse cuando queremos nombrarlos. Una técnica para resolver este problema consiste en averiguar la valencia si fuera un óxido. Si dicha valencia no pertenece al elemento, nos encontramos con un peróxido.
+*Ejemplo:* En $\ce{Na2O2}$, si fuera un óxido el sodio tendría valencia 2; como el sodio solo tiene valencia 1, en consecuencia, es un peróxido.
 
-Cuando un sistema intercambia energía con el entorno, la variación de entropía, depende del calor intercambiado y de la temperatura a la que se produce el intercambio.
+### **2.2 Hidróxidos** {: .caja-subtitulo}
 
-$\ce{\Delta S = \dfrac {Q}{T} }$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #f9f7fb" }
+Los **hidróxidos** son compuestos que se obtienen por la unión de un metal con el grupo hidróxido ($\ce{OH-}$). Aunque en este caso nos encontramos con tres elementos diferentes, su nomenclatura y formulación es idéntica a los compuestos binarios, pues se trata al grupo hidróxido como un conjunto de un solo elemento.
 
-![...](imagenes/tema03/td17.png){style="display: block; margin: 0 auto; width: 70%; height: auto; border: 1px solid #333;"}
+| Nombre | Compuesto | Nombre | Compuesto | 
+| ----- | ----- | ----- | ----- | 
+| hidróxido de aluminio / trihidróxido de aluminio | $\ce{Al(OH)3}$ | hidróxido de calcio / dihidróxido de calcio | $\ce{Ca(OH)2}$ | 
+| hidróxido de níquel(II) / dihidróxido de níquel | $\ce{Ni(OH)2}$ | hidróxido de plomo(IV) / tetrahidróxido de plomo | $\ce{Pb(OH)4}$ | 
 
-### **Segundo principio de la termodinámica** {: .caja-subtitulo}
+### **2.3 Hidrógeno + no metal** {: .caja-subtitulo}
 
-- Plantea la imposibilidad de que puedan producirse ciertos procesos.
+El hidrógeno actúa con estado de oxidación +1 y los no metales con su respectivo estado de oxidación negativo. Los compuestos de los grupos 13, 14 y 15 son hidruros y tienen nombre común aceptado. El resto son X-uros de hidrógeno.
 
-- Conecta la entropía y la espontaneidad de un proceso
+| Fórmula | Nombre | Nombre común | 
+| ----- | ----- | ----- | 
+| $\ce{BH3}$ | trihidruro de boro | borano | 
+| $\ce{CH4}$ | tetrahidruro de carbono | metano | 
+| $\ce{NH3}$ | trihidruro de nitrógeno | amoniaco | 
+| $\ce{SiH4}$ | tetrahidruro de silicio | silano | 
+| $\ce{AsH3}$ | trihidruro de arsénico | arsano | 
+| $\ce{PH3}$ | trihidruro de fósforo | fosfano | 
 
-Un **sistema evoluciona de forma espontánea** si la **entropía del universo aumenta** con esa transformación.
+| Fórmula | Nombre | 
+| ----- | ----- | 
+| $\ce{HF}$ | fluoruro de hidrógeno | 
+| $\ce{HCl}$ | cloruro de hidrógeno | 
+| $\ce{HBr}$ | bromuro de hidrógeno | 
+| $\ce{HI}$ | yoduro de hidrógeno | 
+| $\ce{H2S}$ | sulfuro de hidrógeno | 
+| $\ce{H2Se}$ | seleniuro de hidrógeno | 
 
-$\ce{\Delta S_{universo} > 0 }$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #f9f7fb" }
+!!! note "Importante: Ácidos hidrácidos en disolución acuosa"
+Las disoluciones acuosas de los compuestos entre el hidrógeno y los elementos de los grupos 16 y 17 tienen un comportamiento ácido y se nombran con la palabra **ácido** seguida del elemento con el sufijo **-hídrico**:
+- $\ce{HF (aq)}$: ácido fluorhídrico
+- $\ce{HCl (aq)}$: ácido clorhídrico
+- $\ce{H2S (aq)}$: ácido sulfhídrico
+- $\ce{H2Se (aq)}$: ácido selenhídrico
 
-$\ce{\hspace{6cm} \Delta S_{universo} = \Delta S_{sistema} + \Delta S_{entorno}}$
+```
+*En este caso no se nombra un compuesto puro, sino una disolución, por lo que no pertenece a la nomenclatura química formal.*
 
-![...](imagenes/tema03/td18.png){style="display: block; margin: 0 auto; width: 90%; height: auto; border: 1px solid #333;"}
+```
 
-El **gas se distribuye uniformemente** entre ambos matraces; pero **NO se da el proceso inverso**: que un gas encerrado en 2 matraces se concentre espontáneamente en uno solo.
+## **3. Compuestos ternarios**
 
-### **La entropía y el segundo principio** {: .caja-subtitulo}
+Los compuestos ternarios están formados por tres elementos diferentes. Su nomenclatura y formulación resulta más compleja. Trataremos dos tipos: los oxoácidos y las oxisales.
 
-$\ce{\Delta S_{universo} = \Delta S_{sistema} + \Delta S_{entorno}}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #f9f7fb" }
+### **3.1 Oxiácidos (Oxoácidos)** {: .caja-subtitulo}
 
-### **Reacción exotérmica** {: .caja-subtitulo}
+Los ácidos oxoácidos son compuestos formados por un no metal, oxígeno e hidrógeno, cuya fórmula general es:
 
-![...](imagenes/tema03/td21.png){style="display: block; margin: 0 auto; width: 50%; height: auto; border: none;"}
+$$
+\ce{H_a X_b O_c} \quad \text{(siendo X el no metal)}
+$$
 
-- La **espontaneidad** de los procesos **exotérmicos** depende de cómo varíe la $\ce{\Delta S}$ del **sistema**.
+Veremos tres formas de nombrar estos compuestos:
 
-### **Reacción endotérmica** {: .caja-subtitulo}
+#### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
-<div style="display: flex; width: 100%; border: none; font-family: sans-serif;">
+La IUPAC admite la nomenclatura tradicional, que utiliza el nombre genérico de **ácido** y los prefijos y sufijos **hipo- -oso**, **-oso**, **-ico** y **per- -ico**.
 
-  <div style="flex: 1; width: 50%; border-right: 1px solid #ddd; display: flex; flex-direction: column;">
-    <div style="height: 300px; display: flex; align-items: center; justify-content: center; padding: 10px; border-top: none;">
-      <img src="../imagenes/tema03/td19.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-    </div>
-  </div>
+Para formular los ácidos se debe formular el anión poliatómico previamente. Para ello, se sustituyen los sufijos de los oxaniones por otros diferentes:
 
-  <div style="flex: 1; width: 50%; border-right: none; display: flex; flex-direction: column;">
-    <div style="height: 300px; display: flex; align-items: center; justify-content: center; padding: 10px; border-top: none;">
-      <img src="../imagenes/tema03/td20.png" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-    </div>
-  </div>
-</div>
+$$
+\text{-ato} \rightarrow \text{-ico} \qquad \text{-ito} \rightarrow \text{-oso}
+$$
 
-- La **espontaneidad** de los procesos **endotérmicos** depende de cómo varíe la $\ce{\Delta S}$ del **entorno**.
+Posteriormente se añaden tantos iones $\ce{H+}$ como sean necesarios para que la molécula sea neutra:
 
-### **Variacción de entropía en una reacción** {: .caja-subtitulo}
+* **Ácido sulfúrico:** Ion sulfato ($\ce{SO4^{2-}}$) $+ 2\ce{H+} \rightarrow \ce{H2SO4}$
 
-El **tercer principio** de la Termodinámica establece que:
+* **Ácido nítrico:** Ion nitrato ($\ce{NO3-}$) $+ \ce{H+} \rightarrow \ce{HNO3}$
 
-La **entropía de una sustancia pura** (elemento o compuesto) que se halle como un cristal perfecto a **0 K es cero**
+Para determinar la valencia del no metal a partir de la fórmula en una molécula neutra, la suma de los números de oxidación es cero ($\ce{H}$ con +1 y $\ce{O}$ con -2):
 
-La **entropía nunca puede ser negativa** ya que 0 K es la temperatura más baja posible y a cualquier otra S > 0
+$$
+\ce{H2SO4} \quad \rightarrow \quad 2\cdot(+1) + x + 4\cdot(-2) = 0 \quad \rightarrow \quad +2 + x - 8 = 0 \quad \rightarrow \quad x = +6
+$$
 
-Si puede haber $\ce{\Delta S < 0}$
+*El S tiene valencia +6 (sufijo -ico). Es el ácido sulfúrico.*
 
-A partir de las tablas de entropías molares de las sustancias en condiciones estándar $\ce{S^{\circ}}$, la $\ce{\Delta S^{\circ}}$ de una reacción se calcula:
+#### **B. Nomenclatura de hidrógeno** {: .caja-subtitulo2 #no-toc }
 
-$\ce{\Delta S^{\circ}_{reacción} = \sum n_p \cdot S^{\circ} (productos) - \sum n_r \cdot S^{\circ} (reactivos)}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #f9f7fb" }
+Se nombra primero el hidrógeno (utilizando **-hidrogeno-**, sin acento), indicando su cantidad con prefijos; entre paréntesis, a continuación, se nombra el oxígeno (utilizando **-oxido-**, sin acento) y el elemento no metallic acabado en **-ato**.
 
-![...](imagenes/tema03/td22.png){style="display: block; margin: 0 auto; width: 30%; height: auto; border: 1px solid #333;"}
+$$
+\ce{H2SO4} \quad \rightarrow \quad \text{dihidrogeno(tetraoxidosulfato)}
+$$
 
-Para una reacción genérica dada sería:
+#### **C. Nomenclatura sistemática de adición** {: .caja-subtitulo2 #no-toc }
 
-$\ce{\hspace{5cm} a A + b B \rightarrow \; c C + d D}$
+El oxoácido consiste en un átomo central rodeado de grupos $\ce{-OH}$ (hidróxido) y $\ce{=O}$ (óxido). Para nombrarlo se eliminan todos los $\ce{OH}$ que se pueda, que corresponderán a los hidróxidos. Después se cuentan los oxígenos residuales, que serán los óxidos, y, por último, el átomo central.
 
-$\ce{\hspace{2cm} \Delta S^{\circ}_{reacción} =[c \cdot S^{\circ} (C) + d \cdot S^{\circ} (D)] - [a \cdot S^{\circ} (A) + b \cdot S^{\circ} (B)]}$
+$$
+\ce{H2SO4} \rightarrow \ce{[SO2(OH)2]} \quad \rightarrow \quad \text{dihidroxidodioxidoazufre}
+$$
 
-a, b, c y d están en mol
+| Fórmula | Tradicional | Sistemática de composición | Sistemática de adición | 
+| ----- | ----- | ----- | ----- | 
+| $\ce{H2CO3}$ | ácido carbónico | dihidrogeno(trioxidocarbonato) | dihidroxidooxidocarbono | 
+| $\ce{H2SO3}$ | ácido sulfuroso | dihidrogeno(trioxidosulfato) | dihidroxidooxidoazufre | 
+| $\ce{HClO4}$ | ácido perclórico | hidrogeno(tetraoxidoclorato) | hidroxidotrioxidocloro | 
 
-### **Cómo averiguar el signo de la $\ce{\Delta S}$ de una reacción** {: .caja-subtitulo}
+### **3.2 Oxisales** {: .caja-subtitulo}
 
-Para predecir el signo de la $\ce{\Delta S}$ de una reacción si el **número de partículas de gas** es mayor en los productos que en los reactivos $\ce{\Delta S > 0}$; si es menor $\ce{\Delta S < 0}$ y si no varía $\ce{\Delta S = 0}$
+Las **oxisales** son compuestos ternarios constituidos por un no metal, oxígeno y un metal. Se obtienen de la neutralización de un oxoácido con un hidróxido, de tal forma que se sustituyen los hidrógenos del primero por el metal del segundo.
 
-$\ce{C (s) +  \color{blue}{1/2 O2 (g)} \rightarrow \color{blue}{CO (g)} \hspace{2.3cm} \Delta S^{\circ} > 0}$
+$$
+\ce{HNO3 + NaOH \rightarrow NaNO3 \;(oxisal) + H2O}
+$$
 
-$\ce{CaCO3 (s) \rightarrow CaO (s) + \color{blue}{CO2 (g)} \hspace{1cm} \Delta S^{\circ} > 0}$
+Pueden considerarse compuestos binarios formados por un catión (procedente del hidróxido) y un anión (procedente del oxoácido).
 
-$\ce{\color{blue}{PCl3 (g)} + \color{blue}{Cl2 (g)} \rightarrow \color{blue}{PCl5 (g)} \hspace{1.6cm} \Delta S^{\circ} < 0 }$
+#### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
-## **6. Espontaneidad y Energía Libre**
-   
-### **Energía libre de Gibbs** {: .caja-subtitulo}
+Para formularlas, primero se escribe el catión y luego el anión. Al leer la fórmula, el orden seguido es el inverso. Las cargas de los iones se intercambian, simplificando si llegase el caso.
 
-Para salvar la dificultad de tener que determinar la $\ce{\Delta S_{universo}}$ para poder saber si una reacción es o no espontánea, se introduce una nueva magnitud: la **energía libre de Gibbs** (**G**)
+* **Nitrato de sodio:** $\ce{Na+ + NO3- = NaNO3}$
 
-$\ce{\hspace{5cm} G = H - T \cdot S}$
+* **Sulfato de calcio:** $\ce{Ca^{2+} + SO4^{2-} = Ca2(SO4)2 = CaSO4}$
 
-Es una función de estado y en el S.I. se mide en **Julios** (J)
+Para nombrarlas hay que nombrar el anión y añadirle el nombre del catión indicando su valencia entre paréntesis y en números romanos, si tiene más de una.
 
-T = temperatura en K. No podemos conocer su valor absoluto pero si su variación, que en condiciones de p y T constantes es:
+| Oxisal | Catión | Anión | Nombre | 
+| ----- | ----- | ----- | ----- | 
+| $\ce{LiNO2}$ | $\ce{Li+}$ | $\ce{NO2-}$ | nitrito de litio | 
+| $\ce{Fe2(CO3)3}$ | $\ce{Fe^{3+}}$ | $\ce{CO3^{2-}}$ | carbonato de hierro(III) | 
 
-$\ce{\Delta G = \Delta H - T \cdot \Delta S}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #f9f7fb" }
+#### **B. Nomenclatura sistemática de composición** {: .caja-subtitulo2 #no-toc }
 
-<span style="color: red; font-size: 1.2em;">&#10071;</span> Un **proceso es espontáneo** si $\ce{\Delta G < 0}$
+Se nombra el anión con la terminación **-ato**; si hay más de uno, se indica con un prefijo numeral multiplicativo (*bis-*, *tris-*, *tetraquis-*, *pentaquis-*, *hexaquis-*). A continuación, la preposición **de** y el nombre del catión con prefijos numéricos.
 
-Si $\ce{\Delta G > 0}$ el proceso **no es espontáneo**
-
-Si $\ce{\Delta G = 0}$ el sistema está en **equilibrio**
-
-### **Variacion de la energía libre de Gibbs en una reacción química** {: .caja-subtitulo}
-
-Se puede calcular a partir de la variación de entalpía estándar de reacción  y de la variación de entropía estándar de la reacción:
-
-$\ce{\Delta G^{\circ}_r = \Delta H^{\circ}_r - T \cdot \Delta S^{\circ}_r}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #f9f7fb" }
-
-También se puede hallar a partir de las energías libres de formación de reactivos y productos, usando la ley de Hess.
-
-$\ce{\Delta G^{\circ}_r = \sum n_p \cdot \Delta G^{\circ}_f (productos) - \sum n_r \cdot \Delta G^{\circ}_f (reactivos)}$
-{ style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; text-align: center; width: fit-content; margin: 20px auto; display: block; background: #f9f7fb" }
-
-Para la reacción: $\quad \ce{\text{a} A + \text{b} B \rightarrow \text{c} C + \text{d} D}$
-
-$\ce{\hspace{2cm} \Delta G^{\circ}_r = (c \cdot \Delta G^{\circ}_f C + d \cdot \Delta G^{\circ}_f D) - (a \cdot \Delta G^{\circ}_f A + b \cdot \Delta G^{\circ}_f B)}$
-
-Cuanto más negativo es el valor de la energia libre de Gibbs, más estable es la especie química formada y más espontánea es la reacción.
-
-La energía libre de Gibbs estándar de formación de un elemento químico en su estado más estable (natural) es 0, al igual que ocurría con la entalpía estandar de formación ($\ce{N2(g)}$, $\ce{Br2(l)}$, Fe(s)...)
-
-### **Espontaneidad de las reacciones** {: .caja-subtitulo}
-
-Partiendo de la ecuación de la energía libre de Gibbs, $\ce{\Delta G = \Delta H - T \cdot \Delta S}$, se puede deducir que:
-
-- Si en una **reacción exotérmica** ($\ce{\Delta H < 0}$) se produce un aumento de la entropía ($\ce{\Delta S > 0}$), tendremos que $\ce{\Delta G < 0}$ y, por tanto, el proceso es **espontáneo**.
-  
-- Pero hay reacciones en las que los términos entálpico ($\ce{\Delta H}$) y entrópico ($\ce{T \cdot \Delta S}$) están enfrentados; en estos casos, decide el valor de la temperatura, $\ce{T}$, a la que se realiza el proceso, ya que va a determinar si ($\ce{T \cdot \Delta S}$) es más o menos negativo y por tanto si favorece o no la espontaneidad de la reacción.
-
-Por ejemplo, el carbonato de amonio se descompone desprendiendo un fuerte olor a amoniaco, según la reacción:
-
-$\ce{\hspace{2cm} (NH4)2CO3 (s) \rightarrow NH4HCO3 (s) + NH3 (g) \hspace{1cm} \Delta H = 40,2 kJ}$
-
-Esta reacción es endotérmica ($\ce{\Delta H > 0}$) y transcurre con un aumento de la entropía ($\ce{\Delta S > 0}$), luego solo será **espontánea** ($\ce{\Delta G < 0}$) a **temperaturas altas**; cuando se cumpla que: $\ce{|T \cdot \Delta S| > |\Delta H|}$
-
-### **Evaluación de la espontaneidad** {: .caja-subtitulo}
-
-Influencia de la temperatura en la espontaneidad de una reacción química:
-
-![...](imagenes/tema03/td23.png){style="display: block; margin: 0 auto; width: 90%; height: auto; border: 1px solid #333;"}
-
-<!-- ---
-
-[Descargar Tema 3 en PDF](../pdfs/tema3-termoquimica/tema3-termoquimica.pdf){ .md-button .md-button--primary } -->
+$$
+\ce{Co2(CO3)3} \quad \rightarrow \quad \text{tris(trioxidocarbonato) de dicobalto}
+$$
