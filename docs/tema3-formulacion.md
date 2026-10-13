@@ -4,25 +4,21 @@
 
 En 2005, la IUPAC acordó unas normas para unificar la nomenclatura, en las que el **número de oxidación** es un concepto clave. Gracias a él, podemos conocer la estequiometría de un compuesto, es decir, el número de átomos de cada elemento que lo forman.
 
-> **Se denomina número de oxidación** a la carga formal que adquiriría un átomo si todos sus enlaces fueran 100 % iónicos. Por tanto, este número será positivo si pierden electrones y negativo si los ganan.
+Se denomina **número de oxidación** a la carga formal que adquiriría un átomo si todos sus enlaces fueran 100 % iónicos. Por tanto, este número será positivo si pierden electrones y negativo si los ganan.
 
-## !!! note "Importante: Valencia y número de oxidación"
+### **Valencia y número de oxidación** {: .caja-subtitulo #no-toc }
 Valencia y número de oxidación son términos relacionados. Por ejemplo, si un elemento posee dos números de oxidación, decimos que posee dos valencias o que será divalente.
 
 ### **Tabla de números de oxidación** {: .caja-subtitulo #no-toc }
 
 Los números de oxidación que aparecen encabezando o finalizando una familia se aplican a todos sus elementos.
 
-| \-1 | +1 | +2 | +1 | +2 | +3 | +4 | +3 | +3 | +4 | +5 | +6 | +5 | +7 | \-3 | \-4 | \-3 | \-2 | \-1 | 
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | 
-| H | Li | Be |  |  |  |  |  |  |  |  |  |  |  | B | C | N | O | F | 
-|  | Na | Mg |  |  |  |  |  |  |  |  |  |  |  | Al | Si | P | S | Cl | 
-|  | K | Ca |  |  |  |  |  |  |  |  |  |  |  | Ga | Ge | As | Se | Br | 
-|  | Rb | Sr | $\ce{Cr^{+2, +3}}$ | $\ce{Mn^{+2, +3}}$ | $\ce{Fe^{+2, +3}}$ | $\ce{Co^{+2, +3}}$ | $\ce{Ni^{+2, +3}}$ | $\ce{Cu^{+1, +2}}$ | $\ce{Zn^{+2}}$ | $\ce{Ag^{+1}}$ | $\ce{Cd^{+2}}$ | In | Sn | Sb | Te | I | Kr |  | 
-|  | Cs | Ba | $\ce{Pt^{+2, +4}}$ | $\ce{Au^{+1, +3}}$ | $\ce{Hg^{+1, +2}}$ | Tl |  |  |  |  |  | Pb | Bi | Po | At | Xe |  |  | 
-|  | Fr | Ra |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Rn |  | 
+![...](imagenes/tema03/estados_oxidacion.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
 *Algunos elementos poseen más números de oxidación, como el nitrógeno: -1, +1, +2, +3, +4, +5.*
+
+
+
 
 ## **1. Iones**
 
