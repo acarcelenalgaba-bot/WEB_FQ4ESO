@@ -60,14 +60,13 @@ Los hidrocarburos alifáticos pueden ser de cadena lineal, cíclicos, saturados 
   </tbody>
 </table>
 
-
 - **Hidrocarburos aromáticos o bencénicos**
 
 Los hidrocarburos aromáticos son los derivados del benceno ($\ce{C6H6}$), cuya singular estructura le confiere unas propiedades características (aromaticidad).
 
-![...](imagenes/tema02/aromaticos.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
+![...](imagenes/tema02/aromaticos.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
-### **3.1 Hidrocarburos saturados lineales. Alcanos (-ano)** {: .caja-subtitulo}
+### **3.1 Alcanos (-ano)** {: .caja-subtitulo}
 
 Los hidrocarburos saturados de cadena lineal tienen de fórmula general $\ce{C_nH_{2n+2}}$. Sólo contienen enlaces simples C-C. Pueden ser de cadena lineal o presentar ramificaciones laterales.
 
@@ -144,6 +143,8 @@ Para **nombrar** **hidrocarburos saturados ramificados** se aplican los criterio
 
 ![...](imagenes/tema02/ejemplo1.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
+<!---
+
 ### **Hidrocarburos saturados cíclicos** (**cicloalcanos**) {: .caja-subtitulo #no-toc }
 En este tipo de hidrocarburos los átomos de carbono se encuentran unidos **formando anillos**.
 
@@ -154,6 +155,8 @@ En este tipo de hidrocarburos los átomos de carbono se encuentran unidos **form
 - La numeración del ciclo se hace de tal forma que los localizadores (suma) sean los más bajos posibles. Si hay duda decide el orden alfabético de los sustituyentes.
 
 ![...](imagenes/tema02/cicloalcano.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
+
+-->
 
 ### **3.2 Alquenos (-eno)** {: .caja-subtitulo}
 
@@ -173,6 +176,7 @@ Existen algunos radicales insaturados que por su importancia conviene conocer:
 
 ![...](imagenes/tema02/alqueno.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
+<!---
 ### **Cicloalquenos** {: .caja-subtitulo #no-toc }
 
 Los **cicloalquenos** son hidrocarburos insaturados que poseen uno o más dobles enlaces en su cadena que, además, está ciclada.
@@ -183,9 +187,11 @@ Los cicloalquenos se nombran igual que los hidrocarburos saturados cíclicos (ci
 
 ![...](imagenes/tema02/cicloalqueno.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
+-->
+
 ### **3.3 Alquinos (-ino)** {: .caja-subtitulo}
 
-Los **alquinos** son hidrocarburos insaturados que se caracterizan por tener **triples enlaces** carbono-carbono
+Los **alquinos** son hidrocarburos insaturados que se caracterizan por tener **triples enlaces** carbono-carbono.
 
 ### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
@@ -195,6 +201,7 @@ Los **alquinos** son hidrocarburos insaturados que se caracterizan por tener **t
 
 ![...](imagenes/tema02/alquino.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
+<!---
 ### **3.4 Hidrocarburos Aromáticos (-benceno)** {: .caja-subtitulo}
 
 Se denominan **compuestos aromáticos** al benceno ($\ce{C6H6}$) y todas aquellas sustancias derivadas que por tener núcleos bencénicos en su molécula poseen propiedades químicas similares.
