@@ -1,4 +1,4 @@
-# ANEXO II. NOMENCLATURA INORGÁNICA
+# Tema 3. Formulación y nomenclatura inorgánica
 
 ## **1. Nomenclatura química**
 
@@ -17,12 +17,9 @@ Los números de oxidación que aparecen encabezando o finalizando una familia se
 
 *Algunos elementos poseen más números de oxidación, como el nitrógeno: -1, +1, +2, +3, +4, +5.*
 
+## **2. Iones**
 
-
-
-## **1. Iones**
-
-### **1.1 Cationes** {: .caja-subtitulo}
+### **2.1 Cationes** {: .caja-subtitulo}
 
 Son los átomos que han perdido electrones y quedan con carga positiva. Esta carga coincide con su número de oxidación. Si hay más de un número de oxidación o valencia, dará lugar a cationes del mismo elemento con diferente carga.
 
@@ -36,7 +33,7 @@ Son los átomos que han perdido electrones y quedan con carga positiva. Esta car
 | $\ce{Al^{3+}}$ | aluminio(3+) | $\ce{Ni^{2+}}$ | níquel(2+) | $\ce{Ni^{3+}}$ | níquel(3+) | 
 | $\ce{Fe^{3+}}$ | hierro(3+) | $\ce{Fe^{2+}}$ | hierro(2+) | $\ce{Sn^{4+}}$ | estaño(4+) | 
 
-### **1.2 Aniones** {: .caja-subtitulo}
+### **2.2 Aniones** {: .caja-subtitulo}
 
 Son átomos que han ganado electrones y quedan con carga negativa. Esta carga coincide con el número de oxidación.
 
@@ -55,7 +52,8 @@ Son átomos que han ganado electrones y quedan con carga negativa. Esta carga co
 
  *Corresponde a lo que se denomina anión homopoliatómico.*
 
-### **1.3 Aniones poliatómicos** {: .caja-subtitulo}
+<!--- 
+### **2.3 Aniones poliatómicos** {: .caja-subtitulo}
 
 Los aniones pueden estar formados por más de un elemento. En este caso, su nomenclatura se puede realizar de dos maneras:
 
@@ -92,7 +90,7 @@ Para formularlos, se escribe el no metal con su número de oxidación indicado p
 
 * **perclorato:** +7
 
-#### **B. Nomenclatura de hidrógeno (adición)** {: .caja-subtitulo2 #no-toc }
+### **B. Nomenclatura de hidrógeno (adición)** {: .caja-subtitulo2 #no-toc }
 
 Indicamos primero el número de oxígenos con prefijos numéricos seguido de la palabra **oxido**. A continuación, el elemento de la izquierda acabado en el sufijo **-ato**. Por último, indicamos la carga entre paréntesis al final y sin separación.
 
@@ -114,11 +112,14 @@ $$
 | $\ce{SO4^{2-}}$ | tetraoxidosulfato(2-) | $\ce{ClO3-}$ | trioxidoclorato(1-) | 
 | $\ce{Cr2O7^{2-}}$ | heptaoxidodicromato(2-) | $\ce{MnO2-}$ | dioxidomanganato(1-) | 
 
-## !!! note "Importante"
+**Importante**
+
 - No hay que dejar espacio entre el nombre y el paréntesis.
 - En palabras compuestas como los aniones poliatómicos y las sales y ácidos que de ellos se deriven, pierden la tilde todos los elementos tónicos menos el último. Así pues, en estos casos no deberás acentuar las partículas *oxido-* ni *hidrogeno-*.
 
-## **2. Compuestos binarios**
+-->
+
+## **3. Compuestos binarios**
 
 Los compuestos binarios se forman por la unión de dos elementos, que se escriben de la siguiente forma:
 
@@ -138,7 +139,8 @@ $$
 
 { style="display: block; margin: 0 auto; width: 90%; height: auto;" }
 
-## !!! note "Importante"
+**Importante**
+
 Esta ordenación de las electronegatividades no es la real, sino una asignación conveniente para formular los compuestos. En realidad, por ejemplo, el oxígeno es más electronegativo que el cloro, el nitrógeno es más electronegativo que el hidrógeno, etc.
 
 En la formación de un compuesto, asignamos a cada elemento una carga formal correspondiente al número de oxidación que utilice. Luego estos elementos se combinan en número de manera que la carga total sea nula.
@@ -169,10 +171,11 @@ En este curso utilizaremos dos tipos de nomenclatura:
 | $\ce{SI2}$ | diyoduro de azufre | yoduro de azufre(II) | 
 | $\ce{BaH2}$ | dihidruro de bario | hidruro de bario | 
 
-## !!! note "Importante"
+**Importante**
+
 Con anterioridad a la publicación de las normas de la IUPAC del año 2005, los compuestos de oxígeno con un haluro se nombraban como los óxidos ($\ce{Cl2O}$ óxido de dicloro; $\ce{Cl2O5}$ pentaóxido de dicloro). Actualmente esta nomenclatura **no está aceptada**.
 
-### **2.1 Peróxidos** {: .caja-subtitulo}
+### **3.1 Peróxidos** {: .caja-subtitulo}
 
 Los **peróxidos** son compuestos que se obtienen por la combinación entre un metal y el grupo peróxido o dióxido(2-) ($\ce{O2^{2-}}$). El subíndice del oxígeno forma parte del ion, por lo que no se puede eliminar. Se confunden fácilmente con los óxidos.
 
@@ -191,11 +194,12 @@ Los **peróxidos** son compuestos que se obtienen por la combinación entre un m
 | peróxido de oro(I) | $\ce{Au2O2}$ | dióxido de bario | $\ce{BaO2}$ | 
 | triperóxido de dihierro / peróxido de hierro(III) | $\ce{Fe2(O2)3}$ | triperóxido de diníquel / peróxido de níquel(III) | $\ce{Ni2(O2)3}$ | 
 
-## !!! note "Importante"
+**Importante**
+
 Los peróxidos y los óxidos suelen confundirse cuando queremos nombrarlos. Una técnica para resolver este problema consiste en averiguar la valencia si fuera un óxido. Si dicha valencia no pertenece al elemento, nos encontramos con un peróxido.
 *Ejemplo:* En $\ce{Na2O2}$, si fuera un óxido el sodio tendría valencia 2; como el sodio solo tiene valencia 1, en consecuencia, es un peróxido.
 
-### **2.2 Hidróxidos** {: .caja-subtitulo}
+### **3.2 Hidróxidos** {: .caja-subtitulo}
 
 Los **hidróxidos** son compuestos que se obtienen por la unión de un metal con el grupo hidróxido ($\ce{OH-}$). Aunque en este caso nos encontramos con tres elementos diferentes, su nomenclatura y formulación es idéntica a los compuestos binarios, pues se trata al grupo hidróxido como un conjunto de un solo elemento.
 
@@ -204,7 +208,7 @@ Los **hidróxidos** son compuestos que se obtienen por la unión de un metal con
 | hidróxido de aluminio / trihidróxido de aluminio | $\ce{Al(OH)3}$ | hidróxido de calcio / dihidróxido de calcio | $\ce{Ca(OH)2}$ | 
 | hidróxido de níquel(II) / dihidróxido de níquel | $\ce{Ni(OH)2}$ | hidróxido de plomo(IV) / tetrahidróxido de plomo | $\ce{Pb(OH)4}$ | 
 
-### **2.3 Hidrógeno + no metal** {: .caja-subtitulo}
+### **3.3 Hidrógeno + no metal** {: .caja-subtitulo}
 
 El hidrógeno actúa con estado de oxidación +1 y los no metales con su respectivo estado de oxidación negativo. Los compuestos de los grupos 13, 14 y 15 son hidruros y tienen nombre común aceptado. El resto son X-uros de hidrógeno.
 
@@ -228,6 +232,7 @@ El hidrógeno actúa con estado de oxidación +1 y los no metales con su respect
 
 !!! note "Importante: Ácidos hidrácidos en disolución acuosa"
 Las disoluciones acuosas de los compuestos entre el hidrógeno y los elementos de los grupos 16 y 17 tienen un comportamiento ácido y se nombran con la palabra **ácido** seguida del elemento con el sufijo **-hídrico**:
+
 - $\ce{HF (aq)}$: ácido fluorhídrico
 - $\ce{HCl (aq)}$: ácido clorhídrico
 - $\ce{H2S (aq)}$: ácido sulfhídrico
@@ -238,11 +243,11 @@ Las disoluciones acuosas de los compuestos entre el hidrógeno y los elementos d
 
 ```
 
-## **3. Compuestos ternarios**
+## **4. Compuestos ternarios**
 
 Los compuestos ternarios están formados por tres elementos diferentes. Su nomenclatura y formulación resulta más compleja. Trataremos dos tipos: los oxoácidos y las oxisales.
 
-### **3.1 Oxiácidos (Oxoácidos)** {: .caja-subtitulo}
+### **4.1 Oxiácidos (Oxoácidos)** {: .caja-subtitulo}
 
 Los ácidos oxoácidos son compuestos formados por un no metal, oxígeno e hidrógeno, cuya fórmula general es:
 
@@ -298,7 +303,7 @@ $$
 | $\ce{H2SO3}$ | ácido sulfuroso | dihidrogeno(trioxidosulfato) | dihidroxidooxidoazufre | 
 | $\ce{HClO4}$ | ácido perclórico | hidrogeno(tetraoxidoclorato) | hidroxidotrioxidocloro | 
 
-### **3.2 Oxisales** {: .caja-subtitulo}
+### **4.2 Oxisales** {: .caja-subtitulo}
 
 Las **oxisales** son compuestos ternarios constituidos por un no metal, oxígeno y un metal. Se obtienen de la neutralización de un oxoácido con un hidróxido, de tal forma que se sustituyen los hidrógenos del primero por el metal del segundo.
 
