@@ -23,7 +23,7 @@ En los compuestos orgánicos encontramos una gran variedad de posibilidades de u
 | Fórmula molecular | Fórmula semidesarrollada | Fórmula desarrollada | Fórmula estructural | 
 |---|---|---|---|
 | Informa solo acerca de qué elementos y en qué cantidad aparecen en el compuesto | Muestra únicamente los enlaces entre carbonos o algún otro elemento puente. | Muestra todos los enlaces que existen en la molécula | Indica los enlaces, los ángulos y la disposición espacial |
-| <img src="../imagenes/tema02/eter1.png"> | <img src="../imagenes/tema02/eter2.png"> | <img src="../imagenes/tema02/eter3.png"> | <img src="../imagenes/tema02/eter4.png"> |
+| <img src="../imagenes/tema02/eter1.png" width="200" > | <img src="../imagenes/tema02/eter2.png" width="200" > | <img src="../imagenes/tema02/eter3.png" width="200"> | <img src="../imagenes/tema02/eter4.png" width="200"> |
 
 ## **3. Hidrocarburos**
 
@@ -31,7 +31,7 @@ Los **hidrocarburos** son compuestos constituidos exclusivamente por **carbono**
 
 Podemos clasificar los hidrocarburos en dos grandes grupos:
 
-- **Hidrocarburos alifáticos**
+- **Hidrocarburos alifáticos**. Los hidrocarburos alifáticos son compuestos orgánicos constituidos por carbono e hidrógeno cuyo carácter no es aromático. 
 
 Los hidrocarburos alifáticos pueden ser de cadena lineal, cíclicos, saturados o no saturados:
 
@@ -60,9 +60,7 @@ Los hidrocarburos alifáticos pueden ser de cadena lineal, cíclicos, saturados 
   </tbody>
 </table>
 
-- **Hidrocarburos aromáticos o bencénicos**
-
-Los hidrocarburos aromáticos son los derivados del benceno ($\ce{C6H6}$), cuya singular estructura le confiere unas propiedades características (aromaticidad).
+- **Hidrocarburos aromáticos o bencénicos**. Los hidrocarburos aromáticos son los derivados del benceno ($\ce{C6H6}$), cuya singular estructura le confiere unas propiedades características (aromaticidad).
 
 ![...](imagenes/tema02/aromaticos.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
