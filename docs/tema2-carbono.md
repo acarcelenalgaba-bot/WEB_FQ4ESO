@@ -90,7 +90,7 @@ En una cadena carbonada podemos identificar:
   <!-- Encabezado repetido para las 4 columnas -->
   <strong>Número de carbonos</strong><strong>Prefijo</strong>
   <strong>Número de carbonos</strong><strong>Prefijo</strong>
-
+  
   <!-- Filas (de 4 en 4 celdas) -->
   <div>1</div><div>met-</div><div>6</div><div>hex-</div>
   <div>2</div><div>et-</div><div>7</div><div>hept-</div>
@@ -101,14 +101,11 @@ En una cadena carbonada podemos identificar:
 
 **Ejemplos**. Los primeros términos de la serie, hasta cuatro átomos de carbono, reciben nombres especiales:
 
-| Fórmula | Nombre | 
-|---|---|
-| $\ce{CH4}$ | Metano |
-| $\ce{CH3-CH3}$ | Etano |
-| $\ce{CH3-CH2-CH3}$ | Propano |
-| $\ce{CH3-CH2-CH2-CH3}$ | Butano |
-| $\ce{CH3-CH2-CH2-CH2-CH3}$ | Pentano |
-| $\ce{CH3-CH2-CH2-CH2-CH2-CH3}$ | Hexano |
+| Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre | 
+|---|---|---|---|---|---|
+| $\ce{CH4}$ | Metano | $\ce{CH3-CH2-CH2-CH3}$ | Butano | $\ce{CH3-CH2-CH2-CH2-CH2-CH2-CH3}$ | Heptano |
+| $\ce{CH3-CH3}$ | Etano | $\ce{CH3-CH2-CH2-CH2-CH3}$ | Pentano |$\ce{CH3-CH2-CH2-CH2-CH2-CH2-CH2-CH3}$ | Octano |
+| $\ce{CH3-CH2-CH3}$ | Propano | $\ce{CH3-CH2-CH2-CH2-CH2-CH3}$ | Hexano |$\ce{CH3-CH2-CH2-CH2-CH2-CH2-CH2-CH2-CH3}$ | Nonano |
 
 A partir de los hidrocarburos podemos obtener los **radicales** de alquilo por pérdida de un hidrógeno (lo que deja un enlace libre). Los radicales de alquilo se nombran igual que los hidrocarburos de los que derivan cambiando la terminación -ano por -**il** o -**ilo**:
 
@@ -119,44 +116,30 @@ A partir de los hidrocarburos podemos obtener los **radicales** de alquilo por p
 | <img src="../imagenes/tema02/butilo.svg" class="img-lineal"> | Butil o butilo | <img src="../imagenes/tema02/isobutilo.svg" class="img-ramificada"> | Isobutil o isobutilo |
 | <img src="../imagenes/tema02/pentilo.svg" class="img-lineal"> | Pentil o pentilo | <img src="../imagenes/tema02/hexilo.svg" class="img-lineal"> | Hexil o hexilo |
 
-Para **nombrar** **hidrocarburos saturados ramificados** se aplican los criterios siguientes:
+- Para **nombrar** **hidrocarburos saturados ramificados** se aplican los criterios siguientes:
 
-1. **Elegir la cadena principal**. Para ello aplicar, por orden, las siguientes normas:
+    1. **Elegir la cadena principal**. Para ello aplicar, por orden, las siguientes normas:
    
-      - La más larga
-      - La que tenga mayor número de sustituciones
+         - La más larga (mayor cantidad de carbonos)
+         - La que tenga mayor número de sustituciones. Si tienen el mismo número de sustituyentes, la que tiene los localizadores más bajos y si todavía no podemos diferenciarlas, se sigue orden alfabético.
 
-2. **Numerar la cadena principal** de tal forma que los localizadores (suma) sean los más bajos posibles.
+    2. **Numerar la cadena principal** de tal forma que los localizadores (suma) sean los más bajos posibles.
 
-3. **Nombrar los sustituyentes por orden alfabético** con:
-    1. Un número llamado localizador que indica la posición en la cadena.
+    3. **Nombrar los sustituyentes por orden alfabético** con:
+          1. Un número llamado localizador que indica la posición en la cadena.
    
-    2. Un prefijo en función del número de carbonos. Si hay más de uno, se añade un prefijo numérico: di-, tri-, tetra-... A la hora de clasificar alfabéticamente no se consideran los prefijos numerales (di, tri...) de los sustituyentes simples.
+          2. Un prefijo en función del número de carbonos. Si hay más de uno, se añade un prefijo numérico: di-, tri-, tetra-... A la hora de clasificar alfabéticamente no se consideran los prefijos numerales (di, tri...) de los sustituyentes simples.
    
-    3. Se finalizan en -**il**.
+          3. Se finalizan en -**il**.
    
-    4. Los números se separan entre sí con comas y de las letras con un guion. 
+          4. Los números se separan entre sí con comas y de las letras con un guion. 
 
-4. **Nombrar la cadena principal** con el prefijo adecuado terminado en -**ano**.
+    4. **Nombrar la cadena principal** con el prefijo adecuado terminado en -**ano**.
 
 > Los **localizadores** son números que se asignan a los átomos de carbono de la cadena principal. Sirven para indicar la posición de las sustituciones (ramificaciones).
 
-![...](imagenes/tema02/ejemplo1.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
+![...](imagenes/tema02/ejemplo1.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
 
-<!---
-
-### **Hidrocarburos saturados cíclicos** (**cicloalcanos**) {: .caja-subtitulo #no-toc }
-En este tipo de hidrocarburos los átomos de carbono se encuentran unidos **formando anillos**.
-
-### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
-
-- Los **cicloalcanos** se nombran anteponiendo el nombre de los sustituyentes (en orden alfabético) al del hidrocarburo correspondiente con la palabra **ciclo** antepuesta.
-
-- La numeración del ciclo se hace de tal forma que los localizadores (suma) sean los más bajos posibles. Si hay duda decide el orden alfabético de los sustituyentes.
-
-![...](imagenes/tema02/cicloalcano.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
-
--->
 
 ### **3.2 Alquenos (-eno)** {: .caja-subtitulo}
 
@@ -174,20 +157,8 @@ Los dobles enlaces se localizan con números localizadores colocados antes del s
 
 Existen algunos radicales insaturados que por su importancia conviene conocer:
 
-![...](imagenes/tema02/alqueno.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
+![...](imagenes/tema02/alqueno.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
 
-<!---
-### **Cicloalquenos** {: .caja-subtitulo #no-toc }
-
-Los **cicloalquenos** son hidrocarburos insaturados que poseen uno o más dobles enlaces en su cadena que, además, está ciclada.
-
-### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
-
-Los cicloalquenos se nombran igual que los hidrocarburos saturados cíclicos (cicloalcanos), cambiando la terminación -ano por -eno.
-
-![...](imagenes/tema02/cicloalqueno.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
-
--->
 
 ### **3.3 Alquinos (-ino)** {: .caja-subtitulo}
 
@@ -199,10 +170,38 @@ Los **alquinos** son hidrocarburos insaturados que se caracterizan por tener **t
   
 - La numeración de la cadena se hará de forma tal que el triple enlace tenga el localizador más bajo.
 
-![...](imagenes/tema02/alquino.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
+![...](imagenes/tema02/alquino.png){ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
+
 
 <!---
-### **3.4 Hidrocarburos Aromáticos (-benceno)** {: .caja-subtitulo}
+### **3.4 Hidrocarburos cíclicos** {: .caja-subtitulo #no-toc }
+
+- **Cicloalcanos**
+
+En este tipo de hidrocarburos los átomos de carbono se encuentran unidos **formando anillos**.
+
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
+
+Los **cicloalcanos** se nombran anteponiendo el nombre de los sustituyentes (en orden alfabético) al del hidrocarburo correspondiente con la palabra **ciclo** antepuesta.
+
+La numeración del ciclo se hace de tal forma que los localizadores (suma) sean los más bajos posibles. Si hay duda decide el orden alfabético de los sustituyentes.
+
+![...](imagenes/tema02/cicloalcano.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
+
+- **Cicloalquenos**
+
+Los **cicloalquenos** son hidrocarburos insaturados que poseen uno o más dobles enlaces en su cadena que, además, está ciclada.
+
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
+
+Los cicloalquenos se nombran igual que los hidrocarburos saturados cíclicos (cicloalcanos), cambiando la terminación -ano por -eno.
+
+![...](imagenes/tema02/cicloalqueno.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
+
+-->
+
+<!---
+### **3.5 Hidrocarburos Aromáticos (-benceno)** {: .caja-subtitulo}
 
 Se denominan **compuestos aromáticos** al benceno ($\ce{C6H6}$) y todas aquellas sustancias derivadas que por tener núcleos bencénicos en su molécula poseen propiedades químicas similares.
   
@@ -230,7 +229,7 @@ Se denominan **compuestos aromáticos** al benceno ($\ce{C6H6}$) y todas aquella
 -->
 
 <!---
-### **3.5 Derivados Halogenados** {: .caja-subtitulo}
+### **3.6 Derivados Halogenados** {: .caja-subtitulo}
 
 Compuestos obtenidos de hidrocarburos por sustitución por elementos **halogenados** (F, Cl, Br y I).
 
