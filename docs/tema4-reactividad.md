@@ -477,52 +477,6 @@ $$n_{\mathrm{H_2O}} = \frac{m_{\mathrm{H_2O}}}{M(\mathrm{H_2O})} = \frac{1000\ \
 
 *   Con lo que se desprenden $Q = -240,5\ \mathrm{kJ}\cdot\mathrm{mol}^{-1} \cdot 55,56\ \mathrm{mol} = -13.362,18\ \mathrm{kJ}$
 
-### **Actividades** {: .caja-subtitulo #no-toc}
-
-1.  Calcula qué cantidad de calor se absorbe o desprenden la hidrogenación de 1 g de propeno para obtener propano según la reacción:
-    $$\mathrm{CH}_{2} = \mathrm{CH} - \mathrm{CH}_{3} + \mathrm{H}_{2} \rightarrow \mathrm{CH}_{3} - \mathrm{CH}_{2} - \mathrm{CH}_{3}$$
-2.  Esperabas a dos amigas para merendar y han aparecido doce. Investigad en parejas cómo puedes enfriar doce latas de refresco en poco más de un minuto con materiales habituales en una casa.
-
-### **Práctica de laboratorio: Calorímetro** {: .caja-subtitulo #no-toc}
-
-La determinación de magnitudes de energía asociadas a las reacciones químicas se puede realizar fácilmente utilizando el calorímetro. En la versión simplificada que te proponemos, este instrumento permite mostrar el calor implicado en una reacción en una variación de la temperatura del agua que contiene. (Puedes ver esta práctica con más detalle en: [bit.ly/MicroTermoquímica](bit.ly/MicroTermoquímica).)
-
-**Objetivo:** La finalidad de la práctica consiste en determinar si el proceso estudiado absorbe o desprende energía.
-
-**Material:**
-*   Vaso de precipitados de 50 mL
-*   Dos bloques de espuma dura
-*   Papel de aluminio
-*   Termómetro
-*   Probeta de 100 mL
-*   Varilla de alambre
-*   Cúter
-*   Disolución HCl 2 M
-*   Disolución NaOH 2 M
-*   Nitrato de potasio (KNO3)
-
-![...](imagenes/tema04/calorimetro.png){ style="display: block; margin: 0 auto; width: 60%; height: auto;" }
-
-**Preparación:** Prepara un calorímetro como el de la figura. Realiza un orificio en el bloque de espuma y coloca en su interior un vaso de precipitados. En otro bloque realiza dos orificios: uno para el termómetro y otro para la varilla de alambre, que doblará como se indica. Envuelve todo el sistema con papel de aluminio.
-
-**Reacciones:**
-
-**Experimento 1:**
-*   Toma 20 mL de la disolución de NaOH, mide su temperatura ($T_{\mathrm{base}}$) e introdúcela en el calorímetro.
-*   Toma 20 mL de la disolución de HCl, mide su temperatura ($T_{\mathrm{acido}}$) e introdúcela en el calorímetro.
-*   Agita constantemente mientras observas la evolución de la temperatura. Anota el valor máximo $T_{\mathrm{equilibrio}}$.
-
-**Experimento 2:**
-*   Introduce 10 mL de agua destilada en el calorímetro y anota la temperatura ($T_{\mathrm{disolución}}$).
-*   Pesa 1 g de nitrato de potasio e introdúcela en el calorímetro.
-*   Agita constantemente mientras observas la evolución de la temperatura. Anota el valor máximo $T_{\mathrm{equilibrio}}$.
-
-**Cuestiones:**
-a) Realiza una tabla con las temperaturas iniciales de cada reactivo y la temperatura final de la reacción.
-b) Identifica los procesos exotérmico o endotérmico.
-
----
-
 ## **5. Cinética química**
 
 Ya hemos visto que una reacción química es una reorganización de átomos y que lleva aparejado un determinado intercambio energético. Pero ¿suceden todas las reacciones a la misma velocidad?
