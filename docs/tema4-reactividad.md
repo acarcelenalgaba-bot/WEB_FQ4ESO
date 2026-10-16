@@ -161,15 +161,15 @@ En la síntesis del amoniaco se observa la siguiente relación:
 
 Para explicar las relaciones volumétricas obtenidas por Gay-Lussac, se planteó sin éxito el modelo de Dalton, que asumía que todos los elementos gaseosos están formados por partículas monoatómicas.
 
-![...](imagenes/tema04/avogadro.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
 En 1811, el italiano Amadeo Avogadro propuso un modelo alternativo que ampliaba el concepto de partícula al incorporar la noción de **molécula**.
 
 <div style="background-color: #e6f7ff; border-left: 5px solid #1890ff; padding: 12px 16px; border-radius: 4px; color: #000000;">
- <strong>Hipótesis de Avogadro:</strong> Los elementos gaseosos están constituidos por partículas que corresponden a átomos individuales o agrupaciones de átomos denominadas **moléculas**. Todos los gases, en las mismas condiciones de presión, volumen y temperatura, contienen el **mismo número de partículas** (átomos individuales o moléculas).
+ <strong>Hipótesis de Avogadro:</strong> Los elementos gaseosos están constituidos por partículas que corresponden a átomos individuales o agrupaciones de átomos denominadas <strong>moléculas</strong>. Todos los gases, en las mismas condiciones de presión, volumen y temperatura, contienen el <strong>mismo número de partículas</strong> (átomos individuales o moléculas).
 </div>
 
 Bajo esta nueva perspectiva, la ley de los volúmenes de combinación puede ser fácilmente interpretada. Ya no faltan átomos.
+
+![...](imagenes/tema04/avogadro.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
 
 ## **3. El mol**
 
@@ -365,25 +365,7 @@ Aquí se pueden ver, resumidas, todas las relaciones que tienen su origen en el 
 
 Se puede considerar que las reacciones químicas nos son útiles gracias a dos aspectos. Por un lado, nos permiten obtener sustancias nuevas o eliminar sustancias no deseadas; por otro, podemos aprovechar la energía que pueden absorber o emitir para enfriar o calentar, incluso para mover máquinas.
 
-### **Piensa y razona** {: .caja-subtitulo #no-toc}
-
-Cuando soltamos un objeto, siempre cae al suelo. Considerando la energía potencial, ¿las situaciones tienden, en la naturaleza, hacia estados con más o con menos energía? ¿Es posible que espontáneamente suceda al revés?
-
 En la unidad del enlace hemos estudiado que toda unión de dos átomos lleva asociada una energía cuyo valor es negativo. De esta forma, los enlaces serán más fuertes cuanto más negativos sean sus valores. Nuevamente, la naturaleza tiende a situaciones de menos energía.
-
-### **Sabías que...** {: .caja-subtitulo #no-toc}
-
-Estos son los valores absolutos de las energías de los enlaces más habituales en kJ·mol$^{-1}$:
-
-| Enlace | Energía | Enlace | Energía |
-| :: | :: | :: | :: |
-| H-H | 436 | H-O | 463 |
-| C-H | 414 | C-C | 347 |
-| C=C | 620 | C≡C | 812 |
-| N-O | 176 | N≡C | 891 |
-| C=O | 743 | C=O* | 802 |
-
-Energía de enlace en la molécula de $CO_2$.
 
 ![...](imagenes/tema04/energia_enlace.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
 
@@ -398,55 +380,41 @@ Como en una reacción química hay una reestructuración de átomos, implica:
 
 A un compuesto químico se le puede asignar un nivel energético correspondiente a la suma de sus energías de enlace. Por ejemplo, conociendo que la energía del enlace H–O es de 463 kJ·mol$^{-1}$ en valor absoluto, estimamos el nivel energético de la molécula de agua como:
 
-$$E_{\text{H}_2\text{O}} = 2 E_{\text{H-O}} = 2 \cdot (-463) = -926\ \text{kJ}\cdot\text{mol}^{-1}$$
+$$\ce{E_{H_2O} = 2 E_{H-O} = 2 \cdot (-463) = - 926 kJ\cdot mol^{-1}}$$
 
 ### **Tipos de reacciones** {: .caja-subtitulo #no-toc}
 
 Comparando los niveles energéticos de los reactivos y los productos en lo que se denomina **balance energético**, podemos determinar si la reacción absorbe o desprende calor.
 
+<div style="background-color: #e6f7ff; padding: 12px 16px; border-radius: 4px; color: #000000;">
 El balance energético se determina como la diferencia de energía entre los estados inicial y final.
 
-$$Q = \Delta E = E_{\mathrm{final}} - E_{\mathrm{inicial}} = E_{\mathrm{productos}} - E_{\mathrm{reactivos}}$$
+$$\ce{Q = \Delta E = E_{final} - E_{inicial} = E_{productos} - E_{reactivos}}$$
+</div>
 
 Para facilitar el análisis, se hace uso del **diagrama energético**, un gráfico que permite visualizar el nivel de energía de los reactivos y compararlo con el de los productos. El eje horizontal indica el sentido de avance de la reacción.
+
+![...](imagenes/tema04/diagrama_energetico1.png){ style="display: block; margin: 0 auto; width: 40%; height: auto;" }
 
 Existen dos situaciones claramente diferenciadas:
 
 | Proceso endotérmico | Proceso exotérmico |
-| :: | :: |
-| El nivel energético de los reactivos es **menor** que el de los productos: $E_{\mathrm{reactivos}} < E_{\mathrm{productos}}$ | El nivel energético de los reactivos es **mayor** que el de los productos: $E_{\mathrm{reactivos}} > E_{\mathrm{productos}}$ |
+| :--- | :--- |
+| El nivel energético de los reactivos es **menor** que el de los productos: $\ce{E_{reactivos} < E_{productos}}$ | El nivel energético de los reactivos es **mayor** que el de los productos: $\ce{E_{reactivos} > E_{productos}}$ |
 | El sistema ha de **absorber** energía del entorno. | El sistema ha de **desprender** energía al entorno. |
 | Si lo hace en forma de calor, disminuirá la temperatura del entorno. | Si lo hace en forma de calor, aumentará la temperatura del entorno. |
-| Formación de ozono: $3\ \mathrm{O}_{2} + Q \rightarrow 2\ \mathrm{O}_{3}$ | Combustión de metano: $\mathrm{CH}_{4} + 2\ \mathrm{O}_{2} \rightarrow \mathrm{CO}_{2} + 2\ \mathrm{H}_{2}\mathrm{O} + Q$ |
-| $Q > 0$ | $Q < 0$ |
-
-![...](imagenes/tema04/diagrama_energetico.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-### **Importante** {: .caja-subtitulo #no-toc}
-
-Analizando el signo del calor podemos saber si el proceso absorbe o desprende energía, si la energía entra o sale del sistema.
-
-![...](imagenes/tema04/sistema.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
-
-### **Primero en casa y después en clase** {: .caja-subtitulo #no-toc}
-
-1.  Determina los niveles energéticos de $\mathrm{CO}_{2}$, HCN, butano ($\mathrm{C}_{4}\mathrm{H}_{10}$) y etileno ($\mathrm{CH}_{2} = \mathrm{CH}_{2}$). Utiliza el diagrama de Lewis para obtener los tipos de enlace.
-2.  Localiza en tu entorno reacciones químicas donde se aproveche la variación de energía para alguna utilidad: calentar o enfriar. Incorpora este estudio a vuestro catálogo.
-3.  Para las siguientes reacciones realiza un diagrama energético e indica si son endotérmicas o exotérmicas. ¿Podemos utilizar algunas como combustible?
-    *   a) $\mathrm{C}_{2}\mathrm{H}_{4} + \mathrm{H}_{2} \rightarrow \mathrm{C}_{2}\mathrm{H}_{6}$
-    *   b) $2\ \mathrm{C}_{4}\mathrm{H}_{10} + 13\ \mathrm{O}_{2} \rightarrow 8\ \mathrm{CO}_{2} + 10\ \mathrm{H}_{2}\mathrm{O}$
-    *   c) $2\ \mathrm{NH}_{3} \rightarrow \mathrm{N}_{2} + 3\ \mathrm{H}_{2}$
-    *   d) $\mathrm{HCl} + \mathrm{NaOH} \rightarrow \mathrm{NaCl} + \mathrm{H}_{2}\mathrm{O}$
+| Formación de ozono: $\ce{3 O2 + Q \rightarrow 2 O3}$ | Combustión de metano: $\ce{CH4 + 2 O2 \rightarrow CO2 + 2 H2O + Q}$ |
+| $\ce{Q > 0}$ | $\ce{Q < 0}$ |
 
 ### **Ejemplo resuelto** {: .caja-subtitulo #no-toc}
 
 Utilizando las energías de enlace, predice si la reacción de formación del agua en estado gaseoso, según la siguiente reacción, absorbe o desprende calor.
 
-$$\mathrm{H}_{2}(\mathrm{g}) + \frac{1}{2}\ \mathrm{O}_{2}(\mathrm{g}) \rightarrow \mathrm{H}_{2}\mathrm{O}(\mathrm{g})$$
+$$\ce{H2 (g) + \dfrac{1}{2} O2 (g) \rightarrow H2O (g)}$$
 
 Realiza su diagrama energético y determina la energía implicada en la formación de 1 kg de agua.
 
-**Datos:** $E_{\mathrm{H-H}} = -436\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}$, $E_{\mathrm{O=O}} = -499\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}$, $E_{\mathrm{H-O}} = -463\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}$
+**Datos:** $\ce{\quad E_{H-H} = -436 kJ \cdot mol^{-1}}$, $\ce{E_{O=O} = -499 kJ \cdot mol^{-1}}$, $\ce{E_{H-O} = -463 kJ \cdot mol^{-1}}$
 
 **Solución:**
 
@@ -454,18 +422,19 @@ Necesitaremos determinar las energías de las sustancias que forman los estados 
 
 *   Cálculo de las energías de los compuestos (todos los valores en kJ·mol$^{-1}$):
 
-$$E_{\mathrm{H_2}} = E_{\mathrm{H-H}} = -436\ \mathrm{kJ}\cdot\mathrm{mol}^{-1} \qquad E_{\mathrm{O_2}} = E_{\mathrm{O=O}} = -499\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}$$
-$$E_{\mathrm{H_2O}} = 2 \cdot E_{\mathrm{H-O}} = -926\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}$$
+$$\ce{E_{H_2} = E_{H-H} = -436 kJ \cdot mol^{-1} \qquad \qquad E_{O_2} = E_{O=O} = -499 kJ \cdot mol^{-1}}$$
+
+$$\ce{E_{H_2O} = 2 \cdot E_{H-O} = -926 kJ \cdot mol^{-1}}$$
 
 *   Determinamos la energía de los reactivos y la de los productos:
 
-$$E_{\mathrm{react.}} = E_{\mathrm{H_2}} + \frac{1}{2} E_{\mathrm{O_2}} = -436\ \mathrm{kJ}\cdot\mathrm{mol}^{-1} + \frac{1}{2} \cdot (-499\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}) = -685,5\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}$$
+$$\ce{E_{react.} = E_{H_2} + \dfrac{1}{2} E_{O_2} = -436 kJ \cdot mol^{-1} + \dfrac{1}{2} \cdot (-499 kJ \cdot mol^{-1}) = -685,5 kJ \cdot mol^{-1}}$$
 
-$$E_{\mathrm{prod.}} = E_{\mathrm{H_2O}} = -926\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}$$
+$$\ce{E_{prod.} = E_{H_2O} = -926 kJ \cdot mol^{-1}}$$
 
 *   Obtenemos el calor involucrado restando el estado final y el inicial:
 
-$$Q = E_{\mathrm{prod.}} - E_{\mathrm{react.}} = (-926\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}) - (-685,5\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}) = -240,5\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}$$
+$$\ce{Q = E_{prod.} - E_{react.} = (-926 kJ \cdot mol^{-1}) - (-685,5 kJ \cdot mol^{-1}) = -240,5 kJ \cdot mol^{-1}}$$
 
 *   El diagrama energético donde se recogen todos los resultados es:
 
@@ -473,9 +442,9 @@ $$Q = E_{\mathrm{prod.}} - E_{\mathrm{react.}} = (-926\ \mathrm{kJ}\cdot\mathrm{
 
 *   Un kilogramo de agua equivale a:
 
-$$n_{\mathrm{H_2O}} = \frac{m_{\mathrm{H_2O}}}{M(\mathrm{H_2O})} = \frac{1000\ \mathrm{g}}{18\ \mathrm{g}\cdot\mathrm{mol}^{-1}} = 55,56\ \mathrm{mol}\ \mathrm{H_2O}$$
+$$\ce{n_{H_2O} = \dfrac {\ce{m_{H_2O}}}{\ce{M(H2O)}} = \dfrac{\ce{1000 g}}{\ce{18 g \cdot mol^{-1}}} = 55,56 mol H2O}$$
 
-*   Con lo que se desprenden $Q = -240,5\ \mathrm{kJ}\cdot\mathrm{mol}^{-1} \cdot 55,56\ \mathrm{mol} = -13.362,18\ \mathrm{kJ}$
+*   Con lo que se desprenden $\ce{Q = -240,5 kJ \cdot mol^{-1} \cdot 55,56 mol = -13.362,18 kJ}$
 
 ## **5. Cinética química**
 
@@ -483,118 +452,19 @@ Ya hemos visto que una reacción química es una reorganización de átomos y qu
 
 ### **Factores cinéticos** {: .caja-subtitulo #no-toc}
 
-Para poder responder a esta pregunta, plantearemos una serie de reacciones para después encontrar una respuesta que explique los resultados.
+Para poder responder a esta pregunta, debemos considerar los siguientes factores:
 
-### **Laboratorio en el aula: ¿A qué velocidad sucede?** {: .caja-subtitulo #no-toc}
+- **Naturaleza de los reactivos.** Determinadas sustancias reaccionan más rápidamente que otras. Según los elementos, los enlaces serán más o menos fuertes, con lo que la energía será más elevada; y por ello, las sustancias, más o menos reactivas.
 
-Te proponemos que realices diferentes experiencias que te ayuden a observar la influencia de diversos factores sobre la cinética de una reacción. Observa los resultados y rellena una tabla como la siguiente:
+- **Superficie de los reactivos sólidos.** Cuanto mayor es la superficie, mayor es la velocidad de la reacción. Al aumentar el grado de división de los reactivos, aumenta la superficie de contacto. Con ello aumenta también el número de choques eficaces y, en consecuencia, observaremos una mayor velocidad.
 
-| Experimento | Factor estudiado | Comportamiento | Reacción |
-| :: | :: | :: | :: |
-| ... | ... | ... | ... |
+- **Concentración de los reactivos.** Al aumentar la concentración de los reactivos, mayor es la velocidad de la reacción. Al existir un mayor número de partículas, sucederán más colisiones, lo que incrementará la velocidad.
 
-**Experimento 1. Naturaleza de los reactivos**
+- **Temperatura del sistema.** Un aumento de la temperatura del sistema repercute en un incremento de la velocidad de reacción. Al elevar la temperatura, las partículas colisionarán con mayor energía, con lo que se incrementará el número de choques eficaces. Una mayor cantidad de partículas conseguirá superar la barrera que representa el estado de transición y alcanzar los productos. Se observa, pues, un incremento de la velocidad de reacción.
 
-Prepara dos disoluciones de ácido clorhídrico diluyendo 5 mL de este ácido en 25 mL de agua. Introduce un trozo pequeño de cinc en una y uno de cobre en otra y anota el resultado.
+- **Existencia de un catalizador.** Son sustancias que incrementan la velocidad de reacción (catalizador positivo). Existen otras sustancias denominadas **inhibidores** que bloquean el mecanismo de reacción más rápido, provocando que la reacción transcurra por otro mecanismo con un perfil de mayor energía de activación, lo que se traduce en una disminución de velocidad. Corresponden a sustancias capaces de aumentar o disminuir la energía del estado de transición sin consumirse en el proceso. En consecuencia, será más o menos fácil superar la barrera modificando la velocidad.
 
-Repite el experimento pero utilizando ácido nítrico.
-
-![...](imagenes/tema04/naturaleza.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
-
-> **Nota:** Este experimento debe realizarse en campana extractora o ambiente muy ventilado.
-
-**Experimento 2. Superficie de los reactivos**
-
-Acerca a una llama lana de hierro y una varilla del mismo metal. ¿Qué sucede en cada caso?
-
-Una variante consiste en dejar caer sobre una llama un trozo de aluminio y aluminio en polvo.
-
-**Experimento 3. Concentración de los reactivos**
-
-Toma dos vasos de precipitados y añade vinagre a uno de ellos y vinagre y agua a partes iguales al otro.
-
-Introduce unos trozos de tiza y observa la diferencia.
-
-![...](imagenes/tema04/concentracion.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
-
-**Experimento 4. Temperatura del sistema**
-
-Toma dos vasos de precipitados, añade a cada uno unas gotas de fenolftaleína o cualquier otro indicador ácido-base y pon uno a calentar. Procura que no exceda de $60^{\circ}C$.
-
-Añade a cada uno de los vasos un trozo de cinta de magnesio y observa.
-
-![...](imagenes/tema04/temperatura.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
-
-**Experimento 5. Existencia de un catalizador**
-
-Toma un terrón de azúcar con unas pinzas e intenta quemarlo con una llama. ¿Qué observas?
-
-Ahora impregnalo con un poco de ceniza y aplica de nuevo la llama a la misma zona. ¿Qué sucede ahora?
-
-### **La teoría de colisiones** {: .caja-subtitulo #no-toc}
-
-Para explicar estos comportamientos, podemos partir de la teoría cinético-corpuscular de la materia aplicada al estado gaseoso: partículas muy pequeñas en constante movimiento cuya velocidad depende de la temperatura. Basándonos en ella, la **teoría de colisiones** afirma que, para que suceda una reacción, los reactivos han de interaccionar, y lo harán a través de una colisión. Pero este choque debe cumplir ciertas condiciones:
-
-*   **La cantidad de partículas** debe ser la suficiente como para que el número de colisiones no sea demasiado bajo y la reacción no suceda. Este factor depende de la densidad o concentración de los reactivos y de la superficie de contacto entre ellos.
-*   **Una fracción significativa de estas colisiones debe corresponder a choques eficaces.** Para ello se ha de cumplir:
-    *   Que la colisión suceda con la suficiente energía como para debilitar los enlaces y activar los reactivos. Para ello la colisión ha de suceder a gran velocidad. Este factor está relacionado con la temperatura del sistema.
-    *   Que la colisión suceda con la orientación adecuada, ya que de lo contrario los enlaces no se verán afectados. Solo se puede actuar sobre este factor con catalizadores.
-
-En la reacción que se muestra en la figura solo hay una orientación posible para que suceda la reacción:
-
-$$\mathrm{K} + \mathrm{CH}_3\mathrm{I} \rightarrow \mathrm{KI} + \mathrm{CH}_3$$
-
-![...](imagenes/tema04/colisiones.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-### **Teoría del estado de transición** {: .caja-subtitulo #no-toc}
-
-Existe una teoría complementaria, la **teoría del estado de transición**, que permite justificar mejor la influencia de la temperatura y del catalizador. Utiliza el diagrama energético y asume la existencia de un estado de transición de mayor energía, denominado **complejo activado**.
-
-La energía térmica manifestada en la velocidad en el momento de la colisión es la que permite a los reactivos superar la barrera de energía que representa el complejo.
-
-Observa cómo la energía adicional que representa el estado de transición no afecta al balance energético, ya que se recupera cuando se llega a los productos.
-
-![...](imagenes/tema04/transicion.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-Usemos ambas teorías para justificar la influencia de los factores cinéticos en la velocidad de reacción.
-
-![...](imagenes/tema04/factores.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
-
-**Naturaleza de los reactivos.** Determinadas sustancias reaccionan más rápidamente que otras. Según los elementos, los enlaces serán más o menos fuertes, con lo que la energía del estado de transición será más elevada; y por ello, las sustancias, más o menos reactivas.
-
-**Superficie de los reactivos sólidos.** Cuanto mayor es la superficie, mayor es la velocidad de la reacción. Al aumentar el grado de división de los reactivos, aumenta la superficie de contacto. Con ello aumenta también el número de choques eficaces y, en consecuencia, observaremos una mayor velocidad.
-
-**Concentración de los reactivos.** Al aumentar la concentración de los reactivos, mayor es la velocidad de la reacción. Al existir un mayor número de partículas, sucederán más colisiones, lo que incrementará la velocidad.
-
-**Temperatura del sistema.** Un aumento de la temperatura del sistema repercute en un incremento de la velocidad de reacción. Al elevar la temperatura, las partículas colisionarán con mayor energía, con lo que se incrementará el número de choques eficaces. Una mayor cantidad de partículas conseguirá superar la barrera que representa el estado de transición y alcanzar los productos. Se observa, pues, un incremento de la velocidad de reacción.
-
-**Existencia de un catalizador.** Son sustancias que incrementan la velocidad de reacción (catalizador positivo). Existen otras sustancias denominadas inhibidores que bloquean el mecanismo de reacción más rápido, provocando que la reacción transcurra por otro mecanismo con un perfil de mayor energía de activación, lo que se traduce en una disminución de velocidad. Corresponden a sustancias capaces de aumentar o disminuir la energía del estado de transición sin consumirse en el proceso. En consecuencia, será más o menos fácil superar la barrera modificando la velocidad.
-
-![...](imagenes/tema04/catalizador.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-### **Experimenta: La velocidad de reacción** {: .caja-subtitulo #no-toc}
-
-Vas a realizar una simulación informática sobre la velocidad de reacción. Para ello, utilizaremos un simulador de Phet. Accede a [bit.ly/Phet_Velocidad_reaccion_Java](bit.ly/Phet_Velocidad_reaccion_Java) y marca la opción *Run CheerpJ Browser-Compatible Version* que te permite ejecutar el simulador en el navegador.
-
-**Primer paso. Toma de contacto y primeras impresiones:**
-
-![...](imagenes/tema04/phet1.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
-
-1.  Activa la pestaña *Colisión única*, marca el + para ver el gráfico de energía y comienza con la opción *Tiro recto*. Observarás que cuanto más estires el lanzador, mayor es la energía total.
-2.  Lánzala sin que supere la cresta del diagrama. ¿Existe reacción? ¿Por qué? Ahora calienta y analiza lo que sucede.
-3.  Practica iniciando con más energía y con tiro oblicuo.
-4.  Si activas *Diseña tu reacción*, puedes modificar los valores de energía de reactivos, productos y estado de transición.
-
-![...](imagenes/tema04/phet2.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
-
-1.  Para simular un caso más real, activa *Muchas colisiones*, el gráfico de barras o la cinta (esta evoluciona con el tiempo), deja la temperatura inicial a 100 y mantén la reacción que sale por defecto $A + BC \rightarrow$.
-2.  Introduce diez moléculas de A y otras diez de BC y déjalo funcionar. Si esperas un rato, quizás observes cómo comienza a aparecer alguna molécula de producto. ¿Cómo es posible si la energía total no supera la energía de activación?
-3.  Ahora aumenta la temperatura, pero no superes la energía de los productos. ¿Cómo varía la distribución de las partículas según el gráfico? Analiza la cinta de tiempo y observa cómo suceden los cambios.
-4.  Aumenta un poco más la energía total hasta superar la energía de los productos. Activa el gráfico de cinta y déjalo unos cinco minutos. ¿Qué sucede con la cantidad de partículas?
-
-**Producto final:** Ahora diseña tu reacción y simula procesos endotérmicos y exotérmicos. Realiza unas capturas de pantalla o una grabación y expón tus conclusiones en un vídeo de cinco minutos. Seguro que encuentras la forma de incluir estas conclusiones en vuestro catálogo de reacciones.
-
----
+![...](imagenes/tema04/catalizador.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
 ## **6. Reacciones ácido-base**
 
