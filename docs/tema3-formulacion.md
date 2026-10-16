@@ -39,18 +39,18 @@ Son átomos que han ganado electrones y quedan con carga negativa. Esta carga co
 
 **Fórmula:** $\ce{X^{n-}}$
 
-**Nombre:** X-uro (carga y signo)\*
+**Nombre:** X-uro (carga y signo)
 
-*\*El paréntesis sigue al nombre sin ningún espacio. En el caso de que el número de oxidación sea único (monovalente), se puede omitir su valor.*
+El paréntesis sigue al nombre sin ningún espacio. En el caso de que el número de oxidación sea único (monovalente), se puede omitir su valor.
 
 | Ion | Nomenclatura | Ion | Nomenclatura | 
 | ----- | ----- | ----- | ----- | 
 | $\ce{Cl-}$ | cloruro(1-) o cloruro | $\ce{S^{2-}}$ | sulfuro(2-) o sulfuro | 
 | $\ce{F-}$ | fluoruro |  | **Excepción:** | 
 | $\ce{H-}$ | hidruro | $\ce{O^{2-}}$ | óxido | 
-| $\ce{N^{3-}}$ | nitruro | $\ce{O2^{2-}}$ | peróxido o dióxido(2-)\*\* | 
+| $\ce{N^{3-}}$ | nitruro | $\ce{O2^{2-}}$ | peróxido o dióxido(2-)\*| 
 
- *Corresponde a lo que se denomina anión homopoliatómico.*
+\*Corresponde a lo que se denomina anión homopoliatómico.
 
 <!--- 
 ### **2.3 Aniones poliatómicos** {: .caja-subtitulo}
@@ -134,9 +134,8 @@ $$
 El orden creciente de electronegatividades formales, comenzando con el flúor y terminando con el radón, que la IUPAC ha establecido como referencia para la ordenación de los símbolos de los elementos en las fórmulas, es el siguiente:
 
 $$
-\ce{F > O > Cl > Br > I > S > Se > Te > N > P > As > Sb > Bi > C > Si > Ge > Sn > Pb > B > Al > Ga > In > Tl > H > ...}
+\ce{F > O > Cl > Br > I > S > Se > Te > N > P > As > Sb > Bi > C > Si} \newline \ce{> Ge > Sn > Pb > B > Al > Ga > In > Tl > H > ...}
 $$
-
 { style="display: block; margin: 0 auto; width: 90%; height: auto;" }
 
 **Importante**
