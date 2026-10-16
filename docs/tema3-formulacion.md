@@ -15,7 +15,7 @@ Los números de oxidación que aparecen encabezando o finalizando una familia se
 
 ![...](imagenes/tema03/estados_oxidacion.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
-*Algunos elementos poseen más números de oxidación, como el nitrógeno: -1, +1, +2, +3, +4, +5.*
+Algunos elementos poseen más números de oxidación, como el nitrógeno: -1, +1, +2, +3, +4, +5.
 
 ## **2. Iones**
 
