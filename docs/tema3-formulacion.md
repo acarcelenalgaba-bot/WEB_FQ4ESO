@@ -134,9 +134,12 @@ $$
 El orden creciente de electronegatividades formales, comenzando con el flúor y terminando con el radón, que la IUPAC ha establecido como referencia para la ordenación de los símbolos de los elementos en las fórmulas, es el siguiente:
 
 $$
-\ce{F > O > Cl > Br > I > S > Se > Te > N > P > As > Sb > Bi > C > Si} \newline \ce{> Ge > Sn > Pb > B > Al > Ga > In > Tl > H > ...}
+\ce{F > O > Cl > Br > I > S > Se > Te > N > P > As > Sb > Bi > C > Si >}
 $$
-{ style="display: block; margin: 0 auto; width: 90%; height: auto;" }
+
+$$
+\ce{> Ge > Sn > Pb > B > Al > Ga > In > Tl > H > ...}
+$$
 
 **Importante**
 
