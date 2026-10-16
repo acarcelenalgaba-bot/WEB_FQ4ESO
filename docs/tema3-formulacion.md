@@ -133,22 +133,18 @@ $$
 
 En la formación de un compuesto, asignamos a cada elemento una carga formal correspondiente al número de oxidación que utilice. Luego estos elementos se combinan en número de manera que la carga total sea nula.
 
-Para conseguirlo, cada elemento se repetirá un número de veces igual a la división entre el mínimo común múltiplo ($\text{mcm}$) de todas las cargas y la carga de cada elemento. Una regla sencilla que, aunque con excepciones, puede ayudar a la formulación del compuesto, es el intercambio de valencias y la posterior simplificación.
+Una regla sencilla que, aunque con excepciones, puede ayudar a la formulación del compuesto, es el intercambio de valencias y la posterior simplificación.
 
 **Ejemplo de formulación:**
 Sulfuro de plomo(IV): formado por $\ce{Pb^{4+}}$ y $\ce{S^{2-}}$
 
-$$
-\text{mcm}(4, 2) = 4 \quad \rightarrow \quad \text{Pb: } 4/4 = 1; \quad \text{S: } 4/2 = 2 \quad \rightarrow \quad \ce{PbS2}
-$$
-
-*(O intercambio cruzado:* $\ce{Pb_2S_4 \rightarrow PbS2}$*)*
+Intercambio cruzado:* $\ce{\quad Pb_2S_4 \rightarrow (simplificaci\textrm{ó}n) PbS2}$*
 
 En este curso utilizaremos dos tipos de nomenclatura:
 
 1. **Prefijo multiplicador:** Se nombran de derecha a izquierda, de manera que leemos primero el elemento más electronegativo, acabado en el sufijo **-uro** (a excepción del oxígeno, que se lee como **óxido**), seguido del elemento de la izquierda. Se indica el número de cada átomo con prefijos numéricos (el término *mono-* se utilizará sobre el anión solo en el caso de que el elemento menos electronegativo posea más de una valencia).
 
-2. **Números de oxidación:** No se introducen prefijos numéricos, únicamente el número de oxidación del elemento menos electronegativo entre paréntesis y en números romanos. En caso de que posea una única valencia, se omite el número.
+2. **Números de oxidación:** No se introducen prefijos numéricos, únicamente el número de oxidación del elemento menos electronegativo (siempre elemento a la izquierda en la fórmula) entre paréntesis y en números romanos. En caso de que posea una única valencia, se omite el número.
 
 | Compuesto | Nomenclatura (Prefijos) | Nomenclatura (Nº de oxidación) | 
 | ----- | ----- | ----- | 
