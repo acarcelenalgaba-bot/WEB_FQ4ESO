@@ -131,20 +131,6 @@ $$
 
 * $\ce{X}$: El elemento más electronegativo se sitúa a la derecha (con valencia negativa).
 
-El orden creciente de electronegatividades formales, comenzando con el flúor y terminando con el radón, que la IUPAC ha establecido como referencia para la ordenación de los símbolos de los elementos en las fórmulas, es el siguiente:
-
-$$
-\ce{F > O > Cl > Br > I > S > Se > Te > N > P > As > Sb > Bi > C > Si >}
-$$
-
-$$
-\ce{> Ge > Sn > Pb > B > Al > Ga > In > Tl > H > ...}
-$$
-
-**Importante**
-
-Esta ordenación de las electronegatividades no es la real, sino una asignación conveniente para formular los compuestos. En realidad, por ejemplo, el oxígeno es más electronegativo que el cloro, el nitrógeno es más electronegativo que el hidrógeno, etc.
-
 En la formación de un compuesto, asignamos a cada elemento una carga formal correspondiente al número de oxidación que utilice. Luego estos elementos se combinan en número de manera que la carga total sea nula.
 
 Para conseguirlo, cada elemento se repetirá un número de veces igual a la división entre el mínimo común múltiplo ($\text{mcm}$) de todas las cargas y la carga de cada elemento. Una regla sencilla que, aunque con excepciones, puede ayudar a la formulación del compuesto, es el intercambio de valencias y la posterior simplificación.
