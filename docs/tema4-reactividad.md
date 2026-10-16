@@ -16,7 +16,9 @@ $$\ce{CaCO3 (s) \rightarrow CaO (s) + CO2 (g)}$$
 
 El mundo que nos rodea está en constante cambio. Las transformaciones se suceden sin que apenas seamos conscientes de ellas.
 
-Una **reacción química** es el proceso en el que unas determinadas sustancias, denominadas **reactivos**, se convierten en otras sustancias diferentes, llamadas **productos**.
+<div style="background-color: #e6f7ff; padding: 12px 16px; border-radius: 4px; color: #000000;">
+Una <strong>reacción química</strong> es el proceso en el que unas determinadas sustancias, denominadas <strong>reactivos</strong>, se convierten en otras sustancias diferentes, llamadas <strong>productos</strong>.
+</div>
 
 Para la representación de las reacciones químicas se utiliza la **ecuación química**:
 
@@ -468,40 +470,19 @@ Para poder responder a esta pregunta, debemos considerar los siguientes factores
 
 ## **6. Reacciones ácido-base**
 
-### **Química en la red** {: .caja-subtitulo #no-toc}
-
-Existen infinidad de aplicaciones para ejercitar los conocimientos sobre ácido-base.
-
-La siguiente applet permite una visión global de la escala de pH: [bit.ly/Phet_pH_basico](bit.ly/Phet_pH_basico)
-
-Puedes visualizar la disposición de las moléculas e incluso construir tu propio ácido en este otro simulador: [bit.ly/Phet_pH_escala](bit.ly/Phet_pH_escala)
-
 El zumo de limón o de naranja, los refrescos de cola y los frutos rojos son conocidos por su sabor ácido. Por el contrario, el bicarbonato, las sales de fruta y las verduras poseen un gusto más seco y algo jabonoso, correspondiente a una base. Pero ¿cómo podemos diferenciar este diferente comportamiento a nivel químico?
 
 ### **Teoría de Arrhenius** {: .caja-subtitulo #no-toc}
 
 S. A. Arrhenius fue el primero en ofrecer una explicación sencilla y clara acerca del comportamiento ácido-base de los compuestos:
 
-*   **Ácido:** toda sustancia que en disolución acuosa se disocia produciendo hidrones $\mathrm{H}^{+}$, también conocidos como iones hidrógeno (1+). (El antiguo nombre de protón ya no es aceptado por la IUPAC.)
-    $$\mathrm{HAc(aq)} \rightarrow \mathrm{H}^{+}(\mathrm{aq}) + \mathrm{Ac}^{-}(\mathrm{aq})$$
-*   **Base:** toda sustancia que en disolución acuosa se disocia produciendo aniones hidróxido $\mathrm{OH}^{-}$.
-    $$\mathrm{BOH(aq)} \rightarrow \mathrm{B}^{+}(\mathrm{aq}) + \mathrm{OH}^{-}(\mathrm{aq})$$
+*   **Ácido:** toda sustancia que en disolución acuosa se disocia produciendo iones $\ce{H^+}$, también conocidos como iones hidrógeno (1+).
+  
+    $$\ce{HAc(aq) \rightarrow H^{+} (aq) + Ac^{-} (aq)}$$
 
-![...](imagenes/tema04/arrhenius.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
+*   **Base:** toda sustancia que en disolución acuosa se disocia produciendo aniones hidróxido $\ce{OH^-}$.
 
-### **Importante** {: .caja-subtitulo #no-toc}
-
-La doble flecha ($\rightleftharpoons$) de la reacción del agua implica que sucede en los dos sentidos al mismo tiempo.
-
-En este tipo de reacciones, y tras un comienzo en el que los reactivos generan productos y estos vuelven a producir reactivos, se alcanza un estado donde las concentraciones se estabilizan. Por ello, estas reacciones se denominan **reacciones en equilibrio** (químico).
-
-El agua produce iones:
-$$\mathrm{H_2O(aq)} \rightarrow \mathrm{H}^{+}(\mathrm{aq}) + \mathrm{OH}^{-}(\mathrm{aq})$$
-
-Los iones producen agua:
-$$\mathrm{H}^{+}(\mathrm{aq}) + \mathrm{OH}^{-}(\mathrm{aq}) \rightarrow \mathrm{H_{2}O(aq)}$$
-
-![...](imagenes/tema04/agua_iones.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
+    $$\ce{BOH (aq) \rightarrow B^{+} (aq) + OH^{-} (aq)}$$
 
 Determinadas sustancias pueden presentar un doble comportamiento, mostrando el carácter ácido o básico según el compuesto al que se enfrenten. Estas sustancias se denominan **anfóteros**. El agua es un ejemplo de anfótero.
 
@@ -512,321 +493,26 @@ Dos críticas se le pueden hacer a esta teoría:
 *   Solo se puede aplicar a disoluciones acuosas.
 *   No permite explicar el carácter básico de sustancias como el amoniaco $\mathrm{NH_3}$, ya que no tiene hidróxidos ($\mathrm{OH}^{-}$) que pueda perder.
 
-### **Actividades** {: .caja-subtitulo #no-toc}
-
-Aplica la teoría de Arrhenius al ácido nítrico ($\mathrm{HNO_3}$), al ácido sulfúrico ($\mathrm{H_2SO_4}$) y al hidróxido de estroncio ($\mathrm{Sr(OH)_2}$).
-
 ### **Escala de pH** {: .caja-subtitulo #no-toc}
 
 Para determinar el grado de acidez o basicidad, se utiliza la concentración de hidrones [H+] de la disolución, pues un ácido la aumenta y una base la disminuye. Al ser el valor de dicha concentración demasiado pequeño, se utiliza su logaritmo decimal cambiado de signo para obtener números más cómodos.
 
-$$\mathrm{pH} = -\log [\mathrm{H}^{+}]$$
+$$\ce{pH = -\log \ [H^+]}$$
 
 Como el agua pura ya tiene hidrones, el valor de pH neutro no es nulo, sino que está situado en el siete. Una disolución ácida contendrá una concentración mayor de hidrones, pero, a causa del exponente negativo, su pH es menor que siete.
 
-Si trabajamos con bases, calculamos el $\mathrm{pOH} = -\log [\mathrm{OH}^{-}]$ y obtenemos el pH a partir de la expresión: $\mathrm{pH} + \mathrm{pOH} = 14$.
+Si trabajamos con bases, calculamos el $\ce{pOH = -\log \ [OH^-]}$ y obtenemos el pH a partir de la expresión: $\ce{pH + pOH = 14}$.
 
 Para determinar el valor de pH se puede utilizar el denominado **papel indicador**, una tira de papel cuyo color cambia de acuerdo con la acidez de la disolución.
 
-### **Importante** {: .caja-subtitulo #no-toc}
-
-El logaritmo decimal permite extraer el exponente de una potencia de base diez.
-
-$$\log 10^{4} = 4$$
-
-El cambio de signo se introduce para obtener valores positivos, ya que la concentración es muy pequeña.
-
-$$-\log 10^{-2} = -(-2) = 2$$
-
-![...](imagenes/tema04/escala_ph.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
-
 ### **Ejemplo resuelto** {: .caja-subtitulo #no-toc}
 
-Calcula el pH de una disolución de ácido nítrico (HNO3) 0,001 M.
+Calcula el pH de una disolución de ácido nítrico ($\ce{HNO3}$) 0,001 M.
 
 **Solución:**
 
-*   Planteamos la reacción: $\mathrm{HNO}_{3}(\mathrm{aq}) \rightarrow \mathrm{H}^{+}(\mathrm{aq}) + \mathrm{NO}_{3}^{-}(\mathrm{aq})$
-*   Determinamos la concentración de ácido: $\mathrm{[HNO_{3}]} = 0,001\ \mathrm{M} = 10^{-3}\ \mathrm{M}$
-*   Como la estequiometría es 1:1 entre el nítrico y los hidrones: $\mathrm{[H^{+}]} = 10^{-3}\ \mathrm{M}$
-*   Determinamos el pH: $\mathrm{pH} = -\log \mathrm{[H^{+}]} = -\log (10^{-3}\ \mathrm{M}) = 3 < 7$ (ácido)
+*   Planteamos la reacción: $\ce{HNO3 (aq) \rightarrow H^{+} (aq) + NO3^{-} (aq)}$
+*   Determinamos la concentración de ácido: $\ce{[HNO3] = 0,001 M = 10^{-3} M}$
+*   Como la estequiometría es 1:1 entre el nítrico y los hidrones: $\ce{[H^+] = 10^{-3} M}$
+*   Determinamos el pH: $\ce{pH = -\log \ [H^+] = -\log \ (10^{-3} M) = 3 < 7}$ (ácido)
 
-### **Primero en casa y después en clase** {: .caja-subtitulo #no-toc}
-
-1.  Determina el pH de disolver 3 g de cloruro de hidrógeno en 150 mL de agua.
-2.  ¿Cuál es el pH al añadir 5 g de hidróxido de sodio a 200 mL de agua?
-3.  El pH de una disolución es 3,5. ¿Es ácida o básica? Calcula la concentración de hidrones. En estas condiciones, ¿existen $\mathrm{OH}^{-}$ en la disolución?
-4.  Consigue papel indicador y determina el pH aproximado de un refresco de cola, café, champú, jabón de manos, saliva, diversas frutas y leche.
-
-![...](imagenes/tema04/ph_metro.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
-
-Puedes encontrar una simulación de su funcionamiento en: [bit.ly/SH_pH-metro](bit.ly/SH_pH-metro)
-
-Y con indicadores químicos en: [bit.ly/SH_escala_pH](bit.ly/SH_escala_pH)
-
----
-
-## **7. Química en la práctica**
-
-### **Sabías que...** {: .caja-subtitulo #no-toc}
-
-Controlar el valor del pH es fundamental para la vida. Nuestro cuerpo funciona mediante enzimas y estas estructuras son extremadamente sensibles a los valores de pH.
-
-Como ejemplo, el valor de pH de la sangre es de 7,40 ± 0,03. Mayores diferencias conducen a situaciones de acidosis o alcalosis que pueden resultar mortales.
-
-La práctica en la química es fundamental, por eso te proponemos la realización de un conjunto de reacciones químicas que deberán permitirte afianzar los conceptos.
-
-### **Neutralizaciones ácido-base** {: .caja-subtitulo #no-toc}
-
-El agua presenta un equilibrio ácido-base consigo misma. Esto significa que la reacción sucede en los dos sentidos.
-
-$$\mathrm{H}_2\mathrm{O (aq)} \rightleftharpoons \mathrm{H}^+(\mathrm{aq}) + \mathrm{OH}^-(\mathrm{aq})$$
-
-Teniendo en cuenta que los hidrones reaccionan con los hidróxidos, tenemos:
-
-Los ácidos y las bases reaccionan entre sí de acuerdo con la siguiente reacción:
-
-![...](imagenes/tema04/neutralizacion.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-Por ejemplo, el cloruro de hidrógeno (HCl) y el hidróxido de sodio (NaOH) reaccionan entre ellos para producir sal común (que permanecerá disuelta) y agua:
-
-$$\mathrm{HCl (aq)} + \mathrm{NaOH (aq)} \rightarrow \mathrm{NaCl (aq)} + \mathrm{H}_2\mathrm{O (l)}$$
-
-Según la relación entre ácido y base que se mezcle, se tendrán estas situaciones:
-
-*   Hay exceso de ácido (base), el pH disminuirá (aumentará), pero no se llegará a la neutralidad.
-*   Las cantidades añadidas son estequiométricas, es decir, ambas se van a consumir y no sobra ningún reactivo. Al carecer los productos de carácter ácido-base, obtendremos una disolución de pH neutro. A este caso en particular se lo denomina **reacción de neutralización**.
-
-> Una **neutralización ácido-base** es una reacción en la que todos los hidrones $\mathrm{H}^{+}$ del ácido reaccionan con todos los hidróxidos $\mathrm{OH}^{-}$ de la base y se obtiene un pH neutro.
-
-### **Actividades** {: .caja-subtitulo #no-toc}
-
-1.  Sales al campo con un botiquín con alcohol, amoniaco diluido y una aspirina. ¿Cómo actuarías en las siguientes situaciones?
-    *   a) Tocas una ortiga.
-    *   b) Te pica una abeja.
-    *   c) Te clavas un cardo.
-2.  Se desea neutralizar 200 mL de disolución 0,2 M de ácido nítrico (HNO3). ¿Qué masa de hidróxido de potasio (KOH) necesitaremos?
-3.  Si tenemos acidez de estómago, ¿cómo podemos aliviarla? Pon un ejemplo.
-
-### **Volumetrías de neutralización ácido-base** {: .caja-subtitulo #no-toc}
-
-En ocasiones se desea determinar la cantidad de ácido o base contenida en una muestra desconocida. Las neutralizaciones nos ofrecen un mecanismo muy sencillo para lograrlo: basta con determinar cuándo las cantidades de reactivos son estequiométricas y no sobra ninguno. Este instante se denomina **punto de equivalencia**, y para ácidos y bases fuertes corresponde a pH neutro.
-
-Para comprobar el pH de la reacción de forma continua se utilizan unas sustancias denominadas **indicadores ácido-base**, cuyo color varía de acuerdo con el medio en el que se encuentren. Algunos de ellos son: fenolftaleína y naranja de metilo.
-
-### **Química en la red** {: .caja-subtitulo #no-toc}
-
-Puedes simular una valoración ácido-base utilizando un pH virtual en: [bit.ly/SH_Valoración](bit.ly/SH_Valoración)
-
-Prueba los diferentes tipos de valoraciones que te ofrece.
-
-### **Síntesis de compuestos orgánicos** {: .caja-subtitulo #no-toc}
-
-Se entiende por **síntesis** la obtención de un nuevo compuesto a partir de reactivos más sencillos. Según sean los compuestos implicados, se conoce como síntesis orgánica o inorgánica.
-
-### **Laboratorio en el aula: Sintetizando un aroma** {: .caja-subtitulo #no-toc}
-
-Dentro de las síntesis orgánicas, existen infinidad de reacciones diferentes, ya que, como hemos visto, el carbono es un elemento capaz de formar muchos compuestos. Una de las reacciones más sencillas es la **esterificación**: formación de un éster a partir de un ácido y un alcohol.
-
-**Objetivo:** Sintetizar un éster con aroma: el etanoato de etilo.
-
-**Material:**
-*   Un tubo de ensayo grande
-*   Etanol
-*   Ácido sulfúrico
-*   Embudo decantador pequeño o pipeta
-*   Ácido acético glacial (concentrado)
-*   Carbonato de sodio
-
-**Procedimiento:**
-
-1.  Prepara la reacción.
-
-    ![...](imagenes/tema04/sintesis1.png){ style="display: block; margin: 0 auto; width: 40%; height: auto;" }
-
-2.  Calienta la mezcla unos minutos suavemente con poca llama.
-
-    ![...](imagenes/tema04/sintesis2.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
-
-3.  Vierte los productos en un vaso con carbonato de sodio.
-
-    ![...](imagenes/tema04/sintesis3.png){ style="display: block; margin: 0 auto; width: 40%; height: auto;" }
-
-    > **Cuidado:** sustancias inflamables.
-
-4.  Separa las capas por decantación con un embudo de decantación o con una pipeta si la cantidad es muy pequeña.
-
-    ![...](imagenes/tema04/sintesis4.png){ style="display: block; margin: 0 auto; width: 40%; height: auto;" }
-
-5.  Identifica la capa acuosa y deséchala. Observa las propiedades del éster y huele de nuevo.
-
-    ![...](imagenes/tema04/sintesis5.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
-
-La reacción opuesta a la que realizas en esta práctica es la **saponificación**. Entre otras posibilidades nos permite obtener los jabones y la glicerina.
-
-![...](imagenes/tema04/jabones.png){ style="display: block; margin: 0 auto; width: 40%; height: auto;" }
-
-**Cuestiones:**
-a) Identifica la reacción que ha tenido lugar, escríbela y nombra todos los compuestos.
-b) ¿Por qué tenemos que verter la mezcla sobre el carbonato de sodio?
-c) ¿A qué huele el producto? Investiga dónde suele encontrarse en nuestro entorno.
-
-### **Combustión de hidrocarburos** {: .caja-subtitulo #no-toc}
-
-Las combustiones de los hidrocarburos tienen como productos dióxido de carbono ($CO_2$) y agua ($H_2O$) en estado gaseoso. ¿Cómo demostrarlo?
-
-### **Laboratorio en el aula: Quemando alcohol** {: .caja-subtitulo #no-toc}
-
-Tomemos la combustión del etanol, el alcohol de los botiquines y el del vino.
-
-$$\mathrm{CH_3-CH_2-OH(l)} + 3\ \mathrm{O_2(g)} \rightarrow 2\ \mathrm{CO_2(g)} + 3\ \mathrm{H_2O(g)}$$
-
-Para verificar que hemos obtenido estas sustancias, usaremos dos métodos de detección:
-
-*   Uno físico, para observar la presencia de agua.
-*   Otro químico, para determinar la existencia de dióxido de carbono.
-
-**Materiales:**
-*   Etanol
-*   Hidróxido de calcio
-*   Tubos acodados
-*   Matraz Erlenmeyer (2)
-*   Matraz redondo
-*   Gomas de empalme
-
-**Procedimiento:**
-
-![...](imagenes/tema04/combustion.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-*   Añade a 100 mL de agua la cantidad suficiente de hidróxido de calcio ($Ca(OH)_2$) hasta llegar a saturación y filtra a continuación para obtener una disolución transparente y limpia. Coloca la mitad en un Erlenmeyer y etiquétalo como C.
-*   Construye el montaje de la figura. Procura que las uniones queden bien selladas y recuerda poner en marcha el agua del destilador.
-*   Prende el alcohol con cuidado y mantenlo encendido unos veinte minutos.
-*   Observa, anota y fotografía lo que sucede.
-
-**Analiza y responde:**
-a) ¿Qué es lo que gotea en el recipiente B? ¿Qué tipo de transformación ha tenido lugar?
-b) ¿Qué indica el enturbiamiento del líquido del recipiente C? ¿Qué tipo de transformación ha tenido lugar?
-c) Investiga todas las reacciones químicas que han sucedido a lo largo de la experiencia.
-d) Finalmente, introduce un tubo en la disolución de hidróxido de calcio sin utilizar (conocida como agua de cal) y sopla suavemente. ¿Qué observas y qué conclusiones obtienes sobre los gases de tu respiración?
-
-### **Sabías que...** {: .caja-subtitulo #no-toc}
-
-Las combustiones de hidrocarburos, como el butano ($C_4H_{10}$) y el propano ($C_3H_8$), o de alcoholes, como el etanol ($CH_3-CH_2-OH$), han sido utilizadas desde hace tiempo como fuentes energéticas al producir una considerable cantidad de energía por unidad de masa.
-
-Observa que un kilogramo de estas sustancias proporciona más energía que la madera.
-
-| Combustible | Poder calorífico (kcal/kg) |
-| :: | :: |
-| Propano comercial | 11 400 |
-| Butano comercial | 11 567 |
-| Etanol | 6 583 |
-| Leña seca | 3 504 |
-
----
-
-## **8. La química en nuestro entorno**
-
-### **Situación de aprendizaje** {: .caja-subtitulo #no-toc}
-
-Ya dispones de los conocimientos para comprender cómo se relacionan las cantidades de reactivos y productos, los factores que afectan a la velocidad de una reacción y a la energía puesta en juego en dichos procesos. Estás en condiciones de poder aplicarlo a la identificación y caracterización de reacciones en tu entorno para tu catálogo.
-
-Aprovechando lo que tratamos en este epígrafe, puedes empezar por las reacciones que corresponden a la síntesis de los dos compuestos inorgánicos más importantes de la industria química: el amoniaco y el ácido sulfúrico.
-
-¿Podrías vivir renunciando al agua potable, a los medicamentos o a los productos de limpieza? ¿Y sin abonos de alto rendimiento ni microprocesadores que permitan que dispongamos de aparatos electrónicos? ¿Podrías vivir como en el siglo XVIII?
-
-Es indudable que la química en general y la industria química en particular han permitido un mundo más cómodo y seguro.
-
-### **El amoniaco** {: .caja-subtitulo #no-toc}
-
-El amoniaco es un gas incoloro de olor característico, muy soluble en agua, donde forma disoluciones básicas. La síntesis a partir de sus elementos corresponde a una reacción reversible o en equilibrio que en condiciones normales está desplazada hacia la izquierda; por tanto, no es favorable hacia la producción de este compuesto.
-
-$$\mathrm{N_2(g)} + 3\mathrm{H_2(g)} \rightleftharpoons 2\mathrm{NH_3(g)} \quad Q = -92,2\ \mathrm{kJ}\cdot\mathrm{mol}^{-1}$$
-
-Al ser el proceso exotérmico, se favorece al eliminar el exceso de energía bajando la temperatura. Sin embargo, esto afecta al aspecto cinético del proceso y lo hace lento en exceso. Se debe aumentar la temperatura a unos 500°C y, para compensar su efecto desfavorable, aumentar la presión hasta 200 atm. Incluso bajo estas condiciones, el rendimiento aún es muy pequeño por motivos cinéticos.
-
-Fritz Haber desarrolló un catalizador basado en el óxido de hierro(III) que permitía aumentar la velocidad, y Carl Bosch lo adaptó al proceso industrial. Ambos recibieron el Premio Nobel de Química en 1918 y 1931, respectivamente, y dieron nombre a la síntesis industrial del amoniaco: el **proceso Haber-Bosch**.
-
-### **Sabías que...** {: .caja-subtitulo #no-toc}
-
-Fritz Haber tiene su lado oscuro y es conocido como el padre de la guerra química.
-
-Colaboró en el desarrollo del cloro y otros gases venenosos que fueron utilizados por Alemania durante la Primera Guerra Mundial.
-
-Con la llegada de Hitler al poder, tuvo que emigrar a pesar de la contribución a su país. Seguramente muchos de sus parientes fallecieron en las cámaras de gas al ser sometidos a la acción de un gas de su invención: el Zyklon B.
-
-![...](imagenes/tema04/haber_bosch.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-Con 180 millones de toneladas, el amoniaco es el segundo producto químico sintético más producido del mundo. Se utiliza como precursor de otros productos (ácido nítrico e hidracina), en productos de limpieza (detergentes y suavizantes), fertilizantes (nitrato de amonio), explosivos (pólvora), fibras (nailon y poliamidas), en muchos plásticos y como refrigerante.
-
-### **El ácido sulfúrico** {: .caja-subtitulo #no-toc}
-
-Con alrededor de 250 millones de toneladas al año, el ácido sulfúrico es el producto químico más producido del mundo. Su consumo por parte de un país es un indicador de su desarrollo industrial. El ácido sulfúrico es un líquido incoloro, oleoso, denso y muy soluble en agua.
-
-Ácido fuerte y medianamente oxidante, se utiliza para fabricar abonos y fertilizantes, explosivos, colorantes, plásticos, fibras, pinturas, acumuladores y baterías, insecticidas y una larga lista que incluye el refinado del petróleo.
-
-### **Laboratorio en el aula: De azúcar a carbón** {: .caja-subtitulo #no-toc}
-
-Coloca unos 20 g de azúcar en un vaso de precipitados de un litro y añade unos 5 mL de ácido sulfúrico puro (98 %). Interpreta lo que sucede.
-
-Actualmente, el ácido sulfúrico se obtiene industrialmente con gran pureza mediante el **método de contacto**, que podemos dividir en tres etapas:
-
-![...](imagenes/tema04/acido_sulfurico.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
-
-### **Importante** {: .caja-subtitulo #no-toc}
-
-La disolución del ácido sulfúrico en agua es un proceso altamente exotérmico, hasta el extremo de que una gota de agua sobre el ácido eleva su temperatura por encima del punto de ebullición, lo que puede provocar salpicaduras.
-
-Para evitarlo se añaden pequeñas cantidades de ácido sobre una gran masa de agua, agitando constantemente, de manera que esta absorba el calor.
-
-### **Actividades** {: .caja-subtitulo #no-toc}
-
-1.  Asumiendo que todas las etapas tuviesen un rendimiento del 100%, determina qué masa de ácido sulfúrico se obtendría a partir de una tonelada de pirita.
-2.  Con anterioridad a este procedimiento, se utilizaba el método de las cámaras de plomo. Amplía la ficha de vuestro catálogo con información sobre este método. Destaca en ella las reacciones en las que se basa.
-
-### **Las reacciones de combustión** {: .caja-subtitulo #no-toc}
-
-Desde que el ser humano ha podido controlar el fuego, la utilización de las reacciones de combustión ha permitido avanzar a la civilización hasta nuestros días. Todas basadas en la reacción:
-
-$$\text{Compuesto orgánico} + \mathrm{O_2} \rightarrow \mathrm{CO_2} + \mathrm{H_2O} + \text{otros gases}$$
-
-![...](imagenes/tema04/combustion_industrial.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
-
-### **Actividades** {: .caja-subtitulo #no-toc}
-
-Investidad acerca de las ventajas y desventajas que aporta la quema de combustibles fósiles. En grupos, realizad un debate sobre el uso de estos combustibles como fuente de energía y sus posibles alternativas, y relacionadlas con los ODS 7 y 13. Incluid las conclusiones en vuestra colección.
-
-### **La respiración celular: una oxidación especialmente importante** {: .caja-subtitulo #no-toc}
-
-Los seres vivos necesitan energía para vivir. En un mundo primitivo carente de oxígeno, la búsqueda de una reacción exotérmica que suministre la energía que necesitan comenzó en el mar, posiblemente cerca de volcanes ricos en azufre o cerca de rocas con hierro(III).
-
-![...](imagenes/tema04/respiracion.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
-
-Mediante la reducción de estos elementos, esta respiración anaeróbica conseguía oxidar determinados compuestos orgánicos y con ello obtener energía.
-
-$$\mathrm{C_6H_{12}O_6} + 6\ \mathrm{O_2} \rightarrow 6\ \mathrm{CO_2} + 6\ \mathrm{H_2O} + \text{Energía química}$$
-
-$$\text{C. orgánico} + \mathrm{SO_4^{2-}} \rightarrow \text{C. orgánicos simples} + \mathrm{S^{2-}} + \text{Energía}$$
-
-Con la llegada de los organismos fotosintéticos oxigénicos, hace aparición el oxígeno, agente oxidante más enérgico que permite obtener más energía de los reactivos. Aparece la respiración aeróbica, que podemos considerar como una combustión controlada.
-
-### **Neutralización: una reacción química de aprendizaje** {: .caja-subtitulo #no-toc}
-
-La respiración y la fotosíntesis son dos procesos químicos que no pueden faltar en vuestro catálogo.
-
-Es indudable que la industria química aporta innumerables beneficios, pero en ocasiones acarrea desastrosas consecuencias. Cuando esto sucede, la misma química debe acudir al rescate. Las posibilidades son innumerables:
-
-Igualmente, no os olvidéis de las reacciones de neutralización.
-
-**Combatir la lluvia ácida**
-
-El agua de lluvia tiene en condiciones habituales un pH entre 5,0 y 5,5, consecuencia de la disolución del $CO_2$ que reacciona con esta y produce ácido carbónico.
-
-Los óxidos de azufre y nitrógeno producen ácidos que rebajan este pH hasta valores próximos a tres e incluso inferiores.
-
-La acumulación de estas aguas provoca una acidificación de acuíferos, ríos y lagos.
-
-Para combatirlo se añaden compuestos alcalinos como carbonatos o fosfatos para neutralizar el ácido.
-
-**Combatir vertidos contaminados**
-
-En determinadas ocasiones, vertidos de metales pesados pueden ser precipitados con sulfuros y luego recogidos de la zona; sin embargo, su destino suele ser almacenarlos como relleno en zonas de menor interés y que no presenten filtraciones.
