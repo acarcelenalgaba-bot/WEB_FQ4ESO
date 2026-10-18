@@ -20,10 +20,48 @@ Sin embargo, compartir sus electrones formando enlaces covalentes es mucho más 
 
 En los compuestos orgánicos encontramos una gran variedad de posibilidades de utilizar diferentes tipos de fórmulas según lo que nos interese destacar.
 
-| Fórmula molecular | Fórmula semidesarrollada | Fórmula desarrollada | Fórmula estructural | 
-|---|---|---|---|
-| Informa solo acerca de qué elementos y en qué cantidad aparecen en el compuesto | Muestra únicamente los enlaces entre carbonos o algún otro elemento puente. | Muestra todos los enlaces que existen en la molécula | Indica los enlaces, los ángulos y la disposición espacial |
-| <img src="../imagenes/tema02/eter1.png" width="200" > | <img src="../imagenes/tema02/eter2.png" width="200" > | <img src="../imagenes/tema02/eter3.png" width="200"> | <img src="../imagenes/tema02/eter4.png" width="200"> |
+<table>
+  <thead>
+    <tr>
+      <th>Tipo de fórmula</th>
+      <th>Descripción</th>
+      <th>Representación</th>
+    </tr>
+  </thead>
+  <tbody>
+
+      <tr>
+        <td><strong>Fórmula molecular</strong></td>
+        <td>Informa solo acerca de qué elementos y en qué cantidad aparecen en el compuesto</td>
+        <td style="vertical-align: middle;"><img src="../imagenes/tema02/metilpenteno1.svg" style="width: 80px; max-width: none; display: block; margin: 0 auto;"></td>
+      </tr>
+
+      <tr>
+        <td><strong>Fórmula semidesarrollada</strong></td>
+        <td>Muestra únicamente los enlaces entre carbonos o algún otro elemento puente</td>
+        <td style="vertical-align: middle;"><img src="../imagenes/tema02/metilpenteno3.svg" style="width: 275px; max-width: none; display: block; margin: 0 auto;"></td>
+      </tr>
+
+      <tr>
+        <td><strong>Fórmula desarrollada</strong></td>
+        <td>Muestra todos los enlaces que existen en la molécula</td>
+        <td style="vertical-align: middle;"><img src="../imagenes/tema02/metilpenteno2.svg" style="width: 275px; max-width: none; display: block; margin: 0 auto;"></td>
+      </tr>
+      
+      <tr>
+        <td><strong>Fórmula simplificada</strong></td>
+        <td>Se representa la cadena de carbonos en zigzag, donde los vértices e inicios de línea son carbonos y los hidrógenos unidos a ellos quedan implícitos</td>
+        <td style="vertical-align: middle;"><img src="../imagenes/tema02/metilpenteno4.svg" style="width: 200px; max-width: none; display: block; margin: 0 auto;"></td>
+      </tr>
+      <tr>
+        <td><strong>Fórmula estructural</strong></td>
+        <td>Indica los enlaces, los ángulos y la disposición espacial</td>
+        <td style="vertical-align: middle;"><img src="../imagenes/tema02/metilpenteno5.png" style="width: 275px; max-width: none; display: block; margin: 0 auto;"></td>
+      </tr>
+
+  </tbody>
+</table>
+
 
 ## **3. Hidrocarburos**
 
