@@ -14,7 +14,7 @@ Sin embargo, compartir sus electrones formando enlaces covalentes es mucho más 
 - **Enlace doble ($\ce{C=C}$):** se forma por la compartición de dos pares de electrones.
 - **Enlace triple ($\ce{C≡C}$):** se forma por la compartición de tres pares de electrones.
 
-![...](imagenes/tema02/configuracion.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
+![...](imagenes/tema02/configuracion.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
 
 ## **2. Representaciones moleculares**
 
