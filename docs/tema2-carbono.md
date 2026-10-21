@@ -137,20 +137,31 @@ En una cadena carbonada podemos identificar:
 
 **Ejemplos**. Los primeros términos de la serie, hasta cuatro átomos de carbono, reciben nombres especiales:
 
-| Fórmula | Nombre | Fórmula | Nombre | Fórmula | Nombre | 
-|---|---|---|---|---|---|
-| $\ce{CH4}$ | Metano | $\ce{CH3-CH2-CH2-CH3}$ | Butano | $\ce{CH3-CH2-CH2-CH2-CH2-CH2-CH3}$ | Heptano |
-| $\ce{CH3-CH3}$ | Etano | $\ce{CH3-CH2-CH2-CH2-CH3}$ | Pentano |$\ce{CH3-CH2-CH2-CH2-CH2-CH2-CH2-CH3}$ | Octano |
-| $\ce{CH3-CH2-CH3}$ | Propano | $\ce{CH3-CH2-CH2-CH2-CH2-CH3}$ | Hexano |$\ce{CH3-CH2-CH2-CH2-CH2-CH2-CH2-CH2-CH3}$ | Nonano |
+| Fórmula | Nombre |
+|---|---|
+| $\ce{CH4}$ | Metano | 
+| $\ce{CH3-CH3}$ | Etano | 
+| $\ce{CH3-CH2-CH3}$ | Propano |
+| $\ce{CH3-CH2-CH2-CH3}$ | Butano | 
+| $\ce{CH3-CH2-CH2-CH2-CH3}$ |Pentano |
+| $\ce{CH3-CH2-CH2-CH2-CH2-CH3}$ | Hexano |
+| $\ce{CH3-CH2-CH2-CH2-CH2-CH2-CH3}$ | Heptano | 
+| $\ce{CH3-CH2-CH2-CH2-CH2-CH2-CH2-CH3}$ | Octano |
+| $\ce{CH3-CH2-CH2-CH2-CH2-CH2-CH2-CH2-CH3}$ | Nonano | 
 
 A partir de los hidrocarburos podemos obtener los **radicales** de alquilo por pérdida de un hidrógeno (lo que deja un enlace libre). Los radicales de alquilo se nombran igual que los hidrocarburos de los que derivan cambiando la terminación -ano por -**il** o -**ilo**:
 
-| Fórmula | Nombre | Fórmula | Nombre |
-|:---|:---|:---|:---|
-| <img src="../imagenes/tema02/metilo.svg" class="img-lineal"> | Metil o metilo | <img src="../imagenes/tema02/etilo.svg" class="img-lineal"> | Etil o etilo |
-| <img src="../imagenes/tema02/propilo.svg" class="img-lineal"> | Propil o propilo | <img src="../imagenes/tema02/isopropilo.svg" class="img-ramificada"> | Isopropil o isopropilo |
-| <img src="../imagenes/tema02/butilo.svg" class="img-lineal"> | Butil o butilo | <img src="../imagenes/tema02/isobutilo.svg" class="img-ramificada"> | Isobutil o isobutilo |
-| <img src="../imagenes/tema02/pentilo.svg" class="img-lineal"> | Pentil o pentilo | <img src="../imagenes/tema02/hexilo.svg" class="img-lineal"> | Hexil o hexilo |
+| Fórmula | Nombre | 
+|:---|:---|
+| <img src="../imagenes/tema02/metilo.svg" class="img-lineal"> | Metil o metilo |
+| <img src="../imagenes/tema02/etilo.svg" class="img-lineal"> | Etil o etilo |
+| <img src="../imagenes/tema02/propilo.svg" class="img-lineal"> | Propil o propilo |
+| <img src="../imagenes/tema02/isopropilo.svg" class="img-ramificada"> | Isopropil o isopropilo |
+| <img src="../imagenes/tema02/butilo.svg" class="img-lineal"> | Butil o butilo |
+| <img src="../imagenes/tema02/isobutilo.svg" class="img-ramificada"> | Isobutil o isobutilo |
+| <img src="../imagenes/tema02/pentilo.svg" class="img-lineal"> | Pentil o pentilo |
+
+
 
 - Para **nombrar** **hidrocarburos saturados ramificados** se aplican los criterios siguientes:
 

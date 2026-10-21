@@ -120,20 +120,19 @@
 
 /* Para moléculas de 1 sola fila horizontal (metilo, etilo, propilo, etc.) */
 .img-lineal {
-  height: 30px !important;
+  height: 25px !important;
   width: auto !important;
-  display: block !important;
-  margin-left: 0 !important;
-  margin-right: auto !important;
+  max-width: none !important; /* Impide que el navegador la encoja si la celda es estrecha */
+  display: inline-block !important; /* Mejor integración dentro de celdas de tabla */
+  vertical-align: middle;
 }
 
-/* Para moléculas ramificadas con 2 niveles (isopropilo, isobutilo, etc.) */
 .img-ramificada {
-  height: 60px !important; /* El doble de alto preserva la escala de la letra */
+  height: 50px !important;
   width: auto !important;
-  display: block !important;
-  margin-left: 0 !important;
-  margin-right: auto !important;
+  max-width: none !important;
+  display: inline-block !important;
+  vertical-align: middle;
 }
 
 /* Centrar de forma automática todas las imágenes del documento */
