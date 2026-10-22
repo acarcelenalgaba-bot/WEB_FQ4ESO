@@ -339,7 +339,7 @@ Ejemplos:
 
 ![...](imagenes/tema02/eter_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
 
-### **Grupo funcional: - CO - (carbonilo) Aldehídos y cetonas** {: .caja-subtitulo #no-toc }
+### **Grupo funcional: Carbonilo (CO). Aldehídos y cetonas** {: .caja-subtitulo #no-toc }
 
 El grupo carbonilo consta de un oxígeno unido mediante un doble enlace al carbono. Puede estar situado en un carbono primario o en uno secundario
 
@@ -355,7 +355,7 @@ Se nombran cambiando la terminación del hidrocarburo por -**al**.
 
 Ejemplos:
 
-![...](imagenes/tema02/aldehido_ejemplo.png){ style="display: block; margin: 0 auto; width: 85%; height: auto;" }
+![...](imagenes/tema02/aldehido_ejemplo.png){ style="display: block; margin: 0 auto; width: 75%; height: auto;" }
 
 ### **4.4 Cetonas (-ona)** {: .caja-subtitulo}
 
