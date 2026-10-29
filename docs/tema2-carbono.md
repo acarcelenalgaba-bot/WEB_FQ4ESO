@@ -209,7 +209,7 @@ Existen algunos radicales insaturados que por su importancia conviene conocer:
 
 ### **3.3 Alquinos (-ino)** {: .caja-subtitulo}
 
-Los **alquinos** son hidrocarburos insaturados que se caracterizan por tener **triples enlaces** carbono-carbono.
+Los **alquinos** son hidrocarburos insaturados que se caracterizan por tener **triples enlaces** carbono-carbono, $\boldsymbol{\ce{C#C}}$.
 
 ### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
