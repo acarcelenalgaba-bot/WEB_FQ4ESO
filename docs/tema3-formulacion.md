@@ -329,7 +329,7 @@ Pueden considerarse compuestos binarios formados por un catión (procedente del 
 
 Para **formularlas**, primero se escribe el catión y luego el anión. Al leer la fórmula, el orden seguido es el inverso. Las cargas de los iones se intercambian, simplificando si llegase el caso.
 
-Se utilizan los mismo prefijos que en los oxoácidos sustituyento **ato** por **ico** e **ito** por **oso**...
+Se utilizan los mismo prefijos que en los oxoácidos sustituyento **ato** por **ico** e **ito** por **oso**.
 
 | Número de oxidación | Ácido  | Anión |
 | ----- | ----- | ----- | 
