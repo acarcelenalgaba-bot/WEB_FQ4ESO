@@ -301,25 +301,18 @@ Ejemplo: Ácido perclórico.
 
 ### **B. Nomenclatura de hidrógeno** {: .caja-subtitulo2 #no-toc }
 
-Se nombra primero el hidrógeno (utilizando **-hidrogeno-**, sin acento), indicando su cantidad con prefijos; entre paréntesis, a continuación, se nombra el oxígeno (utilizando **-oxido-**, sin acento) y el elemento no metallic acabado en **-ato**.
+Se nombra primero el hidrógeno (utilizando **-hidrogeno-**, sin acento), indicando su cantidad con prefijos; entre paréntesis, a continuación, se nombra el oxígeno (utilizando **-oxido-**, sin acento) y el elemento no metálico acabado en **-ato**.
 
 $$
 \ce{H2SO4} \quad \rightarrow \quad \text{dihidrogeno(tetraoxidosulfato)}
 $$
 
-### **C. Nomenclatura sistemática de adición** {: .caja-subtitulo2 #no-toc }
 
-El oxoácido consiste en un átomo central rodeado de grupos $\ce{-OH}$ (hidróxido) y $\ce{=O}$ (óxido). Para nombrarlo se eliminan todos los $\ce{OH}$ que se pueda, que corresponderán a los hidróxidos. Después se cuentan los oxígenos residuales, que serán los óxidos, y, por último, el átomo central.
-
-$$
-\ce{H2SO4} \rightarrow \ce{[SO2(OH)2]} \quad \rightarrow \quad \text{dihidroxidodioxidoazufre}
-$$
-
-| Fórmula | Tradicional | Sistemática de composición | Sistemática de adición | 
-| ----- | ----- | ----- | ----- | 
-| $\ce{H2CO3}$ | ácido carbónico | dihidrogeno(trioxidocarbonato) | dihidroxidooxidocarbono | 
-| $\ce{H2SO3}$ | ácido sulfuroso | dihidrogeno(trioxidosulfato) | dihidroxidooxidoazufre | 
-| $\ce{HClO4}$ | ácido perclórico | hidrogeno(tetraoxidoclorato) | hidroxidotrioxidocloro | 
+| Fórmula | Tradicional | Nomenclatura de hidrógeno | 
+| ----- | ----- | ----- | 
+| $\ce{H2CO3}$ | ácido carbónico | dihidrogeno(trioxidocarbonato) | 
+| $\ce{H2SO3}$ | ácido sulfuroso | dihidrogeno(trioxidosulfato) | 
+| $\ce{HClO4}$ | ácido perclórico | hidrogeno(tetraoxidoclorato) | 
 
 ### **4.2 Oxisales** {: .caja-subtitulo}
 
