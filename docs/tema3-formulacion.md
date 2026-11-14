@@ -331,12 +331,13 @@ Para **formularlas**, primero se escribe el catión y luego el anión. Al leer l
 
 Se utilizan los mismo prefijos que en los oxoácidos sustituyento **ato** por **ico** e **ito** por **oso**.
 
-| Número de oxidación | Ácido  | Anión |
-| ----- | ----- | ----- | 
-| Más Alto | **per ... ico** | **per ... ato** |
-| Alto | **... ico** | **... ato** | 
-| Bajo | **... oso** | **... ito** |
-| Más Bajo | **hipo ... oso** | **hipo ... ito** | 
+
+| Oxoácido | Anión | N.O. Grupo 17 | N.O. Grupo 16 | N.O. Grupo 15 | N.O. Grupo 14 |
+| ----: | ----- |  ----- | ----- | ----- | ----- |
+| **Ácido per ... ico** | **per ... ato** | +7 | | | |
+|     **Ácido ... ico** | **... ato** | +5 | +6 | +5 | +4 |
+|     **Ácido ... oso** | **... ito** | +3 | +4 | +3 | +2 |
+| **Ácido hipo ... oso** |**hipo ... ito** | +1 | +2 | | |
 
 
 * **Nitrato de sodio:** ion nitrato ($\ce{NO3-}$) + ion sodio ($\ce{Na+}$) $\ce{\rightarrow Na+ + NO3-  = NaNO3}$
@@ -354,6 +355,16 @@ Para **nombrarlas** hay que nombrar el anión y añadirle el nombre del catión 
 
 Se nombra el anión con la terminación **-ato**; si hay más de uno, se indica con un prefijo numeral multiplicativo (*bis-*, *tris-*, *tetraquis-*, *pentaquis-*, *hexaquis-*). A continuación, la preposición **de** y el nombre del catión con prefijos numéricos.
 
+Ejemplo: 
+
 $$
 \ce{Co2(CO3)3} \quad \rightarrow \quad \text{tris(trioxidocarbonato) de dicobalto}
+$$
+
+![...](imagenes/tema03/trioxidocarbonato.png){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
+
+Ejemplo:
+
+$$
+\ce{LiNO2} \quad \rightarrow \quad \text{dioxidonitrato de litio}
 $$
