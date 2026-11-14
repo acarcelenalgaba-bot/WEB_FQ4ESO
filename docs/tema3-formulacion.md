@@ -329,7 +329,7 @@ Pueden considerarse compuestos binarios formados por un catión (procedente del 
 
 Para **formularlas**, primero se escribe el catión y luego el anión. Al leer la fórmula, el orden seguido es el inverso. Las cargas de los iones se intercambian, simplificando si llegase el caso.
 
-Se utilizan los mismo prefijos que en los oxoácidos sustituyento ato por ico y ito por oso...
+Se utilizan los mismo prefijos que en los oxoácidos sustituyento **ato** por **ico** e **ito** por **oso**...
 
 | Número de oxidación | Ácido  | Anión |
 | ----- | ----- | ----- | 
@@ -339,9 +339,9 @@ Se utilizan los mismo prefijos que en los oxoácidos sustituyento ato por ico y 
 | Más Bajo | **hipo ... oso** | **hipo ... ito** | 
 
 
-* **Nitrato de sodio:** ion nitrato + ion sodio $\ce{\quad Na+ + NO3- = NaNO3}$
+* **Nitrato de sodio:** ion nitrato ($\ce{NO3-}$) + ion sodio ($\ce{Na+}$) $\ce{\rightarrow Na+ + NO3-  = NaNO3}$
 
-* **Sulfato de calcio:** ion sulfato + ion calcio $\ce{\quad Ca^{2+} + SO4^{2-} = Ca2(SO4)2 = CaSO4}$
+* **Sulfato de calcio:** ion sulfato ($\ce{SO4^{2-}}$) + ion calcio $\ce{Ca^{2+}}$ $\ce{\rightarrow Ca^{2+} + SO4^{2-} = Ca2(SO4)2 = CaSO4}$
 
 Para **nombrarlas** hay que nombrar el anión y añadirle el nombre del catión indicando su valencia entre paréntesis y en números romanos, si tiene más de una.
 
