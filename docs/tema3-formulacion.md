@@ -257,8 +257,7 @@ Los ácidos oxoácidos son compuestos formados por un no metal, oxígeno e hidr�
 
 </div>
 
-
-Veremos tres formas de nombrar estos compuestos:
+Veremos dos formas de nombrar estos compuestos:
 
 ### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
@@ -290,7 +289,7 @@ La IUPAC admite la nomenclatura tradicional, que utiliza el nombre genérico de 
 
 Ejemplo: $\quad \ce{H2SO4}$
 
-Antes se dedujo que el S actua en este compuesto con número de oxidación de +6, en consecuencia, se llamaría ácido sulfúr**ico**.
+Antes se dedujo que el S actua en este compuesto con número de oxidación de +6, en consecuencia, se llamaría **ácido** sulfúr**ico**.
 
 ### **Formulación** {: .caja-subtitulo2 #no-toc }
 
@@ -298,6 +297,7 @@ A partir de los prefijos y sufijos deducimos el número de oxidación del elemen
 
 Ejemplo: Ácido perclórico.
 
+![...](imagenes/tema03/acidoperclorico.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
 
 ### **B. Nomenclatura de hidrógeno** {: .caja-subtitulo2 #no-toc }
 
@@ -307,6 +307,7 @@ $$
 \ce{H2SO4} \quad \rightarrow \quad \text{dihidrogeno(tetraoxidosulfato)}
 $$
 
+![...](imagenes/tema03/acidosulfurico.png){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
 
 | Fórmula | Tradicional | Nomenclatura de hidrógeno | 
 | ----- | ----- | ----- | 
