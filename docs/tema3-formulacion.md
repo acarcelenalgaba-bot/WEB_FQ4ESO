@@ -297,17 +297,17 @@ A partir de los prefijos y sufijos deducimos el número de oxidación del elemen
 
 Ejemplo: Ácido perclórico.
 
-![...](imagenes/tema03/acidoperclorico.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
+![...](imagenes/tema03/acidoperclorico.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
 
 ### **B. Nomenclatura de hidrógeno** {: .caja-subtitulo2 #no-toc }
 
-Se nombra primero el hidrógeno (utilizando **-hidrogeno-**, sin acento), indicando su cantidad con prefijos; entre paréntesis, a continuación, se nombra el oxígeno (utilizando **-oxido-**, sin acento) y el elemento no metálico acabado en **-ato**.
+Se nombra primero el hidrógeno (utilizando **-hidrogeno-**, sin acento), indicando su cantidad con prefijos; entre **paréntesis**, a continuación, se nombra el oxígeno (utilizando **-oxido-**, sin acento) y el elemento no metálico acabado en **-ato**.
 
-$$
-\ce{H2SO4} \quad \rightarrow \quad \text{dihidrogeno(tetraoxidosulfato)}
-$$
+Ejemplo: $\quad \ce{H2SO4}$
 
-![...](imagenes/tema03/acidosulfurico.png){ style="display: block; margin: 0 auto; width: 70%; height: auto;" }
+![...](imagenes/tema03/acidosulfurico.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
+
+### **Ejemplos resumen** {: .caja-subtitulo2 #no-toc }
 
 | Fórmula | Tradicional | Nomenclatura de hidrógeno | 
 | ----- | ----- | ----- | 
