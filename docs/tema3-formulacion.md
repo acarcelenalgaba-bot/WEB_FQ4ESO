@@ -215,14 +215,11 @@ Los **hidróxidos** son compuestos que se obtienen por la unión de un metal con
 
 El hidrógeno actúa con estado de oxidación +1 y los no metales con su respectivo estado de oxidación negativo. Los compuestos de los grupos 13, 14 y 15 son hidruros y tienen nombre común aceptado. El resto son X-uros de hidrógeno.
 
-| Fórmula | Nombre | Nombre común | 
-| ----- | ----- | ----- | 
-| $\ce{BH3}$ | trihidruro de boro | borano | 
-| $\ce{CH4}$ | tetrahidruro de carbono | metano | 
-| $\ce{NH3}$ | trihidruro de nitrógeno | amoniaco | 
-| $\ce{SiH4}$ | tetrahidruro de silicio | silano | 
-| $\ce{AsH3}$ | trihidruro de arsénico | arsano | 
-| $\ce{PH3}$ | trihidruro de fósforo | fosfano | 
+| Fórmula (Grupo 13) | Nombre | Nombre común |  Fórmula  (Grupo 14)| Nombre | Nombre común |  Fórmula  (Grupo 15)| Nombre | Nombre común | 
+| ----- | ----- | ----- | ----- | ----- | -----  | ----- | ----- | ----- | 
+| $\ce{BH3}$ | trihidruro de boro | borano |  $\ce{CH4}$ | tetrahidruro de carbono | metano | $\ce{NH3}$ | trihidruro de nitrógeno | amoniaco | 
+|||| $\ce{SiH4}$ | tetrahidruro de silicio | silano | $\ce{AsH3}$ | trihidruro de arsénico | arsano | 
+||||||| $\ce{PH3}$ | trihidruro de fósforo | fosfano | 
 
 | Fórmula (Grupo 17) | Nombre | Fórmula (Grupo 16) | Nombre | 
 | ----- | ----- | ----- | ----- | 
