@@ -57,7 +57,7 @@ El paréntesis sigue al nombre sin ningún espacio. En el caso de que el número
 
 Los aniones pueden estar formados por más de un elemento. En este caso, su nomenclatura se puede realizar de dos maneras:
 
-#### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
+### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
 Se utilizan prefijos y sufijos conforme al número de oxidación con que actúa el elemento que da lugar al anión. Se pueden presentar varios casos, según sea el número de valencias que posea dicho elemento:
 
@@ -131,20 +131,33 @@ $$
 
 * $\ce{X}$: El elemento más electronegativo se sitúa a la derecha (con valencia negativa).
 
+El orden creciente de electronegatividades, comenzando con el flúor y terminando con el radón, que la IUPAC ha establecido como referencia para la ordenación de los símbolos de los elementos en las fórmulas, es el siguiente:
+
+![...](imagenes/tema03/electronegatividad.png){ style="display: block; margin: 0 auto; width: 100%; height: auto;" }
+
 En la formación de un compuesto, asignamos a cada elemento una carga formal correspondiente al número de oxidación que utilice. Luego estos elementos se combinan en número de manera que la carga total sea nula.
+
+### **Formulación** {: .caja-subtitulo2 #no-toc }
 
 Una regla sencilla que, aunque con excepciones, puede ayudar a la formulación del compuesto, es el intercambio de valencias y la posterior simplificación.
 
 **Ejemplo de formulación:**
-Sulfuro de plomo(IV): formado por $\ce{Pb^{4+}}$ y $\ce{S^{2-}}$
+
+Sulfuro de plomo(IV): $\quad$ formado por $\ce{Pb^{4+}}$ y $\ce{S^{2-}}$
 
 Intercambio cruzado:* $\ce{\quad Pb_2S_4 \rightarrow (simplificaci\textrm{ó}n) PbS2}$*
+
+![...](imagenes/tema03/sulfurodeplomo.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
+
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
 En este curso utilizaremos dos tipos de nomenclatura:
 
 1. **Prefijo multiplicador:** Se nombran de derecha a izquierda, de manera que leemos primero el elemento más electronegativo, acabado en el sufijo **-uro** (a excepción del oxígeno, que se lee como **óxido**), seguido del elemento de la izquierda. Se indica el número de cada átomo con prefijos numéricos (el término *mono-* se utilizará sobre el anión solo en el caso de que el elemento menos electronegativo posea más de una valencia).
 
 2. **Números de oxidación:** No se introducen prefijos numéricos, únicamente el número de oxidación del elemento menos electronegativo (siempre elemento a la izquierda en la fórmula) entre paréntesis y en números romanos. En caso de que posea una única valencia, se omite el número.
+
+![...](imagenes/tema03/oxidodesodio.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
 
 | Compuesto | Nomenclatura (Prefijos) | Nomenclatura (Nº de oxidación) | 
 | ----- | ----- | ----- | 
@@ -163,13 +176,19 @@ Con anterioridad a la publicación de las normas de la IUPAC del año 2005, los 
 
 Los **peróxidos** son compuestos que se obtienen por la combinación entre un metal y el grupo peróxido o dióxido(2-) ($\ce{O2^{2-}}$). El subíndice del oxígeno forma parte del ion, por lo que no se puede eliminar. Se confunden fácilmente con los óxidos.
 
-**Nomenclatura:** sigue las mismas normas vistas anteriormente; están aceptados los dos nombres para el anión.
+### **Nomenclatura** {: .caja-subtitulo2 #no-toc }
 
-| Ion | Nombre sistemático | Nombre aceptado por la IUPAC | 
+Sigue las mismas normas vistas anteriormente; están aceptados los dos nombres para el anión.
+
+| Compuesto | Nombre sistemático | Nombre aceptado por la IUPAC | 
 | ----- | ----- | ----- | 
 | $\ce{Li2O2}$ | dióxido de dilitio | peróxido de litio | 
 | $\ce{CaO2}$ | dióxido de calcio | peróxido de calcio | 
 | $\ce{PbO2}$ | dióxido de plomo | peróxido de plomo(II) | 
+
+### **Formulación** {: .caja-subtitulo2 #no-toc }
+
+Sigue las mismas normas pero con la condición de que el subíndice del oxígeno no se puede eliminar.
 
 **Ejemplos de formulación:**
 
@@ -181,7 +200,7 @@ Los **peróxidos** son compuestos que se obtienen por la combinación entre un m
 **Importante**
 
 Los peróxidos y los óxidos suelen confundirse cuando queremos nombrarlos. Una técnica para resolver este problema consiste en averiguar la valencia si fuera un óxido. Si dicha valencia no pertenece al elemento, nos encontramos con un peróxido.
-*Ejemplo:* En $\ce{Na2O2}$, si fuera un óxido el sodio tendría valencia 2; como el sodio solo tiene valencia 1, en consecuencia, es un peróxido.
+Ejemplo: En $\ce{Na2O2}$, si fuera un óxido el sodio tendría valencia 2; como el sodio solo tiene valencia 1, en consecuencia, es un peróxido.
 
 ### **3.2 Hidróxidos** {: .caja-subtitulo}
 
@@ -205,27 +224,24 @@ El hidrógeno actúa con estado de oxidación +1 y los no metales con su respect
 | $\ce{AsH3}$ | trihidruro de arsénico | arsano | 
 | $\ce{PH3}$ | trihidruro de fósforo | fosfano | 
 
-| Fórmula | Nombre | 
-| ----- | ----- | 
-| $\ce{HF}$ | fluoruro de hidrógeno | 
-| $\ce{HCl}$ | cloruro de hidrógeno | 
-| $\ce{HBr}$ | bromuro de hidrógeno | 
-| $\ce{HI}$ | yoduro de hidrógeno | 
-| $\ce{H2S}$ | sulfuro de hidrógeno | 
-| $\ce{H2Se}$ | seleniuro de hidrógeno | 
+| Fórmula (Grupo 17) | Nombre | Fórmula (Grupo 16) | Nombre | 
+| ----- | ----- | ----- | ----- | 
+| $\ce{HF}$ | fluoruro de hidrógeno | $\ce{H2S}$ | sulfuro de hidrógeno | 
+| $\ce{HCl}$ | cloruro de hidrógeno | $\ce{H2Se}$ | seleniuro de hidrógeno | 
+| $\ce{HBr}$ | bromuro de hidrógeno | ||
+| $\ce{HI}$ | yoduro de hidrógeno | ||
 
-!!! note "Importante: Ácidos hidrácidos en disolución acuosa"
+
+### **Ácidos hidrácidos en disolución acuosa** {: .caja-subtitulo2 #no-toc }
+
 Las disoluciones acuosas de los compuestos entre el hidrógeno y los elementos de los grupos 16 y 17 tienen un comportamiento ácido y se nombran con la palabra **ácido** seguida del elemento con el sufijo **-hídrico**:
 
-- $\ce{HF (aq)}$: ácido fluorhídrico
-- $\ce{HCl (aq)}$: ácido clorhídrico
-- $\ce{H2S (aq)}$: ácido sulfhídrico
-- $\ce{H2Se (aq)}$: ácido selenhídrico
+- $\ce{HF (ac)}$: ácido fluorhídrico
+- $\ce{HCl (ac)}$: ácido clorhídrico
+- $\ce{H2S (ac)}$: ácido sulfhídrico
+- $\ce{H2Se (ac)}$: ácido selenhídrico
 
-```
-*En este caso no se nombra un compuesto puro, sino una disolución, por lo que no pertenece a la nomenclatura química formal.*
-
-```
+En este caso no se nombra un compuesto puro, sino una disolución, por lo que no pertenece a la nomenclatura química formal.
 
 ## **4. Compuestos ternarios**
 
@@ -241,7 +257,7 @@ $$
 
 Veremos tres formas de nombrar estos compuestos:
 
-#### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
+### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
 La IUPAC admite la nomenclatura tradicional, que utiliza el nombre genérico de **ácido** y los prefijos y sufijos **hipo- -oso**, **-oso**, **-ico** y **per- -ico**.
 
@@ -265,7 +281,7 @@ $$
 
 *El S tiene valencia +6 (sufijo -ico). Es el ácido sulfúrico.*
 
-#### **B. Nomenclatura de hidrógeno** {: .caja-subtitulo2 #no-toc }
+### **B. Nomenclatura de hidrógeno** {: .caja-subtitulo2 #no-toc }
 
 Se nombra primero el hidrógeno (utilizando **-hidrogeno-**, sin acento), indicando su cantidad con prefijos; entre paréntesis, a continuación, se nombra el oxígeno (utilizando **-oxido-**, sin acento) y el elemento no metallic acabado en **-ato**.
 
@@ -273,7 +289,7 @@ $$
 \ce{H2SO4} \quad \rightarrow \quad \text{dihidrogeno(tetraoxidosulfato)}
 $$
 
-#### **C. Nomenclatura sistemática de adición** {: .caja-subtitulo2 #no-toc }
+### **C. Nomenclatura sistemática de adición** {: .caja-subtitulo2 #no-toc }
 
 El oxoácido consiste en un átomo central rodeado de grupos $\ce{-OH}$ (hidróxido) y $\ce{=O}$ (óxido). Para nombrarlo se eliminan todos los $\ce{OH}$ que se pueda, que corresponderán a los hidróxidos. Después se cuentan los oxígenos residuales, que serán los óxidos, y, por último, el átomo central.
 
@@ -297,7 +313,7 @@ $$
 
 Pueden considerarse compuestos binarios formados por un catión (procedente del hidróxido) y un anión (procedente del oxoácido).
 
-#### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
+### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
 Para formularlas, primero se escribe el catión y luego el anión. Al leer la fórmula, el orden seguido es el inverso. Las cargas de los iones se intercambian, simplificando si llegase el caso.
 
@@ -312,7 +328,7 @@ Para nombrarlas hay que nombrar el anión y añadirle el nombre del catión indi
 | $\ce{LiNO2}$ | $\ce{Li+}$ | $\ce{NO2-}$ | nitrito de litio | 
 | $\ce{Fe2(CO3)3}$ | $\ce{Fe^{3+}}$ | $\ce{CO3^{2-}}$ | carbonato de hierro(III) | 
 
-#### **B. Nomenclatura sistemática de composición** {: .caja-subtitulo2 #no-toc }
+### **B. Nomenclatura sistemática de composición** {: .caja-subtitulo2 #no-toc }
 
 Se nombra el anión con la terminación **-ato**; si hay más de uno, se indica con un prefijo numeral multiplicativo (*bis-*, *tris-*, *tetraquis-*, *pentaquis-*, *hexaquis-*). A continuación, la preposición **de** y el nombre del catión con prefijos numéricos.
 

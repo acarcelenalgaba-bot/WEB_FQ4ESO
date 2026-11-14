@@ -161,8 +161,6 @@ A partir de los hidrocarburos podemos obtener los **radicales** de alquilo por p
 | <img src="../imagenes/tema02/isobutilo.svg" class="img-ramificada"> | Isobutil o isobutilo |
 | <img src="../imagenes/tema02/pentilo.svg" class="img-lineal"> | Pentil o pentilo |
 
-
-
 - Para **nombrar** **hidrocarburos saturados ramificados** se aplican los criterios siguientes:
 
     1. **Elegir la cadena principal**. Para ello aplicar, por orden, las siguientes normas:
