@@ -213,7 +213,7 @@ Los **hidróxidos** son compuestos que se obtienen por la unión de un metal con
 
 ### **3.3 Hidrógeno + no metal** {: .caja-subtitulo}
 
-El hidrógeno actúa con estado de oxidación +1 y los no metales con su respectivo estado de oxidación negativo. Los compuestos de los grupos 13, 14 y 15 son hidruros y tienen nombre común aceptado. El resto son X-uros de hidrógeno.
+El hidrógeno actúa con estado de oxidación +1 y los no metales con su respectivo estado de oxidación negativo. Los compuestos de los grupos 13, 14 y 15 son hidruros y tienen nombre común aceptado.
 
 | Fórmula (Grupo 13) | Nombre | Nombre común |  Fórmula  (Grupo 14)| Nombre | Nombre común |  Fórmula  (Grupo 15)| Nombre | Nombre común | 
 | ----- | ----- | ----- | ----- | ----- | -----  | ----- | ----- | ----- | 
@@ -221,11 +221,14 @@ El hidrógeno actúa con estado de oxidación +1 y los no metales con su respect
 |||| $\ce{SiH4}$ | tetrahidruro de silicio | silano | $\ce{AsH3}$ | trihidruro de arsénico | arsano | 
 ||||||| $\ce{PH3}$ | trihidruro de fósforo | fosfano | 
 
+El resto, grupos 16 y 17, son **X-uros de hidrógeno**.
+
+
 | Fórmula (Grupo 17) | Nombre | Fórmula (Grupo 16) | Nombre | 
 | ----- | ----- | ----- | ----- | 
 | $\ce{HF}$ | fluoruro de hidrógeno | $\ce{H2S}$ | sulfuro de hidrógeno | 
 | $\ce{HCl}$ | cloruro de hidrógeno | $\ce{H2Se}$ | seleniuro de hidrógeno | 
-| $\ce{HBr}$ | bromuro de hidrógeno | ||
+| $\ce{HBr}$ | bromuro de hidrógeno | $\ce{H2Te}$ | teleruro de hidrógeno | 
 | $\ce{HI}$ | yoduro de hidrógeno | ||
 
 
@@ -248,35 +251,53 @@ Los compuestos ternarios están formados por tres elementos diferentes. Su nomen
 
 Los ácidos oxoácidos son compuestos formados por un no metal, oxígeno e hidrógeno, cuya fórmula general es:
 
-$$
-\ce{H_a X_b O_c} \quad \text{(siendo X el no metal)}
-$$
+<div style="text-align: center; margin: 20px 0;">
+
+<span style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; display: inline-block; vertical-align: middle; background: #f9f7fb; margin-right: 12px;">$\ce{H_a X_b O_c}$</span> (siendo X el no metal)
+
+</div>
+
 
 Veremos tres formas de nombrar estos compuestos:
 
 ### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
+Para aprender a formular este tipo de compuestos hay que conocer los números de oxidación con los que los no metales pueden actuar. Estos son los siguientes:
+
+| Familia | Grupo | Números de oxidación | 
+| ----- | ----- | ----- |
+| Halógenos | 17 | +1, +3, +5, +7 |
+| Ánfígenos | 16 |+2, +4, +6 |
+| Grupo del N | 15 |+3, +5 |
+| Grupo del C | 14 |+4 | 
+
+ Al darnos la fórmula del ácido tenemos que deducir el número de oxidación del elemento central X (+n), que será igual al doble de oxígenos que tenga menos los hidrógenos. 
+
+Ejemplo: $\quad \ce{H2SO4} \quad \rightarrow \quad \ce{4 (O) * 2 - 2 (H) = 6}$
+
+Si del elemento central tenemos varios átomos el resultado lo dividimos por ese número.
+
+Ejemplo: $\quad \ce{H2Cr2O7} \quad \rightarrow \quad \dfrac {\ce{7 (O) * 2 - 2 (H)}}{\ce{2 (Cr)}} = \dfrac {14-2}{2} = 6 $
+
 La IUPAC admite la nomenclatura tradicional, que utiliza el nombre genérico de **ácido** y los prefijos y sufijos **hipo- -oso**, **-oso**, **-ico** y **per- -ico**.
 
-Para formular los ácidos se debe formular el anión poliatómico previamente. Para ello, se sustituyen los sufijos de los oxaniones por otros diferentes:
+| Ácido | Grupo 17 | Grupo 16 | Grupo 15 | Grupo 14 |
+| ----: | ----- | ----- | ----- | ----- |
+| **Ácido per ... ico** | +7 | | | |
+|     **Ácido ... ico** | +5 | +6 | +5 | +4 |
+|     **Ácido ... oso** | +3 | +4 | +3 | +2 |
+| **Ácido hipo ... oso** | +1 | +2 | | |
 
-$$
-\text{-ato} \rightarrow \text{-ico} \qquad \text{-ito} \rightarrow \text{-oso}
-$$
+Ejemplo: $\quad \ce{H2SO4}$
 
-Posteriormente se añaden tantos iones $\ce{H+}$ como sean necesarios para que la molécula sea neutra:
+Antes se dedujo que el S actua en este compuesto con número de oxidación de +6, en consecuencia, se llamaría ácido sulfúr**ico**.
 
-* **Ácido sulfúrico:** Ion sulfato ($\ce{SO4^{2-}}$) $+ 2\ce{H+} \rightarrow \ce{H2SO4}$
+### **Formulación** {: .caja-subtitulo2 #no-toc }
 
-* **Ácido nítrico:** Ion nitrato ($\ce{NO3-}$) $+ \ce{H+} \rightarrow \ce{HNO3}$
+A partir de los prefijos y sufijos deducimos el número de oxidación del elemento central. El hidrógeno tiene número de oxidación +1 y el oxígeno -2. Buscamos luego unos coeficientes que hagan que la carga aportada por los oxígenos sea igual y de signo contrario a la aportada por los hidrógenos y el elemento central.
 
-Para determinar la valencia del no metal a partir de la fórmula en una molécula neutra, la suma de los números de oxidación es cero ($\ce{H}$ con +1 y $\ce{O}$ con -2):
+Ejemplo: Ácido perclórico.
 
-$$
-\ce{H2SO4} \quad \rightarrow \quad 2\cdot(+1) + x + 4\cdot(-2) = 0 \quad \rightarrow \quad +2 + x - 8 = 0 \quad \rightarrow \quad x = +6
-$$
-
-*El S tiene valencia +6 (sufijo -ico). Es el ácido sulfúrico.*
 
 ### **B. Nomenclatura de hidrógeno** {: .caja-subtitulo2 #no-toc }
 
