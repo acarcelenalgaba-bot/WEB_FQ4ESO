@@ -317,20 +317,17 @@ Ejemplo: $\quad \ce{H2SO4}$
 
 ### **4.2 Oxisales** {: .caja-subtitulo}
 
-Las **oxisales** son compuestos ternarios constituidos por un no metal, oxígeno y un metal. Se obtienen de la neutralización de un oxoácido con un hidróxido, de tal forma que se sustituyen los hidrógenos del primero por el metal del segundo.
+Las **oxisales** son compuestos formados estructuralmente por un catión (siempre un metal o ion $\ce{NH4^+}$, amonio) y un anión que proviene del ácido oxoácido correspondiente.
 
-$$
-\ce{HNO3 + NaOH \rightarrow NaNO3 \;(oxisal) + H2O}
-$$
+Vamos a ver como se forma el anión a partir del ácido:
 
-Pueden considerarse compuestos binarios formados por un catión (procedente del hidróxido) y un anión (procedente del oxoácido).
+![...](imagenes/tema03/oxisales.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
 
-### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
+### **Formulación de las sales** {: .caja-subtitulo2 #no-toc }
 
 Para **formularlas**, primero se escribe el catión y luego el anión. Al leer la fórmula, el orden seguido es el inverso. Las cargas de los iones se intercambian, simplificando si llegase el caso.
 
-Se utilizan los mismo prefijos que en los oxoácidos sustituyento **ato** por **ico** e **ito** por **oso**.
-
+Se utilizan los mismo prefijos que en los oxoácidos sustituyento **-ato** por **-ico** e **-ito** por **-oso** y perdiendo el nombre de ácido.
 
 | Oxoácido | Anión | N.O. Grupo 17 | N.O. Grupo 16 | N.O. Grupo 15 | N.O. Grupo 14 |
 | ----: | ----- |  ----- | ----- | ----- | ----- |
@@ -339,10 +336,15 @@ Se utilizan los mismo prefijos que en los oxoácidos sustituyento **ato** por **
 |     **Ácido ... oso** | **... ito** | +3 | +4 | +3 | +2 |
 | **Ácido hipo ... oso** |**hipo ... ito** | +1 | +2 | | |
 
+Ejemplos:
 
 * **Nitrato de sodio:** ion nitrato ($\ce{NO3-}$) + ion sodio ($\ce{Na+}$) $\ce{\rightarrow Na+ + NO3-  = NaNO3}$
 
 * **Sulfato de calcio:** ion sulfato ($\ce{SO4^{2-}}$) + ion calcio $\ce{Ca^{2+}}$ $\ce{\rightarrow Ca^{2+} + SO4^{2-} = Ca2(SO4)2 = CaSO4}$
+
+* **Fosfato de hierro(II):** ion fosfato ($\ce{PO4^{3-}}$) + ion hierro(II) $\ce{Fe^{2+}}$ $\ce{\rightarrow Fe^{2+} + PO4^{3-} = Fe3(PO4)2 }$
+
+### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
 Para **nombrarlas** hay que nombrar el anión y añadirle el nombre del catión indicando su valencia entre paréntesis y en números romanos, si tiene más de una.
 
