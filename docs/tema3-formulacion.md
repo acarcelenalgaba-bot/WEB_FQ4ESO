@@ -388,7 +388,7 @@ Se van leyendo los prefijos del compuesto de izquierda a derecha pero invertimos
 
 **Ejemplo**: $\quad$  dihidrogeno(heptaoxidodicromato) $\quad \rightarrow \quad \ce{H2Cr2O7}$
 
-### **Ejemplos comparativa** {: .caja-subtitulo2 #no-toc }
+### **Ejemplos comparativa de ambas nomenclaturas** {: .caja-subtitulo2 #no-toc }
 
 | Fórmula | Tradicional | Nomenclatura de hidrógeno | 
 | ----- | ----- | ----- | 
