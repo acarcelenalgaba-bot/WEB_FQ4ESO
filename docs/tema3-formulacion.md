@@ -299,7 +299,7 @@ Para aprender a formular este tipo de compuestos hay que conocer los números de
 | Halógenos | 17 | +1, +3, +5, +7 |
 | Ánfígenos | 16 |+2, +4, +6 |
 | Grupo del N | 15 |+3, +5 |
-| Grupo del C | 14 |+4 | 
+| Grupo del C | 14 |+2, +4| 
 
  Al darnos la fórmula del ácido tenemos que deducir el número de oxidación del elemento central X (+n), que será igual al doble de oxígenos que tenga menos los hidrógenos. 
 
@@ -324,35 +324,45 @@ Antes se dedujo que el S actua en este compuesto con número de oxidación de +6
 
 ### **Formulación** {: .caja-subtitulo2 #no-toc }
 
-A partir de los prefijos y sufijos deducimos el número de oxidación del elemento central. El hidrógeno tiene número de oxidación +1 y el oxígeno -2. Buscamos luego unos coeficientes que hagan que la carga aportada por los oxígenos sea igual y de signo contrario a la aportada por los hidrógenos y el elemento central.
+A **partir de los prefijos y sufijos** deducimos el número de oxidación del **elemento central**. El hidrógeno tiene número de oxidación $\ce{+ 1}$ y el oxígeno $\ce{- 2}$. Buscamos luego unos coeficientes que hagan que la carga aportada por los oxígenos sea igual y de signo contrario a la aportada por los hidrógenos y el elemento central.
 
 Para calcular la fórmula directa $\ce{HaXbOc}$, se puede usar esta regla mental muy rápida:
 
-Ponemos siempre los elementos en orden: $\ce{H}$ (hidrógeno), $\ce{X}$ (no metal), $\ce{O}$ (oxígeno).
+Ponemos siempre los elementos en orden: $\ce{\quad H}$ (hidrógeno), $\ce{X}$ (no metal), $\ce{O}$ (oxígeno)
 
-El hidrógeno ($\ce{H}$) suele llevar un subíndice fijo según la valencia del no metal: 
+El **hidrógeno** ($\ce{H}$) suele llevar un subíndice fijo según la valencia del no metal: 
 
- - Si la valencia del no metal es **impar** (1, 3, 5, 7), el hidrógeno lleva un 1 (no se pone). Excepción: P, As, Sb con valencia 3 o 5 llevan 3 hidrógenos.
+ - Si la valencia del no metal es **impar** (1, 3, 5, 7), el hidrógeno lleva un 1 (no se pone).
+
+    Excepción: **P**, **As**, **Sb** con valencia 3 o 5 llevan 3 hidrógenos.
  
- - Si la valencia del no metal es **par** (2, 4, 6), el hidrógeno lleva un 2. El oxígeno ($\ce{O}$) se calcula con una cuenta muy fácil:
+ - Si la valencia del no metal es **par** (2, 4, 6), el hidrógeno lleva un 2. 
+
+El **oxígeno** ($\ce{O}$) se calcula con una cuenta muy fácil:
 
 $$\ce{\text{Nº de Oxígenos} = \frac{\text{Valencia del no metal} + \text{Subíndice del Hidrógeno}}{2}}$$
 
-Ejemplo 1: Ácido fosfórico. 
+**Ejemplo 1**: $\quad$ Ácido hipocloroso.
+
+El cloro pertenece al grupo 17 y según el nombre -**hipo ...oso**, actua con el número de oxidación más bajo, $\ce{+ 1}$, luego tendremos que poner un hidrógeno por ser impar. 
+
+Impar $\ce{\rightarrow HClOc}$
+
+$\ce{\text{Nº de Oxígenos} = \dfrac{\text{Valencia del no metal} + \text{Subíndice del Hidrógeno}}{2} = \dfrac{\ce{1 + 1}}{\ce{2}} = 1 }$
+
+Fórmula final: $\ce{\quad HClO}$
+
+**Ejemplo 2**: $\quad$ Ácido fosfórico. 
 
 El fósforo pertenece al grupo 15 y según el nombre -**ico**, actua con número de oxidación $\ce{+ 5}$, a pesar de ser impar es una de las expciones luego tendremos que poner tres hidrógenos. 
 
-Par $\ce{\rightarrow H3POc}$
+Impar $\ce{\rightarrow H3POc}$
 
 $\ce{\text{Nº de Oxígenos} = \dfrac{\text{Valencia del no metal} + \text{Subíndice del Hidrógeno}}{2} = \dfrac{\ce{5 + 3}}{\ce{2}} = 4 }$
 
 Fórmula final: $\ce{\quad H3PO4}$
 
-Ejemplo 2: Ácido perclórico.
-
-![...](imagenes/tema03/acidoperclorico.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
-
-Ejemplo 3: Ácido sulfúrico. 
+**Ejemplo 3**: $\quad$ Ácido sulfúrico. 
 
 El azufre pertenece al grupo 16 y según el nombre -**ico**, actua con número de oxidación $\ce{+ 6}$, luego al ser grupo par tendremos que poner un hidrógeno. 
 
