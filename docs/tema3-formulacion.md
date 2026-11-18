@@ -350,7 +350,7 @@ Impar $\ce{\rightarrow HClOc}$
 
 $\ce{\text{Nº de Oxígenos} = \dfrac{\text{Valencia del no metal} + \text{Subíndice del Hidrógeno}}{2} = \dfrac{\ce{1 + 1}}{\ce{2}} = 1 }$
 
-Fórmula final: $\ce{\quad HClO}$
+Fórmula final: $\quad$ <span style="background-color: #fedbdb; border: 1px solid #2563eb; border-radius: 4px; padding: 2px 6px;">$\ce{HClO}$</span>
 
 **Ejemplo 2**: $\quad$ Ácido fosfórico. 
 
@@ -360,7 +360,7 @@ Impar $\ce{\rightarrow H3POc}$
 
 $\ce{\text{Nº de Oxígenos} = \dfrac{\text{Valencia del no metal} + \text{Subíndice del Hidrógeno}}{2} = \dfrac{\ce{5 + 3}}{\ce{2}} = 4 }$
 
-Fórmula final: $\ce{\quad H3PO4}$
+Fórmula final: $\quad$ <span style="background-color: #fedbdb; border: 1px solid #2563eb; border-radius: 4px; padding: 2px 6px;">$\ce{H3PO4}$</span>
 
 **Ejemplo 3**: $\quad$ Ácido sulfúrico. 
 
@@ -370,15 +370,22 @@ Par $\ce{\rightarrow H2SOc}$
 
 $\ce{\text{Nº de Oxígenos} = \dfrac{\text{Valencia del no metal} + \text{Subíndice del Hidrógeno}}{2} = \dfrac{\ce{6 + 2}}{\ce{2}} = 4 }$
 
-Fórmula final: $\ce{\quad H2SO4}$
+Fórmula final: $\quad$ <span style="background-color: #fedbdb; border: 1px solid #2563eb; border-radius: 4px; padding: 2px 6px;">$\ce{H2SO4}$</span>
 
 ### **B. Nomenclatura de hidrógeno** {: .caja-subtitulo2 #no-toc }
 
-Se nombra primero el hidrógeno (utilizando **-hidrogeno-**, sin acento), indicando su cantidad con prefijos; entre **paréntesis**, a continuación, se nombra el oxígeno (utilizando **-oxido-**, sin acento) y el elemento no metálico acabado en **-ato**.
+Se nombra primero el hidrógeno (utilizando **-hidrogeno-**, sin acento), indicando su cantidad con prefijos; entre **paréntesis**, a continuación, se nombra el oxígeno (utilizando **-oxido-**, sin acento) y el elemento no metálico acabado siempre en **-ato**.
 
 Ejemplo: $\quad \ce{H2SO4}$
 
 ![...](imagenes/tema03/acidosulfurico.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
+
+### **Formulación** {: .caja-subtitulo2 #no-toc }
+
+Se va leyendo los prefijos del compuesto de izquierda a derecha pero invertimos el orden solo entre el no metal y el oxígeno (óxido)
+
+**Ejemplo**: trihidrogeno(tetraoxidofosfato) $\quad \righarrow \quad H3PO4$
+
 
 ### **Ejemplos comparativa** {: .caja-subtitulo2 #no-toc }
 
