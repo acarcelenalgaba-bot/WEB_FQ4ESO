@@ -48,47 +48,77 @@ El paréntesis sigue al nombre sin ningún espacio. En el caso de que el número
 | $\ce{Cl-}$ | cloruro(1-) o cloruro | $\ce{S^{2-}}$ | sulfuro(2-) o sulfuro | 
 | $\ce{F-}$ | fluoruro |  | **Excepción:** | 
 | $\ce{H-}$ | hidruro | $\ce{O^{2-}}$ | óxido | 
-| $\ce{N^{3-}}$ | nitruro | $\ce{O2^{2-}}$ | peróxido o dióxido(2-)\*| 
+| $\ce{N^{3-}}$ | nitruro | $\ce{O2^{2-}}$ | peróxido o dióxido(2-) \*| 
 
-\*Corresponde a lo que se denomina anión homopoliatómico.
+\* Corresponde a lo que se denomina anión homopoliatómico.
 
-<!--- 
 ### **2.3 Aniones poliatómicos** {: .caja-subtitulo}
 
-Los aniones pueden estar formados por más de un elemento. En este caso, su nomenclatura se puede realizar de dos maneras:
+Los aniones pueden estar formados por más de un elemento. En este caso, su nomenclatura y formulación se puede realizar de dos maneras:
 
 ### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
 Se utilizan prefijos y sufijos conforme al número de oxidación con que actúa el elemento que da lugar al anión. Se pueden presentar varios casos, según sea el número de valencias que posea dicho elemento:
 
-| 1 valencia | 2 valencias | 3 valencias | 4 valencias | 
-| ----- | ----- | ----- | ----- | 
-| \-ato | \-ito | hipo- -ito | hipo- -ito | 
-|  | \-ato | \-ito | \-ito | 
-|  |  | \-ato | \-ato | 
-|  |  |  | per- -ato | 
+| Ion | Grupo 17 | Grupo 16 | Grupo 15 | Grupo 14 |
+| ----: | :---: | :---: | :---: | :---: |
+| **per ... ato** | +7 | | | |
+|     **... ato** | +5 | +6 | +5 | +4 |
+|     **... ito** | +3 | +4 | +3 | +2 |
+| **hipo ... ito** | +1 | +2 | | |
 
-Para formularlos, se escribe el no metal con su número de oxidación indicado por el prefijo y sufijo y, a continuación, se añaden tantos oxígenos como sean necesarios, considerando que cada oxígeno añadido aporta dos cargas negativas, para que el ion quede con la mínima carga negativa posible.
+Para **obtener el numero de oxidación** del no metal se debe tener en cuenta que la suma de los estados de oxidación por cada elemento debe ser igual a la carga dada y que el oxígeno siempre actúa con estado de oxidación $\ce{- 2}$ y el hidrógeno, en caso de existir, actua con número de oxidación $\ce{+ 1}$.
 
-*Por ejemplo, el cloro tiene cuatro valencias, así que tendríamos las posibilidades:*
+**Ejemplos**: 
 
-* **hipoclorito:** +1
+<div style="text-align: center; margin: 20px 0;">
 
-* **clorito:** +3
+<span style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; display: inline-block; vertical-align: middle; background: #fafaf1; margin-right: 12px;">$\ce{ClO4^-}$</span> $\ce{\quad \rightarrow \quad X(Cl) + 4 * (-2) = - 1 \quad \rightarrow \quad X(Cl) = - 1 + 8 = + 7 }$ 
 
-  $\ce{Cl^{3+} + O^{2-} = ClO+}$ *(Incorrecto)*
+</div>
 
-  $\ce{Cl^{3+} + (O2)^{4-} = ClO2-}$ *(Correcto)*
+El cloro (grupo 17) actúa con estado de oxidación +7 luego el compuesto recibe el nombre de ion <strong>perclorato</strong>.
 
-* **clorato:** +5
+<div style="text-align: center; margin: 20px 0;">
 
-  $\ce{Cl^{5+} + O^{2-} = ClO^{3+}}$ *(Incorrecto)*
+<span style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; display: inline-block; vertical-align: middle; background: #fafaf1; margin-right: 12px;">$\ce{PO3^{-3}}$</span> $\ce{\quad \rightarrow \quad X(P) + 3 * (-2) = - 3 \quad \rightarrow \quad X(P) = - 3 + 6 = + 3 }$ 
 
-  $\ce{Cl^{5+} + (O2)^{4-} = ClO2+}$ *(Incorrecto)*
+</div>
 
-  $\ce{Cl^{5+} + (O3)^{6-} = ClO3-}$ *(Correcto)*
+El fósforo (grupo 15) actúa con estado de oxidación +3 luego el compuesto recibe el nombre de ion **fosfito**.
 
-* **perclorato:** +7
+<div style="text-align: center; margin: 20px 0;">
+
+<span style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; display: inline-block; vertical-align: middle; background: #fafaf1; margin-right: 12px;">$\ce{HSO4^{-}}$</span> $\ce{\quad \rightarrow \quad X(S) + 1 (+ 1) + 4 * (-2) = - 1 \quad \rightarrow \quad X(S) = - 2 + 8 = + 6 }$ 
+
+</div>
+
+El azufre (grupo 16) actúa con estado de oxidación +6 luego el compuesto recibe el nombre de ion <strong>hidrogenosulfato</strong>.
+
+### **Formulación tradicional** {: .caja-subtitulo2 #no-toc }
+
+Para **formularlos**, se escribe el no metal con su número de oxidación indicado por el prefijo y sufijo y, a continuación, se añaden tantos oxígenos como sean necesarios, considerando que cada oxígeno añadido aporta dos cargas negativas ($\ce{- 2}$), para que el ion quede con la mínima carga negativa posible.
+
+Por ejemplo, el cloro tiene cuatro valencias, así que tendríamos las posibilidades:
+
+**hipoclorito:** cloro (+1) $\quad$ **clorito:** cloro (+3) $\quad$ **clorato:** cloro (+5) $\quad$ **perclorato:** cloro (+7)
+
+Ejemplos para obtener el anión:
+
+Ion clorito: el cloro actúa con valencia 3. 
+
+  $\ce{Cl^{3+} + O^{2-} = ClO+}$ (<span style="color:red">Incorrecto</span>)
+
+  $\ce{Cl^{3+} + (O2)^{4-} = ClO2-}$ (Correcto)
+
+Ion clorito: el cloro actúa con valencia 5. 
+
+  $\ce{Cl^{5+} + O^{2-} = ClO^{3+}}$ (<span style="color:red">Incorrecto</span>)
+
+  $\ce{Cl^{5+} + (O2)^{4-} = ClO2+}$ (<span style="color:red">Incorrecto</span>)
+
+  $\ce{Cl^{5+} + (O3)^{6-} = ClO3-}$ (Correcto)
+
 
 ### **B. Nomenclatura de hidrógeno (adición)** {: .caja-subtitulo2 #no-toc }
 
@@ -97,14 +127,14 @@ Indicamos primero el número de oxígenos con prefijos numéricos seguido de la 
 Si hay hidrógenos, esta palabra se antepone al resto, que se pone entre paréntesis:
 
 $$
-\text{[Palabra hidrogeno-]} + \text{[Prefijo numeral (oxido)]} + \text{[Nombre del elemento-ato]} + \text{(carga ion)}
+\text{Palabra hidrogeno-} + \text{(Prefijo numeral (oxido)} + \text{Nombre del elemento-ato}) + \text{(carga ion)}
 $$
 
-**Ejemplo:**
+**Ejemplo:** $\quad \ce{HCO3-} \quad \rightarrow \quad \text{hidrogeno(trioxidocarbonato)(1-)} $
 
-$$
-\ce{HCO3-} \quad \rightarrow \quad \text{hidrogeno(trioxidocarbonato)(1-)}
-$$
+![...](imagenes/tema03/bicarbonato.png){ style="display: block; margin: 0 auto; width: 80%; height: auto;" }
+
+Otros **ejemplos**: 
 
 | Ion | Nomenclatura | Ion | Nomenclatura | 
 | ----- | ----- | ----- | ----- | 
@@ -115,17 +145,18 @@ $$
 **Importante**
 
 - No hay que dejar espacio entre el nombre y el paréntesis.
-- En palabras compuestas como los aniones poliatómicos y las sales y ácidos que de ellos se deriven, pierden la tilde todos los elementos tónicos menos el último. Así pues, en estos casos no deberás acentuar las partículas *oxido-* ni *hidrogeno-*.
+- En palabras compuestas como los aniones poliatómicos y las sales y ácidos que de ellos se deriven, pierden la tilde todos los elementos. Así pues, en estos casos no deberás acentuar las partículas *oxido-* ni *hidrogeno-*.
 
--->
 
 ## **3. Compuestos binarios**
 
 Los compuestos binarios se forman por la unión de dos elementos, que se escriben de la siguiente forma:
 
-$$
-\ce{M_x X_y}
-$$
+<div style="text-align: center; margin: 20px 0;">
+
+<span style="border: 2px solid #34077d; border-radius: 12px; padding: 15px; display: inline-block; vertical-align: middle; background: #f7c8b9; margin-right: 12px;">$\ce{M_x X_y}$</span>
+
+</div>
 
 * $\ce{M}$: El elemento menos electronegativo se escribe a la izquierda.
 
@@ -295,9 +326,41 @@ Antes se dedujo que el S actua en este compuesto con número de oxidación de +6
 
 A partir de los prefijos y sufijos deducimos el número de oxidación del elemento central. El hidrógeno tiene número de oxidación +1 y el oxígeno -2. Buscamos luego unos coeficientes que hagan que la carga aportada por los oxígenos sea igual y de signo contrario a la aportada por los hidrógenos y el elemento central.
 
-Ejemplo: Ácido perclórico.
+Para calcular la fórmula directa $\ce{HaXbOc}$, se puede usar esta regla mental muy rápida:
+
+Ponemos siempre los elementos en orden: $\ce{H}$ (hidrógeno), $\ce{X}$ (no metal), $\ce{O}$ (oxígeno).
+
+El hidrógeno ($\ce{H}$) suele llevar un subíndice fijo según la valencia del no metal: 
+
+ - Si la valencia del no metal es **impar** (1, 3, 5, 7), el hidrógeno lleva un 1 (no se pone). Excepción: P, As, Sb con valencia 3 o 5 llevan 3 hidrógenos.
+ 
+ - Si la valencia del no metal es **par** (2, 4, 6), el hidrógeno lleva un 2. El oxígeno ($\ce{O}$) se calcula con una cuenta muy fácil:
+
+$$\ce{\text{Nº de Oxígenos} = \frac{\text{Valencia del no metal} + \text{Subíndice del Hidrógeno}}{2}}$$
+
+Ejemplo 1: Ácido fosfórico. 
+
+El fósforo pertenece al grupo 15 y según el nombre -**ico**, actua con número de oxidación $\ce{+ 5}$, a pesar de ser impar es una de las expciones luego tendremos que poner tres hidrógenos. 
+
+Par $\ce{\rightarrow H3POc}$
+
+$\ce{\text{Nº de Oxígenos} = \dfrac{\text{Valencia del no metal} + \text{Subíndice del Hidrógeno}}{2} = \dfrac{\ce{5 + 3}}{\ce{2}} = 4 }$
+
+Fórmula final: $\ce{\quad H3PO4}$
+
+Ejemplo 2: Ácido perclórico.
 
 ![...](imagenes/tema03/acidoperclorico.png){ style="display: block; margin: 0 auto; width: 50%; height: auto;" }
+
+Ejemplo 3: Ácido sulfúrico. 
+
+El azufre pertenece al grupo 16 y según el nombre -**ico**, actua con número de oxidación $\ce{+ 6}$, luego al ser grupo par tendremos que poner un hidrógeno. 
+
+Par $\ce{\rightarrow H2SOc}$
+
+$\ce{\text{Nº de Oxígenos} = \dfrac{\text{Valencia del no metal} + \text{Subíndice del Hidrógeno}}{2} = \dfrac{\ce{6 + 2}}{\ce{2}} = 4 }$
+
+Fórmula final: $\ce{\quad H2SO4}$
 
 ### **B. Nomenclatura de hidrógeno** {: .caja-subtitulo2 #no-toc }
 
