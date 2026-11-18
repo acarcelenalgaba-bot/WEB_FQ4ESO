@@ -382,10 +382,11 @@ Ejemplo: $\quad \ce{H2SO4}$
 
 ### **Formulación** {: .caja-subtitulo2 #no-toc }
 
-Se va leyendo los prefijos del compuesto de izquierda a derecha pero invertimos el orden solo entre el no metal y el oxígeno (óxido)
+Se van leyendo los prefijos del compuesto de izquierda a derecha pero invertimos el orden entre el no metal y el oxígeno (óxido)
 
-**Ejemplo**: trihidrogeno(tetraoxidofosfato) $\quad \righarrow \quad H3PO4$
+**Ejemplo**: $\quad$  trihidrogeno(tetraoxidofosfato) $\quad \rightarrow \quad \ce{H3PO4}$
 
+**Ejemplo**: $\quad$  dihidrogeno(heptaoxidodicromato) $\quad \rightarrow \quad \ce{H2Cr2O7}$
 
 ### **Ejemplos comparativa** {: .caja-subtitulo2 #no-toc }
 
