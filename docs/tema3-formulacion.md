@@ -433,11 +433,11 @@ Para **formularlas**, primero se escribe el catión y luego el anión. Al leer l
 Se utilizan los mismo prefijos que en los oxoácidos sustituyento **-ico** por **-ato** e **-oso** por **-ito** y perdiendo el nombre de ácido.
 
 | Oxoácido | Anión | Grupo 17 | Grupo 16 | Grupo 15 | Grupo 14 |
-| ----: | ----- |  :---: | :---: | :---: | :---: |
-| **Ácido $\quad$ per ... ico** | **per ... ato** | +7 | | | |
-|     **Ácido $\quad$ ... ico** | **... ato** | +5 | +6 | +5 | +4 |
-|     **Ácido $\quad$ ... oso** | **... ito** | +3 | +4 | +3 | +2 |
-| **Ácido $\quad$ hipo ... oso** |**hipo ... ito** | +1 | +2 | | |
+| ----: | ----: |  :---: | :---: | :---: | :---: |
+| **Ácido per ... ico** | **per ... ato** | +7 | | | |
+|     **Ácido ... ico** | **... ato** | +5 | +6 | +5 | +4 |
+|     **Ácido ... oso** | **... ito** | +3 | +4 | +3 | +2 |
+| **Ácido hipo ... oso** |**hipo ... ito** | +1 | +2 | | |
 
 Ejemplos:
 
