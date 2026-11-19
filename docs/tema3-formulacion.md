@@ -331,10 +331,10 @@ La IUPAC admite la nomenclatura tradicional, que utiliza el nombre genérico de 
 
 | Ácido | Grupo 17 | Grupo 16 | Grupo 15 | Grupo 14 |
 | ----: | ----- | ----- | ----- | ----- |
-| **Ácido per ... ico** | +7 | | | |
-|     **Ácido ... ico** | +5 | +6 | +5 | +4 |
-|     **Ácido ... oso** | +3 | +4 | +3 | +2 |
-| **Ácido hipo ... oso** | +1 | +2 | | |
+| **Ácido $\quad$ per ... ico** | +7 | | | |
+|     **Ácido $\quad$ ... ico** | +5 | +6 | +5 | +4 |
+|     **Ácido $\quad$ ... oso** | +3 | +4 | +3 | +2 |
+| **Ácido $\quad$ hipo ... oso** | +1 | +2 | | |
 
 Ejemplo: $\quad \ce{H2SO4}$
 
@@ -430,10 +430,10 @@ Se utilizan los mismo prefijos que en los oxoácidos sustituyento **-ico** por *
 
 | Oxoácido | Anión | N.O. Grupo 17 | N.O. Grupo 16 | N.O. Grupo 15 | N.O. Grupo 14 |
 | ----: | ----- |  ----- | ----- | ----- | ----- |
-| **Ácido per ... ico** | **per ... ato** | +7 | | | |
-|     **Ácido ... ico** | **... ato** | +5 | +6 | +5 | +4 |
-|     **Ácido ... oso** | **... ito** | +3 | +4 | +3 | +2 |
-| **Ácido hipo ... oso** |**hipo ... ito** | +1 | +2 | | |
+| **Ácido $\quad$ per ... ico** | **per ... ato** | +7 | | | |
+|     **Ácido $\quad$ ... ico** | **... ato** | +5 | +6 | +5 | +4 |
+|     **Ácido $\quad$ ... oso** | **... ito** | +3 | +4 | +3 | +2 |
+| **Ácido $\quad$ hipo ... oso** |**hipo ... ito** | +1 | +2 | | |
 
 Ejemplos:
 
