@@ -190,6 +190,22 @@ En este curso utilizaremos dos tipos de nomenclatura:
 
 ![...](imagenes/tema03/oxidodesodio.png){ style="display: block; margin: 0 auto; width: 30%; height: auto;" }
 
+En la formulación inorgánica según las recomendaciones de la IUPAC, varios elementos modifican su raíz (generalmente acortándose o recuperando su raíz latina) al añadir el sufijo -**uro**.
+
+**1. No metales y semimetales (los más habituales)**
+
+Estos son los cambios principales que aparecen en hidruros y sales binarias:
+
+| Elemento | Nombre con -uro | Modificación que sufre |
+| ----- | ----- | ----- | 
+| Azufre (S) | Sulfuro | Cambia por completo su raíz por la latina (sulfur) | 
+| Nitrógeno (N) | Nitruro | Pierde la terminación -ógeno |
+| Hidrógeno (H) | Hidruro | Pierde la terminación -ógeno |
+| Carbono (C) | Carburo | Pierde la terminación -ono |
+| Fósforo (P) | Fosfuro | Pierde -oro (la forma fosforuro está en desuso) |
+| Arsénico (As) | Arseniuro | Pierde -co y conserva la i antes del sufijo |
+| Telurio (Te) | Telururo | Pierde la i final de la raíz (también se acepta teluro como nombre del elemento) |
+
 | Compuesto | Nomenclatura (Prefijos) | Nomenclatura (Nº de oxidación) | 
 | ----- | ----- | ----- | 
 | $\ce{Li2O}$ | óxido de dilitio | óxido de litio | 
