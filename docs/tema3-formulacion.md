@@ -111,7 +111,7 @@ Ion clorito: el cloro actúa con valencia 3.
 
   $\ce{Cl^{3+} + (O2)^{4-} = ClO2-}$ (Correcto)
 
-Ion clorito: el cloro actúa con valencia 5. 
+Ion clorato: el cloro actúa con valencia 5. 
 
   $\ce{Cl^{5+} + O^{2-} = ClO^{3+}}$ (<span style="color:red">Incorrecto</span>)
 
