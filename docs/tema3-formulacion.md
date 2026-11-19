@@ -120,15 +120,18 @@ Ion **clorato**: el cloro actúa con valencia $\ce{+ 5}$.
   $\ce{Cl^{5+} + (O3)^{6-} = ClO3-}$ (Correcto)
 
 
-### **B. Nomenclatura de hidrógeno (adición)** {: .caja-subtitulo2 #no-toc }
+### **B. Nomenclatura de hidrógeno** {: .caja-subtitulo2 #no-toc }
 
 Indicamos primero el número de oxígenos con prefijos numéricos seguido de la palabra **oxido**. A continuación, el elemento de la izquierda acabado en el sufijo **-ato**. Por último, indicamos la carga entre paréntesis al final y sin separación.
 
 Si hay hidrógenos, esta palabra se antepone al resto, que se pone entre paréntesis:
 
-$$
-\text{Palabra hidrogeno-} + \text{(Prefijo numeral (oxido)} + \text{Nombre del elemento-ato}) + \text{(carga ion)}
-$$
+<div style="text-align: center; margin: 20px 0;">
+
+<span style="border: 2px solid #e3daf1; border-radius: 12px; padding: 15px; display: inline-block; vertical-align: middle; background: #e2fcf3; margin-right: 12px;">$\ce{\quad Palabra hidrogeno + (Prefijo numeral (oxido) + Nombre del elemento-ato) + (carga ion)}$</span>
+
+</div>
+
 
 **Ejemplo:** $\quad \ce{HCO3-} \quad \rightarrow \quad \text{hidrogeno(trioxidocarbonato)(1-)} $
 
@@ -439,13 +442,19 @@ Se utilizan los mismo prefijos que en los oxoácidos sustituyento **-ico** por *
 |     **Ácido ... oso** | **... ito** | +3 | +4 | +3 | +2 |
 | **Ácido hipo ... oso** |**hipo ... ito** | +1 | +2 | | |
 
-Ejemplos:
+**Ejemplos**:
 
-* **Nitrato de sodio:** $\quad$ ion nitrato ($\ce{NO3-}$) + ion sodio ($\ce{Na+}$) $\ce{\rightarrow Na+ + NO3-  = NaNO3}$
+* **Nitrato de sodio:** 
 
-* **Sulfato de calcio:** $\quad$ ion sulfato ($\ce{SO4^{2-}}$) + ion calcio $\ce{Ca^{2+}}$ $\ce{\rightarrow Ca^{2+} + SO4^{2-} = Ca2(SO4)2 = CaSO4}$
+$\quad$ ion nitrato ($\ce{NO3-}$) + ion sodio ($\ce{Na+}$) $\ce{\rightarrow Na+ + NO3-  = NaNO3}$
 
-* **Fosfato de hierro(II):** $\quad$ ion fosfato ($\ce{PO4^{3-}}$) + ion hierro(II) $\ce{Fe^{2+}}$ $\ce{\rightarrow Fe^{2+} + PO4^{3-} = Fe3(PO4)2 }$
+* **Sulfato de calcio:** 
+
+$\quad$ ion sulfato ($\ce{SO4^{2-}}$) + ion calcio $\ce{Ca^{2+}}$ $\ce{\rightarrow Ca^{2+} + SO4^{2-} = Ca2(SO4)2 = CaSO4}$
+
+* **Fosfato de hierro(II):** 
+
+$\quad$ ion fosfato ($\ce{PO4^{3-}}$) + ion hierro(II) $\ce{Fe^{2+}}$ $\ce{\rightarrow Fe^{2+} + PO4^{3-} = Fe3(PO4)2 }$
 
 ### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
