@@ -101,17 +101,17 @@ Para **formularlos**, se escribe el no metal con su número de oxidación indica
 
 Por ejemplo, el cloro tiene cuatro valencias, así que tendríamos las posibilidades:
 
-**hipoclorito:** cloro (+1) $\quad$ **clorito:** cloro (+3) $\quad$ **clorato:** cloro (+5) $\quad$ **perclorato:** cloro (+7)
+**hipoclorito:** cloro ($\ce{+ 1}$) $\quad$ **clorito:** cloro ($\ce{+ 3}$) $\quad$ **clorato:** cloro ($\ce{+ 5}$) $\quad$ **perclorato:** cloro ($\ce{+ 7}$)
 
-Ejemplos para obtener el anión:
+**Ejemplos para obtener el anión**:
 
-Ion clorito: el cloro actúa con valencia $\ce{+ 3}$. 
+Ion **clorito**: el cloro actúa con valencia $\ce{+ 3}$. 
 
   $\ce{Cl^{3+} + O^{2-} = ClO+}$ (<span style="color:red">Incorrecto</span>)
 
   $\ce{Cl^{3+} + (O2)^{4-} = ClO2-}$ (Correcto)
 
-Ion clorato: el cloro actúa con valencia $\ce{+ 5}$. 
+Ion **clorato**: el cloro actúa con valencia $\ce{+ 5}$. 
 
   $\ce{Cl^{5+} + O^{2-} = ClO^{3+}}$ (<span style="color:red">Incorrecto</span>)
 
