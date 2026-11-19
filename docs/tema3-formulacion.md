@@ -206,6 +206,8 @@ Estos son los cambios principales que aparecen en hidruros y sales binarias:
 | Arsénico (As) | Arseniuro | Pierde -co y conserva la i antes del sufijo |
 | Telurio (Te) | Telururo | Pierde la i final de la raíz (también se acepta teluro como nombre del elemento) |
 
+**Ejemplos comparativa de ambas nomenclaturas**
+
 | Compuesto | Nomenclatura (Prefijos) | Nomenclatura (Nº de oxidación) | 
 | ----- | ----- | ----- | 
 | $\ce{Li2O}$ | óxido de dilitio | óxido de litio | 
