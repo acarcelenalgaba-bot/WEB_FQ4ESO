@@ -264,11 +264,15 @@ Los **hidróxidos** son compuestos que se obtienen por la unión de un metal con
 
 El hidrógeno actúa con estado de oxidación +1 y los no metales con su respectivo estado de oxidación negativo. Los compuestos de los grupos 13, 14 y 15 son hidruros y tienen nombre común aceptado.
 
-| Fórmula (Grupo 13) | Nombre | Nombre común |  Fórmula  (Grupo 14)| Nombre | Nombre común |  Fórmula  (Grupo 15)| Nombre | Nombre común | 
-| ----- | ----- | ----- | ----- | ----- | -----  | ----- | ----- | ----- | 
-| $\ce{BH3}$ | trihidruro de boro | borano |  $\ce{CH4}$ | tetrahidruro de carbono | metano | $\ce{NH3}$ | trihidruro de nitrógeno | amoniaco | 
-|||| $\ce{SiH4}$ | tetrahidruro de silicio | silano | $\ce{AsH3}$ | trihidruro de arsénico | arsano | 
-||||||| $\ce{PH3}$ | trihidruro de fósforo | fosfano | 
+| Grupo | Fórmula | Nombre | Nombre común |
+| :---: | :---: | :--- | :--- |
+| **13** | $\ce{BH3}$ | trihidruro de boro | borano |
+| **14** | $\ce{CH4}$ | tetrahidruro de carbono | metano |
+| **14** | $\ce{SiH4}$ | tetrahidruro de silicio | silano |
+| **15** | $\ce{NH3}$ | trihidruro de nitrógeno | amoniaco |
+| **15** | $\ce{AsH3}$ | trihidruro de arsénico | arsano |
+| **15** | $\ce{PH3}$ | trihidruro de fósforo | fosfano |
+
 
 El resto, grupos 16 y 17, son **X-uros de hidrógeno**.
 
