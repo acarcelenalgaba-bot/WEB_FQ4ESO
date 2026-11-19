@@ -334,7 +334,7 @@ Ejemplo: $\quad \ce{H2Cr2O7} \quad \rightarrow \quad \dfrac {\ce{7 (O) * 2 - 2 (
 La IUPAC admite la nomenclatura tradicional, que utiliza el nombre genérico de **ácido** y los prefijos y sufijos **hipo- -oso**, **-oso**, **-ico** y **per- -ico**.
 
 | Ácido | Grupo 17 | Grupo 16 | Grupo 15 | Grupo 14 |
-| ----: | ----- | ----- | ----- | ----- |
+| ----: | :---: | :---: | :---: | :---: |
 | **Ácido $\quad$ per ... ico** | +7 | | | |
 |     **Ácido $\quad$ ... ico** | +5 | +6 | +5 | +4 |
 |     **Ácido $\quad$ ... oso** | +3 | +4 | +3 | +2 |
@@ -432,8 +432,8 @@ Para **formularlas**, primero se escribe el catión y luego el anión. Al leer l
 
 Se utilizan los mismo prefijos que en los oxoácidos sustituyento **-ico** por **-ato** e **-oso** por **-ito** y perdiendo el nombre de ácido.
 
-| Oxoácido | Anión | N.O. Grupo 17 | N.O. Grupo 16 | N.O. Grupo 15 | N.O. Grupo 14 |
-| ----: | ----- |  ----- | ----- | ----- | ----- |
+| Oxoácido | Anión | Grupo 17 | Grupo 16 | Grupo 15 | Grupo 14 |
+| ----: | ----- |  :---: | :---: | :---: | :---: |
 | **Ácido $\quad$ per ... ico** | **per ... ato** | +7 | | | |
 |     **Ácido $\quad$ ... ico** | **... ato** | +5 | +6 | +5 | +4 |
 |     **Ácido $\quad$ ... oso** | **... ito** | +3 | +4 | +3 | +2 |
