@@ -426,7 +426,7 @@ Vamos a ver como se forma el anión a partir del ácido:
 
 Para **formularlas**, primero se escribe el catión y luego el anión. Al leer la fórmula, el orden seguido es el inverso. Las cargas de los iones se intercambian, simplificando si llegase el caso.
 
-Se utilizan los mismo prefijos que en los oxoácidos sustituyento **-ato** por **-ico** e **-ito** por **-oso** y perdiendo el nombre de ácido.
+Se utilizan los mismo prefijos que en los oxoácidos sustituyento **-ico** por **-ato** e **-oso** por **-ito** y perdiendo el nombre de ácido.
 
 | Oxoácido | Anión | N.O. Grupo 17 | N.O. Grupo 16 | N.O. Grupo 15 | N.O. Grupo 14 |
 | ----: | ----- |  ----- | ----- | ----- | ----- |
