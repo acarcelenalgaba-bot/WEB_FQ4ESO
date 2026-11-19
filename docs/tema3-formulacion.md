@@ -441,11 +441,11 @@ Se utilizan los mismo prefijos que en los oxoácidos sustituyento **-ico** por *
 
 Ejemplos:
 
-* **Nitrato de sodio:** ion nitrato ($\ce{NO3-}$) + ion sodio ($\ce{Na+}$) $\ce{\rightarrow Na+ + NO3-  = NaNO3}$
+* **Nitrato de sodio:** $\quad$ ion nitrato ($\ce{NO3-}$) + ion sodio ($\ce{Na+}$) $\ce{\rightarrow Na+ + NO3-  = NaNO3}$
 
-* **Sulfato de calcio:** ion sulfato ($\ce{SO4^{2-}}$) + ion calcio $\ce{Ca^{2+}}$ $\ce{\rightarrow Ca^{2+} + SO4^{2-} = Ca2(SO4)2 = CaSO4}$
+* **Sulfato de calcio:** $\quad$ ion sulfato ($\ce{SO4^{2-}}$) + ion calcio $\ce{Ca^{2+}}$ $\ce{\rightarrow Ca^{2+} + SO4^{2-} = Ca2(SO4)2 = CaSO4}$
 
-* **Fosfato de hierro(II):** ion fosfato ($\ce{PO4^{3-}}$) + ion hierro(II) $\ce{Fe^{2+}}$ $\ce{\rightarrow Fe^{2+} + PO4^{3-} = Fe3(PO4)2 }$
+* **Fosfato de hierro(II):** $\quad$ ion fosfato ($\ce{PO4^{3-}}$) + ion hierro(II) $\ce{Fe^{2+}}$ $\ce{\rightarrow Fe^{2+} + PO4^{3-} = Fe3(PO4)2 }$
 
 ### **A. Nomenclatura tradicional** {: .caja-subtitulo2 #no-toc }
 
